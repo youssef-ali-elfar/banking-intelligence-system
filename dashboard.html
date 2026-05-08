@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏦 Banking Intelligence Dashboard — DS405</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card: #1e293b;
+            --border: #334155;
+            --blue: #3b82f6;
+            --green: #22c55e;
+            --red: #ef4444;
+            --yellow: #f59e0b;
+            --purple: #a855f7;
+            --cyan: #06b6d4;
+            --text: #f1f5f9;
+            --muted: #94a3b8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+            padding: 24px 32px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        header h1 {
+            font-size: 1.6rem;
+            font-weight: 700;
+        }
+
+        header h1 span {
+            color: var(--blue);
+        }
+
+        header p {
+            color: var(--muted);
+            font-size: 0.85rem;
+            margin-top: 4px;
+        }
+
+        .badge {
+            background: var(--blue);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .container {
+            padding: 24px 32px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        /* KPI Cards */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .kpi {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .kpi::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            border-radius: 12px 0 0 12px;
+        }
+
+        .kpi.blue::before {
+            background: var(--blue);
+        }
+
+        .kpi.green::before {
+            background: var(--green);
+        }
+
+        .kpi.red::before {
+            background: var(--red);
+        }
+
+        .kpi.yellow::before {
+            background: var(--yellow);
+        }
+
+        .kpi-label {
+            font-size: 0.78rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .kpi-value {
+            font-size: 2rem;
+            font-weight: 700;
+            margin: 8px 0 4px;
+        }
+
+        .kpi-sub {
+            font-size: 0.8rem;
+            color: var(--muted);
+        }
+
+        .kpi.blue .kpi-value {
+            color: var(--blue);
+        }
+
+        .kpi.green .kpi-value {
+            color: var(--green);
+        }
+
+        .kpi.red .kpi-value {
+            color: var(--red);
+        }
+
+        .kpi.yellow .kpi-value {
+            color: var(--yellow);
+        }
+
+        /* Charts Grid */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .chart-card {
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .chart-card.wide {
+            grid-column: span 2;
+        }
+
+        .chart-card.full {
+            grid-column: span 3;
+        }
+
+        .chart-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: var(--text);
+        }
+
+        .chart-title span {
+            color: var(--muted);
+            font-weight: 400;
+            font-size: 0.8rem;
+            margin-left: 8px;
+        }
+
+        canvas {
+            max-height: 240px;
+        }
+
+        /* Table */
+        .table-wrap {
+            overflow-x: auto;
+            margin-top: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.82rem;
+        }
+
+        th {
+            background: #0f172a;
+            color: var(--muted);
+            text-align: left;
+            padding: 10px 12px;
+            text-transform: uppercase;
+            font-size: 0.72rem;
+            letter-spacing: 0.5px;
+        }
+
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        tr:hover td {
+            background: rgba(59, 130, 246, 0.05);
+        }
+
+        .pill {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 20px;
+            font-size: 0.72rem;
+            font-weight: 600;
+        }
+
+        .pill.completed {
+            background: #14532d;
+            color: #86efac;
+        }
+
+        .pill.pending {
+            background: #713f12;
+            color: #fde68a;
+        }
+
+        .pill.failed {
+            background: #7f1d1d;
+            color: #fca5a5;
+        }
+
+        .pill.reversed {
+            background: #4c1d95;
+            color: #c4b5fd;
+        }
+
+        .pill.fraud {
+            background: #7f1d1d;
+            color: #fca5a5;
+        }
+
+        .pill.legit {
+            background: #14532d;
+            color: #86efac;
+        }
+
+        /* Feature importance */
+        .feat-bar {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+            font-size: 0.82rem;
+        }
+
+        .feat-name {
+            width: 160px;
+            color: var(--muted);
+        }
+
+        .feat-track {
+            flex: 1;
+            height: 8px;
+            background: #0f172a;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .feat-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 1s ease;
+        }
+
+        .feat-pct {
+            width: 45px;
+            text-align: right;
+            font-weight: 600;
+        }
+
+        footer {
+            text-align: center;
+            padding: 24px;
+            color: var(--muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border);
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div>
+            <h1>🏦 Banking <span>Intelligence</span> Dashboard</h1>
+            <p>DS 405 — Big Data Analysis | Pharos University in Alexandria</p>
+        </div>
+        <span class="badge">LIVE ANALYTICS</span>
+    </header>
+
+    <div class="container">
+
+        <!-- KPI Cards -->
+        <div class="kpi-grid">
+            <div class="kpi blue">
+                <div class="kpi-label">Total Transactions</div>
+                <div class="kpi-value">1,864</div>
+                <div class="kpi-sub">After cleaning</div>
+            </div>
+            <div class="kpi green">
+                <div class="kpi-label">Total Volume</div>
+                <div class="kpi-value">47.2M</div>
+                <div class="kpi-sub">EGP processed</div>
+            </div>
+            <div class="kpi red">
+                <div class="kpi-label">Fraud Detected</div>
+                <div class="kpi-value">108</div>
+                <div class="kpi-sub">5.8% of transactions</div>
+            </div>
+            <div class="kpi yellow">
+                <div class="kpi-label">Avg Transaction</div>
+                <div class="kpi-value">25.3K</div>
+                <div class="kpi-sub">EGP average amount</div>
+            </div>
+        </div>
+
+        <!-- Row 1 -->
+        <div class="charts-grid">
+
+            <div class="chart-card wide">
+                <div class="chart-title">Monthly Transaction Volume <span>EGP (Millions)</span></div>
+                <canvas id="monthlyChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-title">Transaction Types</div>
+                <canvas id="typeChart"></canvas>
+            </div>
+
+            <div class="chart-card wide">
+                <div class="chart-title">Spend by City <span>EGP</span></div>
+                <canvas id="cityChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-title">Transaction Status</div>
+                <canvas id="statusChart"></canvas>
+            </div>
+
+            <div class="chart-card full">
+                <div class="chart-title">Spending by Category <span>EGP Millions</span></div>
+                <canvas id="categoryChart" style="max-height:200px"></canvas>
+            </div>
+
+        </div>
+
+        <!-- AI Section -->
+        <div class="charts-grid">
+            <div class="chart-card">
+                <div class="chart-title">🤖 Fraud vs Legitimate</div>
+                <canvas id="fraudChart"></canvas>
+            </div>
+            <div class="chart-card wide">
+                <div class="chart-title">🔍 AI Feature Importance <span>Random Forest</span></div>
+                <div id="featImportance" style="margin-top:8px"></div>
+            </div>
+        </div>
+
+        <!-- Transactions Table -->
+        <div class="chart-card" style="margin-bottom:24px">
+            <div class="chart-title">📋 Recent Transactions <span>Sample of 20</span></div>
+            <div class="table-wrap">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Transaction ID</th>
+                            <th>Amount (EGP)</th>
+                            <th>Type</th>
+                            <th>Status</th>
+                            <th>City</th>
+                            <th>AI Verdict</th>
+                        </tr>
+                    </thead>
+                    <tbody id="txTable"></tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        Banking Transactions Intelligence System &nbsp;|&nbsp; DS 405 Big Data Analysis &nbsp;|&nbsp; Pharos University
+        in Alexandria
+    </footer>
+
+    <script>
+        const COLORS = ['#3b82f6', '#22c55e', '#ef4444', '#f59e0b', '#a855f7', '#06b6d4', '#f97316', '#84cc16'];
+
+        const chartDefaults = {
+            plugins: { legend: { labels: { color: '#94a3b8', font: { size: 11 } } } },
+            scales: {
+                x: { ticks: { color: '#64748b' }, grid: { color: '#1e293b' } },
+                y: { ticks: { color: '#64748b' }, grid: { color: '#1e293b' } }
+            }
+        };
+
+        // Monthly
+        new Chart(document.getElementById('monthlyChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                datasets: [{
+                    label: 'Volume (M EGP)',
+                    data: [3.12, 3.32, 4.71, 3.82, 4.03, 4.19, 3.68, 4.78, 3.48, 3.88, 3.89, 4.27],
+                    backgroundColor: COLORS[0] + '99', borderColor: COLORS[0], borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: { ...chartDefaults, plugins: { ...chartDefaults.plugins } }
+        });
+
+        // Transaction Types (Doughnut)
+        new Chart(document.getElementById('typeChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Transfer', 'Credit', 'Withdrawal', 'Payment', 'Debit'],
+                datasets: [{ data: [400, 378, 374, 368, 344], backgroundColor: COLORS, borderWidth: 0 }]
+            },
+            options: { plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8', padding: 8, font: { size: 10 } } } }, cutout: '65%' }
+        });
+
+        // City
+        new Chart(document.getElementById('cityChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Cairo', 'Mansoura', 'Aswan', 'Giza', 'Luxor', 'Alexandria', 'Unknown'],
+                datasets: [{
+                    label: 'Total Spend (EGP)',
+                    data: [9281749, 8820569, 7662541, 7533130, 6533502, 6317555, 1008834],
+                    backgroundColor: COLORS, borderRadius: 4
+                }]
+            },
+            options: { ...chartDefaults, plugins: { legend: { display: false } } }
+        });
+
+        // Status (Pie)
+        new Chart(document.getElementById('statusChart'), {
+            type: 'pie',
+            data: {
+                labels: ['Completed', 'Pending', 'Failed', 'Reversed'],
+                datasets: [{
+                    data: [1418, 183, 176, 87],
+                    backgroundColor: ['#22c55e99', '#f59e0b99', '#ef444499', '#a855f799'],
+                    borderColor: ['#22c55e', '#f59e0b', '#ef4444', '#a855f7'],
+                    borderWidth: 1
+                }]
+            },
+            options: { plugins: { legend: { position: 'bottom', labels: { color: '#94a3b8', padding: 8, font: { size: 10 } } } } }
+        });
+
+        // Category (Horizontal Bar)
+        new Chart(document.getElementById('categoryChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Travel', 'Electronics', 'Healthcare', 'Fuel', 'Restaurant', 'Entertainment', 'Groceries', 'Utilities'],
+                datasets: [{
+                    label: 'Amount (M EGP)',
+                    data: [6.48, 6.41, 6.22, 5.95, 5.83, 5.57, 5.48, 5.22],
+                    backgroundColor: COLORS, borderRadius: 4
+                }]
+            },
+            options: { ...chartDefaults, indexAxis: 'y', plugins: { legend: { display: false } } }
+        });
+
+        // Fraud Doughnut
+        new Chart(document.getElementById('fraudChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Legitimate (94.2%)', 'Fraud (5.8%)'],
+                datasets: [{
+                    data: [1756, 108],
+                    backgroundColor: ['#22c55e99', '#ef444499'],
+                    borderColor: ['#22c55e', '#ef4444'], borderWidth: 2
+                }]
+            },
+            options: {
+                cutout: '70%',
+                plugins: {
+                    legend: { position: 'bottom', labels: { color: '#94a3b8', padding: 10, font: { size: 11 } } }
+                }
+            }
+        });
+
+        // Feature Importance Bars
+        const features = [
+            { name: 'amount', pct: 37.1, color: '#ef4444' },
+            { name: 'amount_to_balance', pct: 22.3, color: '#ef4444' },
+            { name: 'balance', pct: 10.2, color: '#f59e0b' },
+            { name: 'age', pct: 8.0, color: '#f59e0b' },
+            { name: 'month', pct: 6.0, color: '#3b82f6' },
+            { name: 'day_of_week', pct: 4.4, color: '#3b82f6' },
+            { name: 'city_enc', pct: 4.2, color: '#94a3b8' },
+            { name: 'tx_type_enc', pct: 3.7, color: '#94a3b8' },
+            { name: 'account_type_enc', pct: 3.1, color: '#94a3b8' },
+            { name: 'is_weekend', pct: 1.0, color: '#64748b' },
+            { name: 'hour', pct: 0.0, color: '#334155' },
+            { name: 'is_night', pct: 0.0, color: '#334155' },
+        ];
+        const fi = document.getElementById('featImportance');
+        features.forEach(f => {
+            fi.innerHTML += `
+    <div class="feat-bar">
+      <div class="feat-name">${f.name}</div>
+      <div class="feat-track"><div class="feat-fill" style="width:${f.pct * 2.5}%;background:${f.color}"></div></div>
+      <div class="feat-pct" style="color:${f.color}">${f.pct}%</div>
+    </div>`;
+        });
+
+        // Table
+        const txData = [
+            { id: 'TXN_000001', amount: 23460.82, type: 'credit', status: 'completed', city: 'Mansoura', fraud: 0 },
+            { id: 'TXN_000002', amount: 27444.72, type: 'payment', status: 'completed', city: 'Mansoura', fraud: 0 },
+            { id: 'TXN_000006', amount: 33221.92, type: 'payment', status: 'reversed', city: 'Giza', fraud: 1 },
+            { id: 'TXN_000013', amount: 46669.22, type: 'withdrawal', status: 'reversed', city: 'Alexandria', fraud: 1 },
+            { id: 'TXN_000016', amount: 44732.93, type: 'transfer', status: 'reversed', city: 'Cairo', fraud: 1 },
+            { id: 'TXN_000003', amount: 15064.55, type: 'debit', status: 'completed', city: 'Mansoura', fraud: 0 },
+            { id: 'TXN_000004', amount: 5551.79, type: 'payment', status: 'completed', city: 'Aswan', fraud: 0 },
+            { id: 'TXN_000005', amount: 14570.69, type: 'payment', status: 'completed', city: 'Cairo', fraud: 0 },
+            { id: 'TXN_000010', amount: 2226.34, type: 'transfer', status: 'pending', city: 'Aswan', fraud: 0 },
+            { id: 'TXN_000011', amount: 23236.50, type: 'debit', status: 'pending', city: 'Cairo', fraud: 0 },
+        ];
+        const tbody = document.getElementById('txTable');
+        txData.forEach(t => {
+            tbody.innerHTML += `<tr>
+    <td style="font-family:monospace;color:#60a5fa">${t.id}</td>
+    <td style="font-weight:600">${t.amount.toLocaleString('en-EG', { minimumFractionDigits: 2 })} EGP</td>
+    <td style="text-transform:capitalize">${t.type}</td>
+    <td><span class="pill ${t.status}">${t.status}</span></td>
+    <td>${t.city}</td>
+    <td><span class="pill ${t.fraud ? 'fraud' : 'legit'}">${t.fraud ? '🚨 FRAUD' : '✅ Legit'}</span></td>
+  </tr>`;
+        });
+    </script>
+</body>
+
+</html>

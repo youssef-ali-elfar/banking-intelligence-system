@@ -1,0 +1,2021 @@
+transaction_id,account_id,amount,tx_type,timestamp,status,merchant,category
+TXN_000001,ACC_00003,23460.82,credit,2024-12-27 00:00:00,completed,Knight PLC,healthcare
+TXN_000002,ACC_00312,27444.72,,2024-03-17 00:00:00,completed,"Brennan, Thomas and Dennis",entertainment
+TXN_000003,ACC_00025,15064.55,debit,2024-05-01 00:00:00,completed,Williams-Juarez,fuel
+TXN_000004,ACC_00256,5551.79,payment,2024-02-02 00:00:00,completed,Brown LLC,healthcare
+TXN_000005,ACC_00001,14570.69,payment,2024-03-14 00:00:00,completed,Williams and Sons,restaurant
+TXN_000006,ACC_00044,33221.92,payment,2024-04-05 00:00:00,reversed,"Velez, Ward and Harrison",electronics
+TXN_000007,ACC_00260,27208.66,payment,2024-09-26 00:00:00,completed,Keith-Williams,fuel
+TXN_000008,ACC_00192,31787.18,transfer,2024-01-23 00:00:00,completed,"Nguyen, Padilla and Boyd",utilities
+TXN_000009,ACC_00054,17246.68,payment,2024-02-04 00:00:00,completed,Davenport-Baker,utilities
+TXN_000010,ACC_00280,2226.34,transfer,2024-03-09 00:00:00,pending,"Hudson, Bennett and Gray",travel
+TXN_000011,ACC_00246,23236.5,debit,2024-12-16 00:00:00,pending,"Valdez, Houston and Black",electronics
+TXN_000012,ACC_00104,1858.82,credit,2024-08-22 00:00:00,pending,Kaufman-Walker,groceries
+TXN_000013,ACC_00264,46669.22,withdrawal,2024-06-10 00:00:00,reversed,Gomez-Parrish,fuel
+TXN_000014,ACC_00098,1840.67,transfer,2024-05-09 00:00:00,completed,Sparks-Eaton,groceries
+TXN_000015,ACC_00064,16602.92,transfer,2024-12-01 00:00:00,completed,Shaw and Sons,restaurant
+TXN_000016,ACC_00198,44732.93,transfer,2024-08-13 00:00:00,reversed,Martin-Jones,fuel
+TXN_000017,ACC_00266,24881.19,transfer,2024-12-20 00:00:00,pending,"Campbell, Hernandez and Moore",restaurant
+TXN_000018,ACC_00093,21536.05,payment,2024-02-10 00:00:00,completed,"Love, Wilson and Hall",electronics
+TXN_000019,ACC_00152,-16402.72,transfer,2024-02-10 00:00:00,completed,Cortez-Olson,restaurant
+TXN_000020,ACC_00180,34491.34,withdrawal,2024-03-26 00:00:00,completed,Mendoza-Garza,utilities
+TXN_000021,ACC_00141,49907.55,credit,2024-11-10 00:00:00,completed,"Whitaker, Johnson and Williams",restaurant
+TXN_000022,ACC_00082,25659.17,credit,2024-07-05 00:00:00,completed,"Vargas, Taylor and Hunt",fuel
+TXN_000023,ACC_00121,6320.24,transfer,2024-01-18 00:00:00,completed,"Thomas, Jackson and Nielsen",groceries
+TXN_000024,ACC_00231,7680.37,transfer,2024-11-05 00:00:00,completed,"Mullen, Greene and Elliott",electronics
+TXN_000025,ACC_00188,6893.38,withdrawal,2024-10-20 00:00:00,completed,Johns Ltd,entertainment
+TXN_000026,ACC_00014,48026.4,debit,2024-05-07 00:00:00,completed,"Nicholson, Valentine and Robinson",restaurant
+TXN_000027,ACC_00134,5896.87,withdrawal,2024-10-14 00:00:00,completed,"Haney, Dillon and Jackson",entertainment
+TXN_000028,ACC_00252,45824.78,debit,2024-12-21 00:00:00,completed,Burke-Norton,electronics
+TXN_000029,ACC_00228,8641.09,credit,2024-08-19 00:00:00,pending,Hanson PLC,utilities
+TXN_000030,ACC_00034,17377.79,payment,2024-12-07 00:00:00,completed,Jackson-Jennings,entertainment
+TXN_000031,ACC_00090,35593.34,transfer,2024-03-21 00:00:00,completed,Carlson-Jones,electronics
+TXN_000032,ACC_00122,39605.36,withdrawal,2024-04-12 00:00:00,completed,Cruz-Rodriguez,utilities
+TXN_000033,ACC_00283,40185.05,debit,2024-08-27 00:00:00,completed,Mills PLC,electronics
+TXN_000034,ACC_00246,15471.44,payment,2024-02-03 00:00:00,completed,"Barnes, Hernandez and Davis",restaurant
+TXN_000035,ACC_00163,3696.8,credit,2024-10-21 00:00:00,completed,Valenzuela-Greene,utilities
+TXN_000036,ACC_00283,43899.23,payment,2024-03-06 00:00:00,completed,"Gordon, Wilson and Olson",travel
+TXN_000037,ACC_00029,25148.16,credit,2024-08-09 00:00:00,completed,Winters PLC,entertainment
+TXN_000038,ACC_00116,8106.73,transfer,2024-03-25 00:00:00,failed,Prince Ltd,entertainment
+TXN_000039,ACC_00283,12537.76,transfer,2024-02-10 00:00:00,completed,"Reynolds, Fisher and Golden",entertainment
+TXN_000040,ACC_00258,26678.57,debit,2024-11-10 00:00:00,completed,"Moreno, Perez and Lang",travel
+TXN_000041,ACC_00310,32940.06,transfer,2024-03-28 00:00:00,pending,Bell-Ballard,groceries
+TXN_000042,ACC_00296,4070.33,transfer,2024-01-15 00:00:00,completed,"Johnston, Coleman and Scott",restaurant
+TXN_000043,ACC_00255,31953.17,payment,2024-11-12 00:00:00,completed,Kent Inc,entertainment
+TXN_000044,ACC_00208,12251.45,transfer,2024-09-04 00:00:00,completed,George-Stephens,groceries
+TXN_000045,ACC_00248,21985.88,withdrawal,2024-03-21 00:00:00,completed,Lopez-Fletcher,travel
+TXN_000046,ACC_00164,43075.64,transfer,2024-06-09 00:00:00,reversed,Lane Inc,travel
+TXN_000047,ACC_00055,25753.86,transfer,2024-07-08 00:00:00,completed,"Smith, Pena and Watts",electronics
+TXN_000048,ACC_00073,22485.3,credit,2024-05-16 00:00:00,completed,Ortiz-Rodriguez,restaurant
+TXN_000049,ACC_00082,20912.56,transfer,2024-11-11 00:00:00,failed,Pearson-King,utilities
+TXN_000050,ACC_00256,38158.44,payment,2024-04-07 00:00:00,completed,"Henderson, Diaz and Hill",entertainment
+TXN_000051,ACC_00202,1168.58,payment,2024-09-11 00:00:00,completed,"Sanders, Harris and Arnold",healthcare
+TXN_000052,ACC_00025,29171.37,credit,2024-04-20 00:00:00,completed,"Olson, Wood and Peters",fuel
+TXN_000053,ACC_00056,26839.17,withdrawal,2024-05-26 00:00:00,completed,Hinton-Lane,entertainment
+TXN_000054,ACC_00188,38195.2,credit,2024-07-06 00:00:00,completed,"Sanders, Taylor and Shields",healthcare
+TXN_000055,ACC_00038,27665.61,withdrawal,2024-07-04 00:00:00,completed,Adkins Group,entertainment
+TXN_000056,ACC_00061,34023.13,debit,2024-11-15 00:00:00,reversed,"Avery, Garcia and Romero",restaurant
+TXN_000057,ACC_00174,39746.91,payment,2024-07-10 00:00:00,failed,Owen-Mendez,travel
+TXN_000058,ACC_00206,30127.12,payment,2024-04-11 00:00:00,completed,"Mann, Martin and Oconnell",groceries
+TXN_000059,ACC_00243,35682.46,payment,2024-03-11 00:00:00,completed,Brock and Sons,travel
+TXN_000060,ACC_00164,46569.12,debit,2024-06-16 00:00:00,completed,Frost-Graham,entertainment
+TXN_000061,ACC_00261,16825.31,payment,2024-10-30 00:00:00,completed,Baker LLC,entertainment
+TXN_000062,ACC_00189,40789.28,transfer,2024-08-31 00:00:00,completed,Lynch Ltd,restaurant
+TXN_000063,ACC_00014,15390.81,payment,2024-10-25 00:00:00,completed,Arias-Morales,healthcare
+TXN_000064,ACC_00088,29180.33,payment,2024-01-27 00:00:00,completed,"Meyer, Dawson and Harper",restaurant
+TXN_000065,ACC_00125,41084.85,credit,2024-03-16 00:00:00,completed,Bowman Group,electronics
+TXN_000066,ACC_00161,956.68,withdrawal,2024-04-07 00:00:00,completed,Harris Ltd,healthcare
+TXN_000067,ACC_00242,25095.96,credit,2024-07-29 00:00:00,completed,"Mitchell, Johnson and Greene",healthcare
+TXN_000068,ACC_00245,16259.23,payment,2024-10-14 00:00:00,completed,"Hale, Gilbert and Craig",travel
+TXN_000069,ACC_00176,45607.09,payment,2024-08-23 00:00:00,completed,Allen-Smith,entertainment
+TXN_000070,ACC_00127,24214.16,transfer,2024-11-08 00:00:00,completed,Miller LLC,healthcare
+TXN_000071,ACC_00107,38561.0,withdrawal,2024-06-01 00:00:00,completed,Gomez-Foster,utilities
+TXN_000072,ACC_00141,46685.68,transfer,2024-10-13 00:00:00,completed,"Gonzalez, Smith and Padilla",restaurant
+TXN_000073,ACC_00075,40920.69,transfer,2024-07-21 00:00:00,completed,Dunn Ltd,electronics
+TXN_000074,ACC_00132,46201.24,withdrawal,2024-06-26 00:00:00,completed,"Herman, Bailey and Richmond",entertainment
+TXN_000075,ACC_00071,34811.6,credit,2024-10-14 00:00:00,completed,Perez-Mccarty,healthcare
+TXN_000076,ACC_00272,2547.76,debit,2024-05-04 00:00:00,completed,Spears-Andrews,groceries
+TXN_000077,ACC_00242,20670.94,credit,2024-02-21 00:00:00,completed,Thompson-Hunter,travel
+TXN_000078,ACC_00081,48226.29,withdrawal,2024-01-03 00:00:00,completed,"Jones, Phillips and Arroyo",fuel
+TXN_000079,ACC_00148,32530.43,transfer,2024-09-01 00:00:00,completed,"Frye, Walter and Li",groceries
+TXN_000080,ACC_00119,32618.41,payment,2024-02-15 00:00:00,completed,"Wright, Ramos and Bennett",groceries
+TXN_000081,ACC_00091,20900.07,credit,2024-03-30 00:00:00,reversed,Carrillo-Todd,restaurant
+TXN_000082,ACC_00149,9323.72,credit,2024-09-10 00:00:00,completed,Maldonado-Mosley,electronics
+TXN_000083,ACC_00279,14235.24,payment,2024-06-20 00:00:00,completed,Olson LLC,travel
+TXN_000084,ACC_00099,23406.36,credit,2024-09-15 00:00:00,completed,Reyes and Sons,fuel
+TXN_000085,ACC_00096,12870.67,credit,2024-11-27 00:00:00,completed,"Haynes, Mcbride and Gutierrez",entertainment
+TXN_000086,ACC_00099,-33723.31,debit,2024-10-17 00:00:00,completed,Black-Smith,restaurant
+TXN_000087,ACC_00045,25768.88,withdrawal,2024-08-06 00:00:00,completed,Wright-Davis,travel
+TXN_000088,ACC_00128,23877.93,credit,2024-03-12 00:00:00,completed,"Goodman, Peterson and Spencer",healthcare
+TXN_000089,ACC_00169,37690.3,transfer,2024-08-16 00:00:00,completed,Woods LLC,groceries
+TXN_000090,ACC_00121,32687.63,credit,2024-05-13 00:00:00,completed,Shannon LLC,fuel
+TXN_000091,ACC_00258,7994.24,transfer,2024-06-06 00:00:00,completed,Valentine Ltd,entertainment
+TXN_000092,ACC_00113,30735.13,debit,2024-07-07 00:00:00,completed,Porter and Sons,fuel
+TXN_000093,ACC_00282,18687.51,withdrawal,2024-11-06 00:00:00,pending,Moss LLC,healthcare
+TXN_000094,ACC_00306,34020.29,credit,2024-05-06 00:00:00,completed,Perez and Sons,utilities
+TXN_000095,ACC_00058,45863.06,credit,2024-02-09 00:00:00,pending,"Kelly, Maxwell and Wilson",healthcare
+TXN_000096,ACC_00085,26837.64,transfer,2024-10-20 00:00:00,failed,Lowe Ltd,fuel
+TXN_000097,ACC_00299,34017.96,withdrawal,2024-02-29 00:00:00,completed,Austin-Duran,fuel
+TXN_000098,ACC_00263,22677.08,,2024-01-29 00:00:00,completed,"Rubio, Charles and Watson",groceries
+TXN_000099,ACC_00158,23124.29,credit,2024-10-13 00:00:00,completed,Vasquez-Galloway,groceries
+TXN_000100,ACC_00024,28919.78,withdrawal,2024-04-21 00:00:00,completed,"Melton, Henry and Joyce",electronics
+TXN_000101,ACC_00036,49706.24,,2024-10-04 00:00:00,completed,"Ramirez, Walker and Ray",restaurant
+TXN_000102,ACC_00216,38450.91,transfer,2024-04-02 00:00:00,reversed,Fox Group,restaurant
+TXN_000103,ACC_00194,43482.32,withdrawal,2024-08-17 00:00:00,completed,Ayers-Johnson,travel
+TXN_000104,ACC_00061,43015.73,debit,2024-11-30 00:00:00,reversed,Long-Parks,restaurant
+TXN_000105,ACC_00115,6376.08,credit,2024-09-27 00:00:00,pending,Bryant Inc,entertainment
+TXN_000106,ACC_00279,33678.26,withdrawal,2024-08-25 00:00:00,completed,"Holmes, Stewart and Smith",healthcare
+TXN_000107,ACC_00080,23036.66,transfer,2024-05-06 00:00:00,completed,"Clark, Carpenter and Nguyen",electronics
+TXN_000108,ACC_00215,40475.81,payment,2024-01-17 00:00:00,pending,"Hensley, Lopez and Baker",groceries
+TXN_000109,ACC_00052,10312.02,payment,2024-05-03 00:00:00,completed,Ruiz-Austin,groceries
+TXN_000110,ACC_00206,37029.65,withdrawal,2024-05-05 00:00:00,completed,White-Coleman,healthcare
+TXN_000111,ACC_00149,7015.38,debit,2024-01-29 00:00:00,pending,Haynes-Watson,utilities
+TXN_000112,ACC_00165,29899.9,debit,2024-10-22 00:00:00,completed,Ramirez-White,travel
+TXN_000113,ACC_00212,26067.34,transfer,2024-12-04 00:00:00,completed,Krause Ltd,travel
+TXN_000114,ACC_00285,33940.72,,2024-11-16 00:00:00,completed,Olsen Ltd,utilities
+TXN_000115,ACC_00269,33570.41,,2024-11-25 00:00:00,completed,Brock-Peters,restaurant
+TXN_000116,ACC_00095,15001.43,payment,2024-03-17 00:00:00,completed,Gonzalez-Marsh,healthcare
+TXN_000117,ACC_00074,42878.49,withdrawal,2024-06-02 00:00:00,failed,"Hernandez, Shaffer and Thompson",restaurant
+TXN_000118,ACC_00069,27868.77,withdrawal,2024-08-01 00:00:00,completed,Taylor-Barry,healthcare
+TXN_000119,ACC_00231,32338.83,transfer,2024-06-18 00:00:00,completed,"Holmes, Le and Floyd",healthcare
+TXN_000120,ACC_00310,13430.39,payment,2024-01-27 00:00:00,completed,King-Garrison,electronics
+TXN_000121,ACC_00301,40234.48,payment,2024-04-06 00:00:00,completed,Ross Ltd,healthcare
+TXN_000122,ACC_00008,15166.37,debit,2024-06-19 00:00:00,failed,Brown LLC,electronics
+TXN_000123,ACC_00310,45722.92,debit,2024-09-02 00:00:00,completed,Combs-Davis,healthcare
+TXN_000124,ACC_00145,16087.53,withdrawal,2024-10-09 00:00:00,completed,"Cook, Ward and Castro",utilities
+TXN_000125,ACC_00263,13085.47,withdrawal,2024-06-06 00:00:00,completed,Cooper-Jenkins,fuel
+TXN_000126,ACC_00190,45717.38,transfer,2024-06-12 00:00:00,completed,Dillon-Mccarty,healthcare
+TXN_000127,ACC_00284,820.83,payment,2024-03-15 00:00:00,completed,Ray Ltd,restaurant
+TXN_000128,ACC_00169,7629.05,debit,2024-05-31 00:00:00,completed,"Ryan, Krause and Mitchell",healthcare
+TXN_000129,ACC_00173,-27536.62,transfer,2024-09-12 00:00:00,pending,Nunez-Freeman,fuel
+TXN_000130,ACC_00236,36982.31,debit,2024-11-24 00:00:00,completed,"Griffin, Miller and Austin",utilities
+TXN_000131,ACC_00280,7006.53,withdrawal,2024-03-27 00:00:00,completed,Welch-Thomas,groceries
+TXN_000132,ACC_00039,1700.85,credit,2024-09-25 00:00:00,pending,Davidson LLC,restaurant
+TXN_000133,ACC_00119,42128.81,credit,2024-03-11 00:00:00,completed,Welch-Duncan,groceries
+TXN_000134,ACC_00192,25291.59,credit,2024-04-21 00:00:00,completed,Miller LLC,fuel
+TXN_000135,ACC_00004,24397.84,payment,2024-12-03 00:00:00,completed,Edwards Ltd,groceries
+TXN_000136,ACC_00141,26475.59,payment,2024-01-09 00:00:00,reversed,Page-Jacobs,groceries
+TXN_000137,ACC_00221,,debit,2024-09-14 00:00:00,completed,Nelson-Wallace,electronics
+TXN_000138,ACC_00099,7453.39,payment,2024-09-25 00:00:00,completed,Adkins-Meyer,utilities
+TXN_000139,ACC_00041,39748.87,transfer,2024-05-16 00:00:00,reversed,Gutierrez-White,fuel
+TXN_000140,ACC_00116,12167.96,transfer,2024-10-16 00:00:00,completed,Martinez and Sons,electronics
+TXN_000141,ACC_00017,49583.82,credit,2024-11-30 00:00:00,completed,"King, Manning and Brady",restaurant
+TXN_000142,ACC_00005,23805.49,debit,2024-10-09 00:00:00,completed,Jackson Inc,restaurant
+TXN_000143,ACC_00290,39220.97,credit,2024-11-26 00:00:00,failed,Brown Group,groceries
+TXN_000144,ACC_00291,10578.74,withdrawal,2024-04-27 00:00:00,completed,"Brown, Wise and Warren",electronics
+TXN_000145,ACC_00279,46279.98,payment,2024-12-16 00:00:00,completed,Garcia PLC,travel
+TXN_000146,ACC_00107,792.75,payment,2024-06-10 00:00:00,completed,Miller Group,restaurant
+TXN_000147,ACC_00289,14970.85,debit,2024-02-09 00:00:00,completed,Perez-Rojas,restaurant
+TXN_000148,ACC_00170,44827.32,withdrawal,2024-12-12 00:00:00,pending,Sims-Anderson,travel
+TXN_000149,ACC_00257,36210.94,transfer,2024-12-18 00:00:00,completed,Johnson Ltd,restaurant
+TXN_000150,ACC_00175,41935.35,,2024-04-28 00:00:00,pending,Dalton-Nguyen,restaurant
+TXN_000151,ACC_00140,1490.99,withdrawal,2024-06-16 00:00:00,completed,Mcdonald-Pitts,utilities
+TXN_000152,ACC_00222,47057.73,debit,2024-10-10 00:00:00,completed,Dunn-Taylor,restaurant
+TXN_000153,ACC_00152,38610.65,debit,2024-02-13 00:00:00,completed,"Ryan, Garza and Bryant",electronics
+TXN_000154,ACC_00079,7719.51,withdrawal,2024-05-17 00:00:00,completed,"Fields, Elliott and Mills",electronics
+TXN_000155,ACC_00158,269.71,withdrawal,2024-02-16 00:00:00,completed,"Ferguson, Stout and Olson",entertainment
+TXN_000156,ACC_00096,6634.03,withdrawal,2024-02-22 00:00:00,completed,Ballard Group,restaurant
+TXN_000157,ACC_00182,1322.83,payment,2024-02-22 00:00:00,completed,Diaz-Green,utilities
+TXN_000158,ACC_00212,626.91,withdrawal,2024-07-16 00:00:00,pending,Smith-Mills,healthcare
+TXN_000159,ACC_00195,26060.02,debit,2024-10-19 00:00:00,completed,Cooper Group,entertainment
+TXN_000160,ACC_00033,24661.27,debit,2024-05-17 00:00:00,completed,"Smith, Weeks and Arroyo",restaurant
+TXN_000161,ACC_00040,24216.72,transfer,2024-06-02 00:00:00,completed,Evans-Cannon,healthcare
+TXN_000162,ACC_00101,24795.16,withdrawal,2024-11-16 00:00:00,completed,Harper-Robles,entertainment
+TXN_000163,ACC_00171,47441.68,payment,2024-01-04 00:00:00,completed,"Brooks, Jenkins and Castro",utilities
+TXN_000164,ACC_00305,16743.46,debit,2024-08-13 00:00:00,completed,Wright-Espinoza,healthcare
+TXN_000165,ACC_00204,15716.02,transfer,2024-09-02 00:00:00,completed,"Price, Gray and Baker",fuel
+TXN_000166,ACC_00167,39100.9,withdrawal,2024-10-21 00:00:00,completed,Garrett-Black,restaurant
+TXN_000167,ACC_00289,5703.25,debit,2024-07-05 00:00:00,completed,"Aguirre, Cohen and Mitchell",travel
+TXN_000168,ACC_00014,38383.22,withdrawal,2024-12-15 00:00:00,failed,"Patel, Adams and Lopez",healthcare
+TXN_000169,ACC_00036,39886.3,withdrawal,2024-08-12 00:00:00,completed,White LLC,travel
+TXN_000170,ACC_00130,15148.6,debit,2024-11-20 00:00:00,completed,Walsh PLC,restaurant
+TXN_000171,ACC_00307,22458.85,withdrawal,2024-02-07 00:00:00,completed,Nelson-Dean,restaurant
+TXN_000172,ACC_00185,1847.89,payment,2024-10-05 00:00:00,completed,Flores and Sons,electronics
+TXN_000173,ACC_00182,38450.01,debit,2024-02-25 00:00:00,completed,Booker Inc,groceries
+TXN_000174,ACC_00205,49180.57,transfer,2024-10-15 00:00:00,reversed,Compton LLC,restaurant
+TXN_000175,ACC_00133,537.28,debit,2024-02-24 00:00:00,completed,Martinez-Gonzales,healthcare
+TXN_000176,ACC_00238,18712.24,payment,2024-08-16 00:00:00,completed,Hall and Sons,travel
+TXN_000177,ACC_00248,49885.16,credit,2024-06-25 00:00:00,completed,Snyder LLC,electronics
+TXN_000178,ACC_00073,41567.57,transfer,2024-02-29 00:00:00,completed,Collins-Lloyd,fuel
+TXN_000179,ACC_00179,26060.53,withdrawal,2024-04-15 00:00:00,completed,Ford-Moody,fuel
+TXN_000180,ACC_00023,3368.05,credit,2024-06-12 00:00:00,completed,Miller-Christensen,utilities
+TXN_000181,ACC_00085,5477.04,debit,2024-11-27 00:00:00,completed,Brown Group,travel
+TXN_000182,ACC_00237,27996.85,debit,2024-06-18 00:00:00,pending,Daniels and Sons,travel
+TXN_000183,ACC_00222,32027.54,withdrawal,2024-04-05 00:00:00,completed,Huang LLC,healthcare
+TXN_000184,ACC_00200,29614.24,credit,2024-08-18 00:00:00,completed,Clayton-Martinez,healthcare
+TXN_000185,ACC_00033,37618.75,payment,2024-05-22 00:00:00,completed,"Wright, Wise and Ramos",travel
+TXN_000186,ACC_00235,16305.99,credit,2024-07-06 00:00:00,completed,"Vang, Gonzalez and Moss",fuel
+TXN_000187,ACC_00161,48296.16,payment,2024-09-27 00:00:00,completed,Boyd and Sons,restaurant
+TXN_000188,ACC_00181,5720.46,withdrawal,2024-10-27 00:00:00,completed,Price-Ali,entertainment
+TXN_000189,ACC_00069,29512.52,transfer,2024-11-10 00:00:00,completed,Moore-Chandler,entertainment
+TXN_000190,ACC_00073,9160.4,payment,2024-02-29 00:00:00,completed,"Pineda, Meyer and King",travel
+TXN_000191,ACC_00096,19191.66,,2024-10-21 00:00:00,completed,"Evans, Ward and Williams",travel
+TXN_000192,ACC_00148,8351.61,debit,2024-10-11 00:00:00,completed,"Robinson, Rodriguez and Chen",fuel
+TXN_000193,ACC_00184,2690.03,credit,2024-11-13 00:00:00,completed,Smith-Bauer,healthcare
+TXN_000194,ACC_00259,48191.82,withdrawal,2024-07-15 00:00:00,completed,"Wilson, Mccormick and Smith",fuel
+TXN_000195,ACC_00228,35510.02,withdrawal,2024-07-31 00:00:00,completed,Perkins Ltd,groceries
+TXN_000196,ACC_00141,14611.57,debit,2024-04-22 00:00:00,completed,Barker-Moore,travel
+TXN_000197,ACC_00254,28286.87,payment,2024-08-22 00:00:00,completed,Wright Group,electronics
+TXN_000198,ACC_00188,38757.9,payment,2024-05-17 00:00:00,pending,Parks LLC,groceries
+TXN_000199,ACC_00218,27322.2,credit,2024-08-13 00:00:00,completed,"Brown, Kelly and Moore",healthcare
+TXN_000200,ACC_00017,43741.74,withdrawal,2024-06-01 00:00:00,completed,"Moody, Martinez and Hall",electronics
+TXN_000201,ACC_00061,43265.87,debit,2024-08-12 00:00:00,completed,"Kramer, Sherman and Trujillo",utilities
+TXN_000202,ACC_00220,30516.99,debit,2024-12-29 00:00:00,completed,Quinn-Smith,healthcare
+TXN_000203,ACC_00292,40273.97,transfer,2024-04-15 00:00:00,completed,Howard-Taylor,travel
+TXN_000204,ACC_00150,48950.22,transfer,2024-06-14 00:00:00,completed,Washington Group,electronics
+TXN_000205,ACC_00211,48138.97,credit,2024-03-10 00:00:00,reversed,"Phillips, Terry and Lopez",travel
+TXN_000206,ACC_00128,43305.28,debit,2024-12-25 00:00:00,completed,Stephens LLC,healthcare
+TXN_000207,ACC_00073,19641.11,payment,2024-12-12 00:00:00,completed,"Mcdonald, Dillon and George",restaurant
+TXN_000208,ACC_00048,22605.07,withdrawal,2024-07-11 00:00:00,completed,"Martin, Schmidt and Cole",entertainment
+TXN_000209,ACC_00189,46817.44,withdrawal,2024-12-21 00:00:00,reversed,Weaver-Gibson,utilities
+TXN_000210,ACC_00048,133.63,withdrawal,2024-10-24 00:00:00,completed,"Hunter, Gross and Andrade",utilities
+TXN_000211,ACC_00204,39785.94,,2024-02-02 00:00:00,reversed,"Vincent, Parsons and Allen",healthcare
+TXN_000212,ACC_00146,13434.16,transfer,2024-09-10 00:00:00,completed,"Brown, Coffey and Fuentes",travel
+TXN_000213,ACC_00176,42622.6,credit,2024-10-16 00:00:00,completed,Warren Group,fuel
+TXN_000214,ACC_00081,6220.62,withdrawal,2024-01-09 00:00:00,completed,"Moore, Campbell and Ortiz",restaurant
+TXN_000215,ACC_00068,49784.75,transfer,2024-04-13 00:00:00,completed,Rodriguez-Mills,entertainment
+TXN_000216,ACC_00129,32732.85,credit,2024-02-17 00:00:00,completed,Williams and Sons,travel
+TXN_000217,ACC_00157,19823.11,debit,2024-01-27 00:00:00,completed,Russo and Sons,electronics
+TXN_000218,ACC_00110,4768.23,withdrawal,2024-12-26 00:00:00,completed,Washington Inc,healthcare
+TXN_000219,ACC_00005,34002.34,,2024-09-22 00:00:00,completed,Duncan Group,electronics
+TXN_000220,ACC_00245,34704.61,credit,2024-08-04 00:00:00,completed,"Burns, Hanson and Garza",electronics
+TXN_000221,ACC_00189,5169.04,transfer,2024-02-22 00:00:00,completed,Diaz PLC,travel
+TXN_000222,ACC_00074,49647.08,credit,2024-11-24 00:00:00,completed,"Jones, Conrad and Clark",groceries
+TXN_000223,ACC_00226,32504.51,transfer,2024-11-08 00:00:00,completed,Hebert-Collier,travel
+TXN_000224,ACC_00227,30807.64,debit,2024-07-29 00:00:00,completed,Owen-Brown,electronics
+TXN_000225,ACC_00302,37624.76,withdrawal,2024-03-12 00:00:00,completed,"Paul, Zamora and Short",restaurant
+TXN_000226,ACC_00127,39555.92,transfer,2024-06-10 00:00:00,completed,"Brown, Jensen and Rice",healthcare
+TXN_000227,ACC_00312,30053.94,transfer,2024-10-10 00:00:00,pending,"Jones, Torres and Blackburn",groceries
+TXN_000228,ACC_00106,43792.6,payment,2024-12-03 00:00:00,completed,"Davis, Hardy and Schmidt",healthcare
+TXN_000229,ACC_00028,14784.15,debit,2024-07-19 00:00:00,completed,Lee Ltd,electronics
+TXN_000230,ACC_00305,24984.13,credit,2024-05-03 00:00:00,completed,Hudson and Sons,groceries
+TXN_000231,ACC_00068,46696.88,withdrawal,2024-07-03 00:00:00,failed,"Curry, Perry and Garcia",restaurant
+TXN_000232,ACC_00089,27322.35,withdrawal,2024-07-06 00:00:00,reversed,"Ray, Craig and Park",electronics
+TXN_000233,ACC_00008,29372.3,transfer,2024-01-09 00:00:00,completed,Andrade-Jackson,groceries
+TXN_000234,ACC_00257,25335.46,withdrawal,2024-07-22 00:00:00,completed,Pierce PLC,restaurant
+TXN_000235,ACC_00276,32030.46,payment,2024-02-12 00:00:00,completed,Sandoval-Ferguson,electronics
+TXN_000236,ACC_00105,3960.29,debit,2024-06-07 00:00:00,completed,"Ramos, Gomez and Edwards",restaurant
+TXN_000237,ACC_00034,31718.37,transfer,2024-10-27 00:00:00,completed,Kirk-Gutierrez,healthcare
+TXN_000238,ACC_00223,12231.54,credit,2024-01-30 00:00:00,completed,"Jordan, Swanson and Franklin",groceries
+TXN_000239,ACC_00090,33307.32,credit,2024-06-07 00:00:00,completed,"Gardner, Brooks and Pierce",travel
+TXN_000240,ACC_00255,577.42,transfer,2024-12-25 00:00:00,completed,"King, Nixon and West",entertainment
+TXN_000241,ACC_00138,18599.75,credit,2024-03-26 00:00:00,pending,Smith-Johnson,groceries
+TXN_000242,ACC_00140,40357.32,payment,2024-06-20 00:00:00,completed,Larson-Holmes,electronics
+TXN_000243,ACC_00185,22765.34,credit,2024-09-11 00:00:00,completed,Smith-Joyce,travel
+TXN_000244,ACC_00053,7873.93,payment,2024-07-07 00:00:00,completed,Foley Inc,electronics
+TXN_000245,ACC_00002,37041.59,credit,2024-04-26 00:00:00,failed,"Short, Ellison and Dixon",groceries
+TXN_000246,ACC_00187,-2308.62,withdrawal,2024-05-05 00:00:00,failed,"Howe, Moore and Johnson",travel
+TXN_000247,ACC_00215,27647.71,debit,2024-01-19 00:00:00,completed,Moore-Baker,restaurant
+TXN_000248,ACC_00040,13570.19,payment,2024-06-12 00:00:00,completed,"Wright, Scott and Evans",groceries
+TXN_000249,ACC_00265,11167.02,credit,2024-04-01 00:00:00,reversed,"Ross, Hardin and Navarro",electronics
+TXN_000250,ACC_00160,43302.95,transfer,2024-08-26 00:00:00,completed,"Nguyen, Olson and Freeman",fuel
+TXN_000251,ACC_00150,18452.28,payment,2024-01-05 00:00:00,pending,"Warner, Weiss and Davis",healthcare
+TXN_000252,ACC_00253,18420.0,debit,2024-08-25 00:00:00,completed,"Evans, Cross and Johnston",healthcare
+TXN_000253,ACC_00210,328.83,credit,2024-03-18 00:00:00,completed,Deleon LLC,utilities
+TXN_000254,ACC_00005,41980.3,transfer,2024-11-21 00:00:00,completed,Hobbs-Hamilton,restaurant
+TXN_000255,ACC_00272,5206.41,debit,2024-06-06 00:00:00,completed,Kane and Sons,groceries
+TXN_000256,ACC_00048,35585.51,credit,2024-03-13 00:00:00,failed,"Delgado, Guzman and Smith",restaurant
+TXN_000257,ACC_00235,44779.94,credit,2024-12-24 00:00:00,completed,"Reyes, Torres and Williams",travel
+TXN_000258,ACC_00039,40999.94,payment,2024-11-22 00:00:00,completed,"Cunningham, Murphy and Wolfe",restaurant
+TXN_000259,ACC_00122,48211.27,transfer,2024-12-05 00:00:00,completed,Williams Ltd,utilities
+TXN_000260,ACC_00168,-35039.27,transfer,2024-07-20 00:00:00,completed,Maddox-Mullins,healthcare
+TXN_000261,ACC_00070,47178.3,payment,2024-02-08 00:00:00,completed,"Wagner, Walker and Roberts",electronics
+TXN_000262,ACC_00161,22483.84,withdrawal,2024-03-25 00:00:00,completed,Hernandez-Rogers,utilities
+TXN_000263,ACC_00238,22601.33,transfer,2024-04-16 00:00:00,failed,Duncan-Williams,electronics
+TXN_000264,ACC_00156,40381.77,payment,2024-03-21 00:00:00,completed,Baker-Ross,utilities
+TXN_000265,ACC_00128,4569.73,transfer,2024-03-16 00:00:00,completed,Ayala-Anderson,groceries
+TXN_000266,ACC_00090,14949.05,credit,2024-12-12 00:00:00,reversed,Castillo and Sons,fuel
+TXN_000267,ACC_00128,37406.44,credit,2024-10-11 00:00:00,completed,Foster-Duncan,travel
+TXN_000268,ACC_00114,607.73,debit,2024-03-03 00:00:00,completed,"Gilbert, Fitzgerald and Sanchez",restaurant
+TXN_000269,ACC_00044,34317.4,payment,2024-07-09 00:00:00,completed,Adams Group,electronics
+TXN_000270,ACC_00102,49858.1,withdrawal,2024-01-12 00:00:00,pending,Cohen-Johnston,electronics
+TXN_000271,ACC_00237,6135.16,credit,2024-06-18 00:00:00,completed,Powers Group,restaurant
+TXN_000272,ACC_00196,24811.36,withdrawal,2024-07-21 00:00:00,completed,Bailey-Flores,healthcare
+TXN_000273,ACC_00229,13756.34,debit,2024-04-05 00:00:00,completed,"Rios, Carrillo and Jackson",healthcare
+TXN_000274,ACC_00211,14762.31,payment,2024-11-27 00:00:00,completed,Jensen-Branch,electronics
+TXN_000275,ACC_00215,19156.93,debit,2024-05-23 00:00:00,completed,Hanson-Alexander,healthcare
+TXN_000276,ACC_00279,49704.42,credit,2024-11-18 00:00:00,reversed,Gonzalez LLC,utilities
+TXN_000277,ACC_00249,27230.45,transfer,2024-09-02 00:00:00,failed,Todd Inc,utilities
+TXN_000278,ACC_00014,13529.08,transfer,2024-07-17 00:00:00,completed,Singh and Sons,groceries
+TXN_000279,ACC_00242,2938.98,payment,2024-05-23 00:00:00,completed,"Mcintosh, Melton and Wilkins",healthcare
+TXN_000280,ACC_00124,5015.72,transfer,2024-03-22 00:00:00,completed,Cooper Inc,groceries
+TXN_000281,ACC_00199,28788.85,transfer,2024-04-22 00:00:00,failed,Cole-Johnson,travel
+TXN_000282,ACC_00163,11835.19,transfer,2024-03-31 00:00:00,failed,Singh and Sons,groceries
+TXN_000283,ACC_00291,35031.03,payment,2024-12-26 00:00:00,completed,Payne LLC,healthcare
+TXN_000284,ACC_00090,27110.81,withdrawal,2024-09-09 00:00:00,completed,"Webb, Blair and Thomas",groceries
+TXN_000285,ACC_00011,30087.12,payment,2024-04-29 00:00:00,completed,"Barnett, Bennett and Escobar",utilities
+TXN_000286,ACC_00067,10081.2,transfer,2024-11-10 00:00:00,completed,"Williams, Jackson and Campbell",utilities
+TXN_000287,ACC_00301,1105.43,debit,2024-01-31 00:00:00,pending,"Williamson, Brown and Pena",utilities
+TXN_000288,ACC_00203,18685.8,payment,2024-02-07 00:00:00,completed,Jones Ltd,entertainment
+TXN_000289,ACC_00081,6831.22,withdrawal,2024-06-14 00:00:00,pending,Alvarado-Durham,fuel
+TXN_000290,ACC_00288,15871.0,payment,2024-11-28 00:00:00,pending,Lin-Smith,healthcare
+TXN_000291,ACC_00090,29451.62,withdrawal,2024-12-06 00:00:00,completed,"Hughes, Whitney and Romero",entertainment
+TXN_000292,ACC_00001,8893.64,payment,2024-03-06 00:00:00,completed,"Garcia, Stewart and Delacruz",groceries
+TXN_000293,ACC_00114,,payment,2024-04-03 00:00:00,completed,"Miller, Gonzalez and Rasmussen",fuel
+TXN_000294,ACC_00040,16565.11,debit,2024-03-13 00:00:00,completed,"House, Smith and Wright",utilities
+TXN_000295,ACC_00046,31812.98,transfer,2024-03-26 00:00:00,completed,"Torres, Burns and Garner",entertainment
+TXN_000296,ACC_00035,,transfer,2024-04-17 00:00:00,completed,Reed LLC,electronics
+TXN_000297,ACC_00225,2416.89,withdrawal,2024-01-01 00:00:00,reversed,Garrett-Young,restaurant
+TXN_000298,ACC_00180,44089.72,payment,2024-09-09 00:00:00,completed,"Hill, Brown and Scott",fuel
+TXN_000299,ACC_00116,32551.97,debit,2024-10-22 00:00:00,completed,Zamora-Briggs,groceries
+TXN_000300,ACC_00134,1013.7,credit,2024-05-30 00:00:00,completed,Raymond LLC,travel
+TXN_000301,ACC_00039,8053.62,payment,2024-07-11 00:00:00,failed,Hernandez Group,electronics
+TXN_000302,ACC_00248,29705.59,credit,2024-06-22 00:00:00,completed,"Taylor, Blair and Meyer",travel
+TXN_000303,ACC_00081,44488.77,credit,2024-11-06 00:00:00,completed,"Salazar, Garrett and Perez",healthcare
+TXN_000304,ACC_00284,20469.9,payment,2024-04-07 00:00:00,completed,Berry Group,entertainment
+TXN_000305,ACC_00026,11885.04,withdrawal,2024-06-01 00:00:00,completed,Browning-Murphy,fuel
+TXN_000306,ACC_00002,2734.7,withdrawal,2024-03-19 00:00:00,completed,"Anderson, Delgado and Carpenter",fuel
+TXN_000307,ACC_00106,4858.38,debit,2024-04-12 00:00:00,completed,"Mcbride, Huffman and Parker",electronics
+TXN_000308,ACC_00158,42190.02,withdrawal,2024-08-30 00:00:00,completed,"Roach, Browning and Jordan",entertainment
+TXN_000309,ACC_00199,-32096.9,debit,2024-02-16 00:00:00,completed,Douglas PLC,restaurant
+TXN_000310,ACC_00023,9337.28,transfer,2024-07-08 00:00:00,completed,Stewart PLC,entertainment
+TXN_000311,ACC_00289,41855.57,credit,2024-04-25 00:00:00,completed,"Fry, Wilson and Stewart",electronics
+TXN_000312,ACC_00278,33410.38,withdrawal,2024-02-13 00:00:00,reversed,Acosta LLC,healthcare
+TXN_000313,ACC_00199,3058.58,payment,2024-10-10 00:00:00,completed,Ali-Turner,fuel
+TXN_000314,ACC_00244,44083.88,transfer,2024-10-20 00:00:00,completed,"Peck, Shannon and Mahoney",groceries
+TXN_000315,ACC_00265,28565.28,payment,2024-09-14 00:00:00,completed,Hernandez-Lopez,travel
+TXN_000316,ACC_00230,47463.25,debit,2024-03-02 00:00:00,failed,Lopez PLC,travel
+TXN_000317,ACC_00065,40424.95,credit,2024-04-18 00:00:00,completed,"Adams, Bradley and Hall",restaurant
+TXN_000318,ACC_00076,49863.49,payment,2024-04-13 00:00:00,completed,Hall Inc,electronics
+TXN_000319,ACC_00204,19411.08,payment,2024-02-14 00:00:00,completed,Miller-Chan,entertainment
+TXN_000320,ACC_00007,22913.28,payment,2024-09-23 00:00:00,completed,Shaw PLC,restaurant
+TXN_000321,ACC_00076,-20727.98,payment,2024-02-27 00:00:00,completed,Joseph-Brooks,electronics
+TXN_000322,ACC_00052,28138.56,transfer,2024-02-24 00:00:00,failed,Henry-Taylor,utilities
+TXN_000323,ACC_00249,13214.19,payment,2024-07-29 00:00:00,completed,Perez Group,groceries
+TXN_000324,ACC_00074,,payment,2024-03-29 00:00:00,completed,Schaefer Group,restaurant
+TXN_000325,ACC_00170,19795.68,debit,2024-01-20 00:00:00,completed,Newton and Sons,fuel
+TXN_000326,ACC_00011,44852.6,transfer,2024-05-17 00:00:00,pending,Jones Group,entertainment
+TXN_000327,ACC_00252,14024.53,credit,2024-06-08 00:00:00,reversed,"Burns, Nguyen and Ellis",healthcare
+TXN_000328,ACC_00227,15031.02,transfer,2024-03-09 00:00:00,completed,Patterson Inc,restaurant
+TXN_000329,ACC_00097,32281.29,withdrawal,2024-11-05 00:00:00,completed,"Moss, James and Edwards",restaurant
+TXN_000330,ACC_00192,37977.07,credit,2024-09-05 00:00:00,completed,"Crosby, Armstrong and Herrera",travel
+TXN_000331,ACC_00260,15563.04,withdrawal,2024-02-03 00:00:00,completed,"Liu, Buchanan and Meyer",groceries
+TXN_000332,ACC_00103,9646.24,credit,2024-03-29 00:00:00,completed,Bryant-Rich,fuel
+TXN_000333,ACC_00102,45902.37,,2024-01-26 00:00:00,completed,Stone Group,fuel
+TXN_000334,ACC_00064,19853.14,credit,2024-09-15 00:00:00,completed,"Williams, Hughes and Hubbard",fuel
+TXN_000335,ACC_00243,22310.71,payment,2024-10-31 00:00:00,completed,Lee Group,utilities
+TXN_000336,ACC_00133,41884.31,credit,2024-03-24 00:00:00,completed,Wilkerson-Ayala,restaurant
+TXN_000337,ACC_00293,8153.74,debit,2024-01-26 00:00:00,failed,Murray-Henderson,healthcare
+TXN_000338,ACC_00210,10344.48,payment,2024-12-12 00:00:00,completed,"Ellison, Vaughn and Mckee",groceries
+TXN_000339,ACC_00089,45576.66,payment,2024-08-30 00:00:00,pending,Gallegos-Hayes,healthcare
+TXN_000340,ACC_00157,30421.11,transfer,2024-05-09 00:00:00,completed,"Mason, White and Richards",restaurant
+TXN_000341,ACC_00112,22955.31,withdrawal,2024-06-27 00:00:00,completed,"Payne, Long and Morris",restaurant
+TXN_000342,ACC_00262,5124.58,transfer,2024-10-26 00:00:00,completed,White PLC,entertainment
+TXN_000343,ACC_00247,34223.81,credit,2024-06-01 00:00:00,completed,"Huang, Khan and Davis",entertainment
+TXN_000344,ACC_00142,16263.6,transfer,2024-11-23 00:00:00,completed,Holt-Meadows,entertainment
+TXN_000345,ACC_00124,7504.97,credit,2024-04-06 00:00:00,pending,Higgins Inc,restaurant
+TXN_000346,ACC_00072,15986.09,credit,2024-12-04 00:00:00,completed,Wilson Group,entertainment
+TXN_000347,ACC_00208,45346.51,withdrawal,2024-05-12 00:00:00,completed,"Cox, Mills and Cruz",healthcare
+TXN_000348,ACC_00114,36330.23,payment,2024-06-24 00:00:00,completed,"Salazar, Moore and Pierce",fuel
+TXN_000349,ACC_00154,17931.27,debit,2024-12-09 00:00:00,pending,Tate LLC,travel
+TXN_000350,ACC_00066,4889.18,transfer,2024-05-30 00:00:00,completed,"Savage, Huffman and Martin",travel
+TXN_000351,ACC_00046,44980.56,debit,2024-12-14 00:00:00,completed,White Ltd,entertainment
+TXN_000352,ACC_00170,39406.64,transfer,2024-08-03 00:00:00,completed,Barnes LLC,entertainment
+TXN_000353,ACC_00241,-42562.18,credit,2024-08-25 00:00:00,failed,"Mack, Griffin and Sims",electronics
+TXN_000354,ACC_00257,44472.41,credit,2024-08-29 00:00:00,failed,Roach and Sons,restaurant
+TXN_000355,ACC_00028,14924.8,debit,2024-09-28 00:00:00,completed,Dean LLC,healthcare
+TXN_000356,ACC_00292,20465.5,withdrawal,2024-06-24 00:00:00,completed,Ellis Group,travel
+TXN_000357,ACC_00091,24384.17,transfer,2024-02-11 00:00:00,completed,"Aguirre, Franklin and Snyder",groceries
+TXN_000358,ACC_00087,13683.66,payment,2024-08-19 00:00:00,pending,Chapman Group,fuel
+TXN_000359,ACC_00223,6479.0,withdrawal,2024-02-15 00:00:00,completed,Ortiz-Miller,fuel
+TXN_000360,ACC_00274,243.41,debit,2024-07-15 00:00:00,completed,"Smith, Khan and Ramirez",groceries
+TXN_000361,ACC_00272,37844.82,debit,2024-06-13 00:00:00,completed,"Grant, Bryan and Williams",groceries
+TXN_000362,ACC_00116,36682.83,transfer,2024-11-16 00:00:00,completed,Brown LLC,electronics
+TXN_000363,ACC_00157,,debit,2024-07-15 00:00:00,completed,Thomas Inc,groceries
+TXN_000364,ACC_00234,47423.68,payment,2024-06-01 00:00:00,completed,"Lane, Morrison and Rivera",utilities
+TXN_000365,ACC_00069,44399.82,transfer,2024-08-10 00:00:00,reversed,Williams Group,fuel
+TXN_000366,ACC_00085,37508.28,withdrawal,2024-07-02 00:00:00,completed,Martin LLC,healthcare
+TXN_000367,ACC_00012,10567.4,payment,2024-03-08 00:00:00,completed,"Guerrero, Graves and Armstrong",electronics
+TXN_000368,ACC_00020,35558.39,withdrawal,2024-07-06 00:00:00,failed,"Thompson, Gibson and Riley",entertainment
+TXN_000369,ACC_00305,31160.51,credit,2024-09-30 00:00:00,completed,Davis LLC,groceries
+TXN_000370,ACC_00214,34490.59,withdrawal,2024-01-25 00:00:00,completed,Richardson-Gray,entertainment
+TXN_000371,ACC_00106,35096.39,credit,2024-08-30 00:00:00,completed,Chang PLC,electronics
+TXN_000372,ACC_00311,26020.26,debit,2024-12-05 00:00:00,completed,Carter and Sons,electronics
+TXN_000373,ACC_00061,,transfer,2024-09-18 00:00:00,completed,Neal LLC,electronics
+TXN_000374,ACC_00103,9940.35,transfer,2024-09-11 00:00:00,pending,Rose-Warren,healthcare
+TXN_000375,ACC_00152,35174.8,debit,2024-07-02 00:00:00,completed,"Clark, Brown and Duncan",fuel
+TXN_000376,ACC_00247,34413.31,transfer,2024-04-16 00:00:00,completed,"Rice, Miller and Ramsey",groceries
+TXN_000377,ACC_00057,4459.25,payment,2024-12-09 00:00:00,completed,"Peck, Andersen and Mitchell",travel
+TXN_000378,ACC_00039,38978.52,credit,2024-02-16 00:00:00,failed,"Abbott, Green and Andrews",healthcare
+TXN_000379,ACC_00152,49433.41,transfer,2024-08-21 00:00:00,completed,"Gomez, Anderson and Hart",electronics
+TXN_000380,ACC_00149,43708.28,transfer,2024-03-30 00:00:00,pending,"Daniel, Jimenez and Morton",utilities
+TXN_000381,ACC_00049,36929.62,credit,2024-08-06 00:00:00,completed,"Hall, Roberts and Lee",travel
+TXN_000382,ACC_00169,32363.46,transfer,2024-12-05 00:00:00,failed,Johnson Ltd,entertainment
+TXN_000383,ACC_00176,18637.38,debit,2024-02-17 00:00:00,completed,Mclaughlin and Sons,restaurant
+TXN_000384,ACC_00198,13598.94,withdrawal,2024-08-21 00:00:00,pending,"Duarte, Gutierrez and Cook",travel
+TXN_000385,ACC_00031,,,2024-02-27 00:00:00,completed,"Shaffer, Lewis and Davidson",fuel
+TXN_000386,ACC_00093,33922.87,payment,2024-10-18 00:00:00,completed,"Campbell, Tyler and Parker",utilities
+TXN_000387,ACC_00067,1450.52,,2024-11-09 00:00:00,failed,"Pierce, Wang and Wilson",electronics
+TXN_000388,ACC_00033,22039.99,transfer,2024-07-29 00:00:00,completed,Peterson-Ramsey,groceries
+TXN_000389,ACC_00269,43417.93,payment,2024-12-26 00:00:00,completed,"Choi, Collier and Lee",healthcare
+TXN_000390,ACC_00266,43658.45,payment,2024-12-08 00:00:00,completed,Nielsen-Mendoza,electronics
+TXN_000391,ACC_00128,33089.05,withdrawal,2024-08-09 00:00:00,completed,Robles-Brewer,restaurant
+TXN_000392,ACC_00286,41953.26,payment,2024-03-17 00:00:00,completed,Moore-Murray,travel
+TXN_000393,ACC_00254,42443.79,debit,2024-09-15 00:00:00,completed,"Huang, Ford and Olsen",fuel
+TXN_000394,ACC_00143,12052.18,credit,2024-06-13 00:00:00,completed,"Brown, Meyer and Cunningham",restaurant
+TXN_000395,ACC_00041,40856.99,withdrawal,2024-07-25 00:00:00,completed,"Stewart, Herrera and Clark",fuel
+TXN_000396,ACC_00229,42830.9,transfer,2024-02-15 00:00:00,completed,"Rivera, Hendricks and Flynn",fuel
+TXN_000397,ACC_00207,898.28,withdrawal,2024-11-30 00:00:00,completed,Montes LLC,groceries
+TXN_000398,ACC_00156,39591.25,payment,2024-02-16 00:00:00,completed,Morgan Group,fuel
+TXN_000399,ACC_00028,18173.49,debit,2024-06-23 00:00:00,pending,"Ferguson, Martin and Obrien",utilities
+TXN_000400,ACC_00308,38373.15,withdrawal,2024-10-13 00:00:00,completed,Larson LLC,utilities
+TXN_000401,ACC_00114,-5710.03,credit,2024-08-19 00:00:00,completed,"Hodge, Mckinney and Nelson",entertainment
+TXN_000402,ACC_00055,26104.03,credit,2024-10-07 00:00:00,failed,Crawford and Sons,fuel
+TXN_000403,ACC_00210,41093.71,credit,2024-03-12 00:00:00,completed,Hayes-Sampson,healthcare
+TXN_000404,ACC_00202,,debit,2024-04-06 00:00:00,completed,Warren and Sons,healthcare
+TXN_000405,ACC_00213,5397.21,credit,2024-06-22 00:00:00,failed,Brooks Inc,electronics
+TXN_000406,ACC_00302,22874.82,payment,2024-08-18 00:00:00,completed,Gentry Group,fuel
+TXN_000407,ACC_00025,26522.91,payment,2024-01-03 00:00:00,failed,"Johnson, Webb and Porter",fuel
+TXN_000408,ACC_00091,39056.26,payment,2024-09-17 00:00:00,completed,Peterson Group,travel
+TXN_000409,ACC_00308,19376.4,payment,2024-02-23 00:00:00,failed,"Russo, Collins and Murphy",restaurant
+TXN_000410,ACC_00128,48975.24,transfer,2024-08-02 00:00:00,completed,Short PLC,utilities
+TXN_000411,ACC_00069,22647.76,debit,2024-05-30 00:00:00,completed,"Haney, Harris and Johnson",entertainment
+TXN_000412,ACC_00161,27394.82,payment,2024-12-25 00:00:00,completed,Reeves-Boyd,healthcare
+TXN_000413,ACC_00149,31212.14,transfer,2024-04-17 00:00:00,failed,Collins Inc,travel
+TXN_000414,ACC_00092,32507.82,payment,2024-12-29 00:00:00,completed,"Charles, Wiggins and Cook",utilities
+TXN_000415,ACC_00181,5779.11,payment,2024-12-29 00:00:00,completed,Garcia Ltd,restaurant
+TXN_000416,ACC_00274,37395.96,transfer,2024-12-11 00:00:00,failed,"Edwards, Lane and Collins",restaurant
+TXN_000417,ACC_00013,26141.27,withdrawal,2024-01-07 00:00:00,completed,Flores and Sons,groceries
+TXN_000418,ACC_00083,13356.24,transfer,2024-04-12 00:00:00,completed,Hill-Flores,travel
+TXN_000419,ACC_00152,34532.84,debit,2024-02-01 00:00:00,pending,Lambert-Nelson,groceries
+TXN_000420,ACC_00053,40703.17,,2024-07-02 00:00:00,failed,Hill Inc,healthcare
+TXN_000421,ACC_00122,28067.91,payment,2024-11-27 00:00:00,pending,"Castro, Garcia and Daniels",entertainment
+TXN_000422,ACC_00196,33228.03,withdrawal,2024-12-20 00:00:00,completed,"Flores, Thomas and Bush",utilities
+TXN_000423,ACC_00129,2699.57,debit,2024-10-09 00:00:00,completed,Andrews-Jackson,fuel
+TXN_000424,ACC_00189,45575.2,payment,2024-04-25 00:00:00,completed,Austin-Morgan,healthcare
+TXN_000425,ACC_00091,14715.94,credit,2024-04-09 00:00:00,completed,Williams-Johnson,travel
+TXN_000426,ACC_00021,5976.5,withdrawal,2024-09-20 00:00:00,completed,"Williams, Reyes and Miller",entertainment
+TXN_000427,ACC_00131,8054.83,credit,2024-03-07 00:00:00,completed,White-Carlson,travel
+TXN_000428,ACC_00166,7693.63,payment,2024-01-21 00:00:00,completed,"Soto, Vaughn and Griffin",entertainment
+TXN_000429,ACC_00282,39497.51,transfer,2024-09-08 00:00:00,completed,Edwards-Roth,utilities
+TXN_000430,ACC_00095,11005.9,payment,2024-09-26 00:00:00,completed,"Chang, Lamb and Miller",travel
+TXN_000431,ACC_00207,27158.58,credit,2024-07-31 00:00:00,completed,Bradley-Davis,healthcare
+TXN_000432,ACC_00185,16600.86,transfer,2024-12-05 00:00:00,completed,"Mcdonald, Bryant and Cohen",fuel
+TXN_000433,ACC_00005,41186.18,credit,2024-10-14 00:00:00,completed,"Miranda, Ruiz and Meza",fuel
+TXN_000434,ACC_00125,45225.78,credit,2024-05-03 00:00:00,completed,Callahan PLC,utilities
+TXN_000435,ACC_00059,45797.46,withdrawal,2024-07-14 00:00:00,completed,Durham-Myers,entertainment
+TXN_000436,ACC_00192,45567.68,,2024-01-13 00:00:00,pending,"Stark, Rivera and Valencia",fuel
+TXN_000437,ACC_00099,2202.14,transfer,2024-09-06 00:00:00,completed,Chavez-Johnson,electronics
+TXN_000438,ACC_00276,48581.72,payment,2024-03-26 00:00:00,completed,Rodriguez-Mendoza,electronics
+TXN_000439,ACC_00110,33520.05,withdrawal,2024-04-17 00:00:00,pending,Campbell LLC,healthcare
+TXN_000440,ACC_00223,41439.15,credit,2024-10-02 00:00:00,completed,"Andrews, Romero and Sullivan",travel
+TXN_000441,ACC_00170,22966.67,credit,2024-01-13 00:00:00,completed,"Robles, Nguyen and Banks",groceries
+TXN_000442,ACC_00286,39712.8,credit,2024-04-01 00:00:00,completed,Patel-Morales,healthcare
+TXN_000443,ACC_00231,20387.56,withdrawal,2024-05-12 00:00:00,completed,Allen-Sanchez,groceries
+TXN_000444,ACC_00274,33668.2,credit,2024-07-18 00:00:00,completed,Dickson Group,electronics
+TXN_000445,ACC_00038,2285.39,transfer,2024-10-26 00:00:00,failed,Peterson Ltd,electronics
+TXN_000446,ACC_00155,39346.73,payment,2024-05-28 00:00:00,completed,"Reynolds, Baird and Bradley",fuel
+TXN_000447,ACC_00016,19761.71,withdrawal,2024-07-14 00:00:00,completed,Stephens-Young,healthcare
+TXN_000448,ACC_00280,37340.23,transfer,2024-03-10 00:00:00,reversed,"Caldwell, Stevenson and Joseph",travel
+TXN_000449,ACC_00192,33867.68,credit,2024-06-01 00:00:00,completed,Wilson-Carlson,travel
+TXN_000450,ACC_00294,2098.24,payment,2024-03-04 00:00:00,completed,Peters-Short,electronics
+TXN_000451,ACC_00177,10510.54,debit,2024-06-05 00:00:00,completed,Parker Group,travel
+TXN_000452,ACC_00130,9207.8,debit,2024-03-23 00:00:00,completed,George Ltd,groceries
+TXN_000453,ACC_00282,23068.65,credit,2024-10-08 00:00:00,completed,"Wise, Gray and Snyder",electronics
+TXN_000454,ACC_00298,4919.14,withdrawal,2024-05-08 00:00:00,reversed,"Brown, Robinson and Taylor",utilities
+TXN_000455,ACC_00121,33568.07,credit,2024-03-06 00:00:00,completed,"Berger, Fields and Smith",electronics
+TXN_000456,ACC_00231,15896.12,transfer,2024-04-09 00:00:00,completed,Guerrero Group,entertainment
+TXN_000457,ACC_00290,29212.65,payment,2024-12-21 00:00:00,completed,"Carter, Gilbert and West",utilities
+TXN_000458,ACC_00161,8440.29,debit,2024-08-07 00:00:00,pending,Maldonado LLC,restaurant
+TXN_000459,ACC_00069,42007.1,transfer,2024-05-21 00:00:00,failed,Hudson-Gentry,fuel
+TXN_000460,ACC_00157,17943.49,withdrawal,2024-08-16 00:00:00,completed,Sellers-Zuniga,travel
+TXN_000461,ACC_00144,30335.32,debit,2024-11-26 00:00:00,failed,"Haas, Cooper and Davis",healthcare
+TXN_000462,ACC_00040,36679.9,credit,2024-05-14 00:00:00,failed,Carr PLC,groceries
+TXN_000463,ACC_00303,28949.25,debit,2024-10-24 00:00:00,failed,Abbott-Phelps,entertainment
+TXN_000464,ACC_00277,44700.36,withdrawal,2024-10-05 00:00:00,completed,Wood PLC,travel
+TXN_000465,ACC_00302,19630.99,transfer,2024-07-06 00:00:00,completed,Smith PLC,electronics
+TXN_000466,ACC_00006,-18199.64,debit,2024-07-22 00:00:00,pending,Rodriguez-Campbell,travel
+TXN_000467,ACC_00082,7027.13,debit,2024-09-20 00:00:00,completed,Young Ltd,travel
+TXN_000468,ACC_00021,46959.37,debit,2024-09-04 00:00:00,pending,"Long, Flores and Reyes",healthcare
+TXN_000469,ACC_00120,13225.21,credit,2024-02-02 00:00:00,completed,Graham-Clark,utilities
+TXN_000470,ACC_00233,23489.01,credit,2024-07-17 00:00:00,completed,Wells and Sons,utilities
+TXN_000471,ACC_00267,35189.78,transfer,2024-02-22 00:00:00,pending,"Cruz, Middleton and Larsen",entertainment
+TXN_000472,ACC_00090,27222.06,withdrawal,2024-10-23 00:00:00,completed,Roberts Ltd,utilities
+TXN_000473,ACC_00040,32670.29,payment,2024-10-27 00:00:00,completed,Taylor Inc,healthcare
+TXN_000474,ACC_00177,20298.05,,2024-09-21 00:00:00,pending,"Smith, Griffith and Tucker",groceries
+TXN_000475,ACC_00226,44102.89,debit,2024-09-13 00:00:00,completed,Proctor-Taylor,entertainment
+TXN_000476,ACC_00081,7520.52,transfer,2024-04-18 00:00:00,completed,May Group,electronics
+TXN_000477,ACC_00170,11525.01,credit,2024-12-04 00:00:00,completed,English-Dominguez,fuel
+TXN_000478,ACC_00083,10543.09,withdrawal,2024-09-02 00:00:00,completed,Hanson-Gibson,groceries
+TXN_000479,ACC_00083,28678.59,debit,2024-03-06 00:00:00,completed,Arnold-Cole,groceries
+TXN_000480,ACC_00086,-7351.79,transfer,2024-10-20 00:00:00,failed,Perez-Coleman,restaurant
+TXN_000481,ACC_00010,48462.49,transfer,2024-11-02 00:00:00,failed,Lane Ltd,healthcare
+TXN_000482,ACC_00242,30330.23,withdrawal,2024-08-17 00:00:00,completed,Joseph LLC,restaurant
+TXN_000483,ACC_00299,7144.18,debit,2024-11-03 00:00:00,completed,House-Johnston,entertainment
+TXN_000484,ACC_00176,36212.1,withdrawal,2024-03-26 00:00:00,completed,Good PLC,electronics
+TXN_000485,ACC_00068,18916.79,credit,2024-04-27 00:00:00,completed,Bush-Wilson,restaurant
+TXN_000486,ACC_00091,30279.5,withdrawal,2024-03-17 00:00:00,failed,Nixon-Miller,groceries
+TXN_000487,ACC_00061,25171.43,credit,2024-09-29 00:00:00,completed,"Simon, Terrell and Terrell",travel
+TXN_000488,ACC_00001,26968.91,withdrawal,2024-11-04 00:00:00,completed,Marshall-Miller,utilities
+TXN_000489,ACC_00220,34885.16,debit,2024-01-23 00:00:00,failed,"Davis, Kennedy and Harmon",fuel
+TXN_000490,ACC_00295,17532.39,credit,2024-07-14 00:00:00,completed,"Miller, Schultz and Yates",entertainment
+TXN_000491,ACC_00043,38295.29,transfer,2024-09-01 00:00:00,completed,Austin-Berger,restaurant
+TXN_000492,ACC_00004,9459.16,payment,2024-05-11 00:00:00,completed,"Osborne, Harrison and Hunt",groceries
+TXN_000493,ACC_00162,32730.76,withdrawal,2024-07-11 00:00:00,completed,Berry-Rivera,travel
+TXN_000494,ACC_00130,32582.28,transfer,2024-08-06 00:00:00,failed,Yu-Yates,restaurant
+TXN_000495,ACC_00142,18288.55,withdrawal,2024-10-16 00:00:00,pending,Jackson-Neal,restaurant
+TXN_000496,ACC_00248,39191.58,debit,2024-10-09 00:00:00,completed,"Curry, Acosta and Elliott",fuel
+TXN_000497,ACC_00296,49425.53,transfer,2024-05-09 00:00:00,pending,Soto PLC,restaurant
+TXN_000498,ACC_00061,42751.4,debit,2024-03-11 00:00:00,completed,Berry Ltd,travel
+TXN_000499,ACC_00206,10730.76,transfer,2024-02-21 00:00:00,pending,Lamb-Weber,groceries
+TXN_000500,ACC_00003,19461.29,credit,2024-03-23 00:00:00,pending,Washington-Martinez,fuel
+TXN_000501,ACC_00033,21774.52,transfer,2024-11-03 00:00:00,completed,York LLC,electronics
+TXN_000502,ACC_00197,1897.39,withdrawal,2024-11-07 00:00:00,completed,Anderson-Campbell,entertainment
+TXN_000503,ACC_00030,48176.86,debit,2024-12-30 00:00:00,completed,Smith-Rodriguez,fuel
+TXN_000504,ACC_00266,10093.35,transfer,2024-01-06 00:00:00,completed,Kent Ltd,healthcare
+TXN_000505,ACC_00019,8482.45,transfer,2024-11-10 00:00:00,completed,Hopkins LLC,groceries
+TXN_000506,ACC_00142,4351.27,withdrawal,2024-03-21 00:00:00,completed,Green Ltd,restaurant
+TXN_000507,ACC_00266,29308.15,credit,2024-07-26 00:00:00,completed,Washington PLC,electronics
+TXN_000508,ACC_00287,27484.14,payment,2024-02-16 00:00:00,completed,Cooper Inc,entertainment
+TXN_000509,ACC_00100,30322.11,withdrawal,2024-04-25 00:00:00,failed,Larson and Sons,groceries
+TXN_000510,ACC_00260,8759.99,credit,2024-05-13 00:00:00,completed,Mullins-Gutierrez,entertainment
+TXN_000511,ACC_00263,47351.3,transfer,2024-06-23 00:00:00,failed,Young-Alexander,entertainment
+TXN_000512,ACC_00194,22144.0,payment,2024-12-21 00:00:00,completed,"Jackson, Lane and Wilkinson",healthcare
+TXN_000513,ACC_00235,48062.32,withdrawal,2024-06-22 00:00:00,failed,May Inc,groceries
+TXN_000514,ACC_00035,5822.25,withdrawal,2024-09-03 00:00:00,completed,Jackson Group,healthcare
+TXN_000515,ACC_00162,35061.79,withdrawal,2024-12-12 00:00:00,reversed,Turner-Reese,groceries
+TXN_000516,ACC_00128,41610.53,transfer,2024-12-24 00:00:00,completed,"Hall, Vega and Price",utilities
+TXN_000517,ACC_00092,27732.03,withdrawal,2024-02-08 00:00:00,completed,Thomas-Berg,healthcare
+TXN_000518,ACC_00098,13461.1,withdrawal,2024-10-20 00:00:00,completed,Roberts Group,healthcare
+TXN_000519,ACC_00106,43638.4,debit,2024-05-03 00:00:00,completed,Gregory-Nixon,healthcare
+TXN_000520,ACC_00055,17807.81,credit,2024-11-12 00:00:00,failed,"Blanchard, Davis and Schmidt",fuel
+TXN_000521,ACC_00278,341.12,credit,2024-11-10 00:00:00,pending,Blanchard-Reynolds,utilities
+TXN_000522,ACC_00295,15777.69,transfer,2024-11-13 00:00:00,completed,"Garrison, Rogers and Adams",entertainment
+TXN_000523,ACC_00296,11112.42,debit,2024-07-22 00:00:00,completed,Scott PLC,restaurant
+TXN_000524,ACC_00017,46983.32,payment,2024-09-01 00:00:00,completed,Murray-Leonard,travel
+TXN_000525,ACC_00266,48825.59,withdrawal,2024-08-22 00:00:00,completed,Navarro PLC,groceries
+TXN_000526,ACC_00195,33708.41,payment,2024-01-07 00:00:00,completed,Meyer Ltd,utilities
+TXN_000527,ACC_00096,43093.48,payment,2024-11-09 00:00:00,completed,"Kaiser, Edwards and Smith",entertainment
+TXN_000528,ACC_00176,47926.76,transfer,2024-08-29 00:00:00,completed,Decker Inc,restaurant
+TXN_000529,ACC_00191,20960.46,transfer,2024-04-17 00:00:00,failed,Davis-Garcia,entertainment
+TXN_000530,ACC_00068,9002.66,payment,2024-08-18 00:00:00,completed,Bell-Hardy,electronics
+TXN_000531,ACC_00285,40206.34,withdrawal,2024-05-18 00:00:00,failed,Lee-Johnson,healthcare
+TXN_000532,ACC_00077,40003.87,withdrawal,2024-03-15 00:00:00,pending,Brown PLC,travel
+TXN_000533,ACC_00265,24984.9,payment,2024-08-03 00:00:00,completed,"Shannon, Robinson and Greene",fuel
+TXN_000534,ACC_00291,12556.19,credit,2024-06-02 00:00:00,completed,Erickson Inc,travel
+TXN_000535,ACC_00131,10781.21,withdrawal,2024-01-31 00:00:00,pending,Gates and Sons,electronics
+TXN_000536,ACC_00134,37232.22,transfer,2024-08-18 00:00:00,completed,Douglas-Yoder,entertainment
+TXN_000537,ACC_00063,1001.57,transfer,2024-06-25 00:00:00,failed,"Pratt, Lopez and Rodriguez",healthcare
+TXN_000538,ACC_00276,28798.96,debit,2024-10-22 00:00:00,reversed,King Group,entertainment
+TXN_000539,ACC_00262,16261.26,withdrawal,2024-06-30 00:00:00,pending,"Mayer, Fowler and Livingston",fuel
+TXN_000540,ACC_00147,,withdrawal,2024-02-10 00:00:00,completed,Hammond-Schwartz,travel
+TXN_000541,ACC_00173,32032.63,withdrawal,2024-03-26 00:00:00,completed,"Carrillo, Morris and Martin",restaurant
+TXN_000542,ACC_00176,3964.81,debit,2024-02-06 00:00:00,completed,Ramirez Inc,entertainment
+TXN_000543,ACC_00203,13380.94,transfer,2024-12-29 00:00:00,failed,Price-Ferrell,utilities
+TXN_000544,ACC_00231,26051.58,withdrawal,2024-10-27 00:00:00,completed,Sosa-Baker,groceries
+TXN_000545,ACC_00129,36391.34,credit,2024-03-05 00:00:00,completed,Jones-Krause,restaurant
+TXN_000546,ACC_00243,4786.73,payment,2024-02-22 00:00:00,completed,Bishop and Sons,restaurant
+TXN_000547,ACC_00043,38252.17,credit,2024-09-25 00:00:00,completed,"Vasquez, Thomas and Mack",travel
+TXN_000548,ACC_00200,32745.09,transfer,2024-02-13 00:00:00,completed,Mendez Inc,entertainment
+TXN_000549,ACC_00068,31327.77,payment,2024-08-14 00:00:00,pending,Baldwin-Garcia,groceries
+TXN_000550,ACC_00167,33180.82,withdrawal,2024-01-18 00:00:00,completed,Jones Ltd,entertainment
+TXN_000551,ACC_00277,22247.8,debit,2024-10-07 00:00:00,completed,Waters-Smith,fuel
+TXN_000552,ACC_00289,37448.09,withdrawal,2024-11-19 00:00:00,completed,Hernandez-Bowman,entertainment
+TXN_000553,ACC_00117,24087.77,credit,2024-06-26 00:00:00,completed,Ortega LLC,utilities
+TXN_000554,ACC_00156,12997.75,credit,2024-07-30 00:00:00,completed,Graves Group,travel
+TXN_000555,ACC_00274,14345.24,credit,2024-06-25 00:00:00,completed,"Smith, Zimmerman and Wise",fuel
+TXN_000556,ACC_00221,14987.53,transfer,2024-09-01 00:00:00,completed,Graham-Anthony,groceries
+TXN_000557,ACC_00211,18688.46,payment,2024-10-07 00:00:00,completed,Fernandez Inc,healthcare
+TXN_000558,ACC_00200,35749.75,withdrawal,2024-03-24 00:00:00,completed,Finley-Meyers,electronics
+TXN_000559,ACC_00265,31269.9,payment,2024-08-04 00:00:00,pending,Martinez-Nichols,entertainment
+TXN_000560,ACC_00273,32426.37,transfer,2024-05-25 00:00:00,completed,Cook-Turner,electronics
+TXN_000561,ACC_00057,6839.84,withdrawal,2024-04-03 00:00:00,completed,Chen Ltd,entertainment
+TXN_000562,ACC_00097,31141.46,transfer,2024-12-24 00:00:00,completed,Diaz LLC,groceries
+TXN_000563,ACC_00053,1116.32,transfer,2024-09-30 00:00:00,completed,Randall LLC,fuel
+TXN_000564,ACC_00078,11648.2,credit,2024-01-05 00:00:00,completed,"Harris, Spencer and Ponce",utilities
+TXN_000565,ACC_00256,15585.72,transfer,2024-08-03 00:00:00,completed,"Lee, Dominguez and Mosley",groceries
+TXN_000566,ACC_00075,4020.35,credit,2024-06-18 00:00:00,completed,"Barker, Tucker and Mcclure",restaurant
+TXN_000567,ACC_00093,27164.17,debit,2024-02-06 00:00:00,failed,Moss-Taylor,entertainment
+TXN_000568,ACC_00063,41414.32,debit,2024-07-14 00:00:00,completed,Johnson PLC,fuel
+TXN_000569,ACC_00018,36883.57,debit,2024-05-06 00:00:00,completed,Burns Inc,electronics
+TXN_000570,ACC_00107,33303.73,withdrawal,2024-09-23 00:00:00,completed,"Schneider, Porter and Hanna",entertainment
+TXN_000571,ACC_00022,7938.99,payment,2024-06-14 00:00:00,completed,Levy-Smith,entertainment
+TXN_000572,ACC_00102,31929.62,transfer,2024-09-03 00:00:00,failed,Brown-French,healthcare
+TXN_000573,ACC_00223,11805.93,transfer,2024-02-27 00:00:00,completed,Sullivan and Sons,entertainment
+TXN_000574,ACC_00125,5991.28,credit,2024-10-26 00:00:00,reversed,"Contreras, Ellis and Gregory",fuel
+TXN_000575,ACC_00191,29814.65,credit,2024-12-18 00:00:00,completed,"Hernandez, Riley and Buckley",fuel
+TXN_000576,ACC_00174,34300.37,credit,2024-02-16 00:00:00,completed,Moss Group,travel
+TXN_000577,ACC_00055,26822.3,debit,2024-12-25 00:00:00,completed,"Smith, Meadows and Montgomery",utilities
+TXN_000578,ACC_00178,39430.21,withdrawal,2024-10-12 00:00:00,completed,Haynes and Sons,groceries
+TXN_000579,ACC_00069,18894.67,transfer,2024-12-18 00:00:00,failed,Jackson Inc,fuel
+TXN_000580,ACC_00151,21880.63,payment,2024-12-27 00:00:00,completed,Hoover-Davis,healthcare
+TXN_000581,ACC_00179,9339.47,transfer,2024-10-17 00:00:00,completed,"Jackson, Garza and Meyers",entertainment
+TXN_000582,ACC_00284,45724.56,debit,2024-11-02 00:00:00,completed,Wilson PLC,travel
+TXN_000583,ACC_00135,14790.68,payment,2024-08-18 00:00:00,completed,"Walker, Brock and Simmons",groceries
+TXN_000584,ACC_00095,25302.83,credit,2024-11-22 00:00:00,completed,"Gregory, Nguyen and Daugherty",utilities
+TXN_000585,ACC_00033,11946.94,payment,2024-11-13 00:00:00,pending,"Gardner, Morris and Oconnell",healthcare
+TXN_000586,ACC_00283,34164.38,debit,2024-09-25 00:00:00,completed,Duran PLC,utilities
+TXN_000587,ACC_00057,32048.79,credit,2024-07-28 00:00:00,completed,Rogers Inc,electronics
+TXN_000588,ACC_00067,41761.32,debit,2024-01-23 00:00:00,failed,Thomas-Perry,healthcare
+TXN_000589,ACC_00051,24273.66,credit,2024-02-24 00:00:00,completed,"Wood, Martin and Sanchez",restaurant
+TXN_000590,ACC_00303,24500.58,transfer,2024-12-02 00:00:00,completed,"Williams, Garcia and Boone",healthcare
+TXN_000591,ACC_00007,35895.08,debit,2024-11-06 00:00:00,completed,"Bennett, Moore and Hobbs",electronics
+TXN_000592,ACC_00032,40052.99,transfer,2024-08-27 00:00:00,completed,Smith and Sons,restaurant
+TXN_000593,ACC_00030,39714.54,payment,2024-07-07 00:00:00,completed,Mann PLC,groceries
+TXN_000594,ACC_00040,41724.48,debit,2024-02-06 00:00:00,reversed,Butler-Aguirre,electronics
+TXN_000595,ACC_00273,36261.34,withdrawal,2024-02-21 00:00:00,completed,Schwartz-Harris,healthcare
+TXN_000596,ACC_00092,31270.0,payment,2024-10-18 00:00:00,completed,"Nelson, Cole and Allen",restaurant
+TXN_000597,ACC_00296,38316.51,transfer,2024-02-24 00:00:00,completed,Bishop Inc,restaurant
+TXN_000598,ACC_00093,8348.8,payment,2024-02-23 00:00:00,completed,"White, Porter and Clements",utilities
+TXN_000599,ACC_00308,7917.24,withdrawal,2024-12-02 00:00:00,failed,"Serrano, Turner and Barnes",utilities
+TXN_000600,ACC_00167,,transfer,2024-10-08 00:00:00,completed,"Young, Wilson and Moreno",restaurant
+TXN_000601,ACC_00289,30424.58,,2024-06-14 00:00:00,completed,Montgomery PLC,entertainment
+TXN_000602,ACC_00230,48082.97,withdrawal,2024-07-03 00:00:00,completed,"Robinson, Townsend and Hopkins",groceries
+TXN_000603,ACC_00266,29792.18,debit,2024-05-25 00:00:00,reversed,Brown-Rodriguez,entertainment
+TXN_000604,ACC_00114,15023.69,debit,2024-01-04 00:00:00,failed,Jennings Group,groceries
+TXN_000605,ACC_00284,41118.65,payment,2024-12-19 00:00:00,completed,Thompson-Santiago,travel
+TXN_000606,ACC_00183,1896.44,debit,2024-02-18 00:00:00,completed,Brown LLC,utilities
+TXN_000607,ACC_00132,12500.35,transfer,2024-10-25 00:00:00,completed,Clark-King,restaurant
+TXN_000608,ACC_00040,45894.91,transfer,2024-10-18 00:00:00,pending,"Trujillo, Chang and Williams",travel
+TXN_000609,ACC_00296,41287.01,credit,2024-09-06 00:00:00,completed,"Williams, Medina and Moore",entertainment
+TXN_000610,ACC_00296,36542.16,withdrawal,2024-01-20 00:00:00,completed,Washington Inc,groceries
+TXN_000611,ACC_00223,17403.03,withdrawal,2024-06-20 00:00:00,failed,Jacobson Ltd,electronics
+TXN_000612,ACC_00309,37386.46,credit,2024-04-26 00:00:00,completed,Watkins-Nguyen,restaurant
+TXN_000613,ACC_00022,15246.12,transfer,2024-01-28 00:00:00,completed,Burgess LLC,travel
+TXN_000614,ACC_00114,25125.06,debit,2024-06-16 00:00:00,completed,Maxwell LLC,restaurant
+TXN_000615,ACC_00295,37644.48,payment,2024-08-16 00:00:00,completed,Garcia Ltd,restaurant
+TXN_000616,ACC_00076,39320.55,debit,2024-05-28 00:00:00,completed,Kane-Bennett,fuel
+TXN_000617,ACC_00281,37268.3,withdrawal,2024-10-19 00:00:00,completed,Jones PLC,restaurant
+TXN_000618,ACC_00067,21730.21,debit,2024-09-13 00:00:00,completed,Brown-Graham,healthcare
+TXN_000619,ACC_00293,19771.99,debit,2024-09-06 00:00:00,completed,Reilly Group,healthcare
+TXN_000620,ACC_00221,3591.48,transfer,2024-05-04 00:00:00,completed,Hughes and Sons,electronics
+TXN_000621,ACC_00217,33590.66,transfer,2024-02-27 00:00:00,completed,Cortez-Chen,utilities
+TXN_000622,ACC_00013,29697.92,transfer,2024-06-25 00:00:00,completed,Harris-Martinez,utilities
+TXN_000623,ACC_00227,41080.99,payment,2024-11-11 00:00:00,completed,"Carroll, Ramirez and Rodriguez",groceries
+TXN_000624,ACC_00192,9992.26,debit,2024-04-29 00:00:00,pending,Ellis-Jackson,electronics
+TXN_000625,ACC_00125,36981.69,payment,2024-02-27 00:00:00,failed,Robinson-Phillips,entertainment
+TXN_000626,ACC_00057,17170.14,transfer,2024-01-08 00:00:00,completed,Clarke Ltd,groceries
+TXN_000627,ACC_00276,10458.39,debit,2024-06-18 00:00:00,completed,"Whitehead, Lane and Tran",entertainment
+TXN_000628,ACC_00073,24156.49,credit,2024-10-07 00:00:00,completed,Miller PLC,groceries
+TXN_000629,ACC_00146,8524.28,debit,2024-05-10 00:00:00,pending,Atkins-Robinson,entertainment
+TXN_000630,ACC_00005,23253.39,credit,2024-01-28 00:00:00,completed,Hood-Ramirez,entertainment
+TXN_000631,ACC_00185,42605.63,credit,2024-12-05 00:00:00,completed,"Patterson, Salas and Wright",restaurant
+TXN_000632,ACC_00261,48989.84,credit,2024-04-28 00:00:00,failed,Riley-Snow,fuel
+TXN_000633,ACC_00096,26582.72,debit,2024-11-01 00:00:00,completed,"Shah, Mcintyre and Villanueva",fuel
+TXN_000634,ACC_00012,46318.24,credit,2024-10-14 00:00:00,completed,Baird-Williams,entertainment
+TXN_000635,ACC_00081,24501.74,credit,2024-06-19 00:00:00,completed,Quinn-Gordon,utilities
+TXN_000636,ACC_00121,31265.3,payment,2024-06-30 00:00:00,completed,Schmidt-Mendoza,groceries
+TXN_000637,ACC_00199,12891.39,credit,2024-11-16 00:00:00,failed,"Nicholson, Chavez and Allen",entertainment
+TXN_000638,ACC_00202,7593.89,debit,2024-04-25 00:00:00,completed,"Mullins, Steele and Russell",restaurant
+TXN_000639,ACC_00117,48030.68,withdrawal,2024-09-23 00:00:00,completed,Anderson LLC,travel
+TXN_000640,ACC_00310,48527.15,transfer,2024-08-06 00:00:00,completed,Holland Inc,travel
+TXN_000641,ACC_00298,32627.11,payment,2024-04-15 00:00:00,completed,Castillo LLC,healthcare
+TXN_000642,ACC_00269,15456.83,debit,2024-03-11 00:00:00,completed,Warner PLC,travel
+TXN_000643,ACC_00081,-46652.17,transfer,2024-12-01 00:00:00,completed,"Silva, Bray and Ford",electronics
+TXN_000644,ACC_00075,15886.7,credit,2024-04-04 00:00:00,pending,Sawyer Group,restaurant
+TXN_000645,ACC_00141,15174.37,debit,2024-07-29 00:00:00,pending,Clarke LLC,electronics
+TXN_000646,ACC_00137,9245.48,payment,2024-03-08 00:00:00,completed,"Marshall, Schultz and Dalton",healthcare
+TXN_000647,ACC_00014,11616.8,transfer,2024-11-01 00:00:00,completed,Cruz Ltd,fuel
+TXN_000648,ACC_00310,25121.21,withdrawal,2024-03-09 00:00:00,completed,Schmidt-Phillips,utilities
+TXN_000649,ACC_00252,42607.95,withdrawal,2024-04-04 00:00:00,completed,Wolfe-Salazar,healthcare
+TXN_000650,ACC_00008,1621.16,transfer,2024-04-25 00:00:00,reversed,"Norton, French and Miller",healthcare
+TXN_000651,ACC_00105,49412.29,credit,2024-12-09 00:00:00,completed,Fitzgerald-Brown,fuel
+TXN_000652,ACC_00167,24502.25,withdrawal,2024-11-11 00:00:00,failed,"Cox, Williams and Reyes",restaurant
+TXN_000653,ACC_00312,38812.97,withdrawal,2024-07-26 00:00:00,completed,Harvey-Diaz,restaurant
+TXN_000654,ACC_00293,46957.57,payment,2024-11-09 00:00:00,completed,Wong Ltd,groceries
+TXN_000655,ACC_00234,5474.72,credit,2024-09-23 00:00:00,failed,Castro and Sons,healthcare
+TXN_000656,ACC_00021,26898.08,payment,2024-09-22 00:00:00,completed,Zavala and Sons,groceries
+TXN_000657,ACC_00204,14566.06,,2024-04-07 00:00:00,pending,"Wilson, Mendoza and Crosby",entertainment
+TXN_000658,ACC_00151,8332.67,payment,2024-08-24 00:00:00,failed,"Pitts, Warner and Mullins",travel
+TXN_000659,ACC_00232,41496.38,credit,2024-08-25 00:00:00,completed,Flores LLC,electronics
+TXN_000660,ACC_00280,38938.77,debit,2024-04-02 00:00:00,completed,"Frazier, Ramirez and Brown",utilities
+TXN_000661,ACC_00233,1255.36,payment,2024-08-18 00:00:00,failed,Chavez-Mason,healthcare
+TXN_000662,ACC_00166,4518.08,debit,2024-08-20 00:00:00,completed,Harrison PLC,electronics
+TXN_000663,ACC_00231,5717.11,transfer,2024-02-16 00:00:00,completed,"Bryan, Lam and Hayes",restaurant
+TXN_000664,ACC_00082,30607.51,withdrawal,2024-09-18 00:00:00,completed,Marsh-Dougherty,groceries
+TXN_000665,ACC_00290,45613.52,debit,2024-03-28 00:00:00,completed,Lopez Group,travel
+TXN_000666,ACC_00027,38460.15,withdrawal,2024-04-01 00:00:00,completed,Miller and Sons,fuel
+TXN_000667,ACC_00061,31326.38,debit,2024-05-27 00:00:00,reversed,Mullen-Jones,groceries
+TXN_000668,ACC_00007,38272.14,withdrawal,2024-11-14 00:00:00,completed,Hill Ltd,fuel
+TXN_000669,ACC_00312,40374.65,withdrawal,2024-10-05 00:00:00,completed,Crawford and Sons,fuel
+TXN_000670,ACC_00041,20513.47,payment,2024-08-20 00:00:00,completed,"Crane, Johnson and Butler",healthcare
+TXN_000671,ACC_00286,13912.87,debit,2024-10-07 00:00:00,completed,"Weaver, Anderson and Reed",travel
+TXN_000672,ACC_00019,32667.31,debit,2024-01-29 00:00:00,failed,Rojas-Smith,entertainment
+TXN_000673,ACC_00026,46020.03,credit,2024-06-18 00:00:00,completed,Brown and Sons,travel
+TXN_000674,ACC_00313,33607.8,payment,2024-03-23 00:00:00,completed,"Newman, Jenkins and Cooper",travel
+TXN_000675,ACC_00185,37469.25,credit,2024-08-21 00:00:00,completed,"Buchanan, Tucker and Wade",entertainment
+TXN_000676,ACC_00195,18434.79,credit,2024-06-14 00:00:00,pending,"Wilkinson, Wallace and Torres",electronics
+TXN_000677,ACC_00063,23546.13,transfer,2024-05-29 00:00:00,completed,Villanueva LLC,restaurant
+TXN_000678,ACC_00108,10500.17,payment,2024-09-25 00:00:00,completed,Mccormick and Sons,electronics
+TXN_000679,ACC_00310,-36206.47,transfer,2024-09-04 00:00:00,completed,Watson-Roberts,utilities
+TXN_000680,ACC_00182,26274.31,debit,2024-05-12 00:00:00,completed,Hernandez LLC,fuel
+TXN_000681,ACC_00255,36461.95,withdrawal,2024-09-23 00:00:00,pending,Huber-Montgomery,healthcare
+TXN_000682,ACC_00100,14531.5,credit,2024-12-28 00:00:00,completed,Joseph LLC,fuel
+TXN_000683,ACC_00107,39838.66,payment,2024-11-16 00:00:00,reversed,Mcpherson Ltd,restaurant
+TXN_000684,ACC_00287,16696.27,debit,2024-01-24 00:00:00,completed,"Conway, Bauer and Martin",healthcare
+TXN_000685,ACC_00035,14088.52,transfer,2024-12-19 00:00:00,completed,Williams LLC,utilities
+TXN_000686,ACC_00171,5700.7,transfer,2024-01-04 00:00:00,completed,"Martinez, Green and Lopez",groceries
+TXN_000687,ACC_00174,9708.84,withdrawal,2024-03-30 00:00:00,failed,"Mann, Wade and Spence",groceries
+TXN_000688,ACC_00080,,withdrawal,2024-11-26 00:00:00,failed,Watson PLC,utilities
+TXN_000689,ACC_00212,39201.61,credit,2024-08-24 00:00:00,pending,Ferguson Inc,entertainment
+TXN_000690,ACC_00162,36250.96,payment,2024-10-16 00:00:00,completed,Sullivan Group,healthcare
+TXN_000691,ACC_00182,34277.81,credit,2024-10-22 00:00:00,reversed,Gould LLC,entertainment
+TXN_000692,ACC_00193,16964.23,payment,2024-01-16 00:00:00,pending,Smith Ltd,restaurant
+TXN_000693,ACC_00158,29763.64,transfer,2024-04-05 00:00:00,completed,"Cantrell, Rivera and Thornton",entertainment
+TXN_000694,ACC_00122,4349.02,transfer,2024-07-30 00:00:00,completed,Kemp-Montes,entertainment
+TXN_000695,ACC_00090,26259.77,credit,2024-04-20 00:00:00,completed,"Estrada, Marsh and Chandler",groceries
+TXN_000696,ACC_00228,45668.56,payment,2024-04-13 00:00:00,completed,Morgan-Rodriguez,fuel
+TXN_000697,ACC_00175,7712.35,,2024-09-13 00:00:00,completed,Mccullough-Taylor,entertainment
+TXN_000698,ACC_00051,7173.32,payment,2024-06-16 00:00:00,completed,"Wilson, Johnson and Williamson",travel
+TXN_000699,ACC_00236,36231.29,withdrawal,2024-04-15 00:00:00,completed,Griffin Inc,electronics
+TXN_000700,ACC_00023,15555.96,payment,2024-01-03 00:00:00,failed,Brown-Davidson,utilities
+TXN_000701,ACC_00053,44460.4,payment,2024-08-27 00:00:00,pending,"Fox, Harrington and Wang",entertainment
+TXN_000702,ACC_00160,28882.22,debit,2024-01-12 00:00:00,completed,Johnson PLC,healthcare
+TXN_000703,ACC_00164,13839.71,withdrawal,2024-05-26 00:00:00,completed,Rhodes-Rosario,entertainment
+TXN_000704,ACC_00059,7883.23,credit,2024-03-17 00:00:00,reversed,"Foster, Henry and Morrison",electronics
+TXN_000705,ACC_00282,27131.01,transfer,2024-04-15 00:00:00,completed,"Harding, Kerr and Ward",entertainment
+TXN_000706,ACC_00037,12248.81,transfer,2024-10-20 00:00:00,completed,Baldwin Group,utilities
+TXN_000707,ACC_00067,22187.95,credit,2024-10-03 00:00:00,completed,Hughes-Smith,groceries
+TXN_000708,ACC_00045,19186.15,withdrawal,2024-02-24 00:00:00,completed,Bell-Madden,fuel
+TXN_000709,ACC_00171,17787.66,debit,2024-11-11 00:00:00,completed,"Miller, Luna and Wallace",electronics
+TXN_000710,ACC_00048,28393.79,withdrawal,2024-08-26 00:00:00,completed,Lara-Roberts,entertainment
+TXN_000711,ACC_00239,32224.49,withdrawal,2024-12-16 00:00:00,completed,"Waller, Coleman and Mosley",healthcare
+TXN_000712,ACC_00133,43056.2,transfer,2024-03-14 00:00:00,completed,Houston PLC,utilities
+TXN_000713,ACC_00016,22669.62,credit,2024-06-15 00:00:00,completed,Thomas LLC,utilities
+TXN_000714,ACC_00088,23067.47,transfer,2024-09-02 00:00:00,pending,Mcneil-Fox,travel
+TXN_000715,ACC_00055,5155.58,transfer,2024-09-17 00:00:00,completed,Jones-Choi,electronics
+TXN_000716,ACC_00206,26641.95,payment,2024-06-03 00:00:00,completed,Davis-Ortiz,healthcare
+TXN_000717,ACC_00247,7959.42,withdrawal,2024-10-07 00:00:00,completed,Perry-Peters,healthcare
+TXN_000718,ACC_00223,29552.6,payment,2024-12-21 00:00:00,pending,"Bradley, Melendez and Gonzalez",healthcare
+TXN_000719,ACC_00040,33133.99,payment,2024-03-29 00:00:00,pending,Roberts-Henry,electronics
+TXN_000720,ACC_00167,29807.81,payment,2024-10-30 00:00:00,completed,Davenport-Torres,fuel
+TXN_000721,ACC_00208,15408.71,credit,2024-03-31 00:00:00,completed,"Singh, Walker and Moody",restaurant
+TXN_000722,ACC_00032,24719.81,credit,2024-06-16 00:00:00,completed,Baker Ltd,travel
+TXN_000723,ACC_00001,45163.77,debit,2024-10-24 00:00:00,completed,"Kennedy, Valdez and Stafford",fuel
+TXN_000724,ACC_00296,14582.25,withdrawal,2024-09-29 00:00:00,completed,White-Knox,utilities
+TXN_000725,ACC_00156,-28518.12,withdrawal,2024-06-02 00:00:00,completed,"Sanchez, Wilson and Ramirez",utilities
+TXN_000726,ACC_00262,29140.52,withdrawal,2024-02-15 00:00:00,pending,George LLC,entertainment
+TXN_000727,ACC_00282,18467.45,credit,2024-02-01 00:00:00,completed,"Castillo, Graham and Scott",utilities
+TXN_000728,ACC_00016,43063.78,debit,2024-02-26 00:00:00,completed,"Alvarez, Benson and Wilson",restaurant
+TXN_000729,ACC_00196,15913.18,withdrawal,2024-11-16 00:00:00,completed,"Quinn, Smith and Green",healthcare
+TXN_000730,ACC_00072,8678.77,debit,2024-12-05 00:00:00,completed,"Brown, Flores and Johns",utilities
+TXN_000731,ACC_00065,7721.82,debit,2024-08-01 00:00:00,completed,Howard Inc,groceries
+TXN_000732,ACC_00250,36069.75,withdrawal,2024-03-14 00:00:00,reversed,Ward-Fields,travel
+TXN_000733,ACC_00213,6869.64,withdrawal,2024-02-13 00:00:00,failed,Williams-Carter,restaurant
+TXN_000734,ACC_00261,8998.07,withdrawal,2024-11-15 00:00:00,completed,"Mayer, Palmer and Miranda",fuel
+TXN_000735,ACC_00096,17771.81,withdrawal,2024-07-15 00:00:00,completed,Duran PLC,fuel
+TXN_000736,ACC_00138,35609.38,withdrawal,2024-05-01 00:00:00,failed,Stephens LLC,utilities
+TXN_000737,ACC_00291,48911.89,withdrawal,2024-01-18 00:00:00,completed,"Marsh, Nelson and Wolfe",electronics
+TXN_000738,ACC_00041,24081.83,debit,2024-10-24 00:00:00,completed,Davis-Carpenter,entertainment
+TXN_000739,ACC_00268,25852.31,payment,2024-08-26 00:00:00,completed,Smith PLC,fuel
+TXN_000740,ACC_00040,37086.89,payment,2024-11-18 00:00:00,pending,Watson-Washington,entertainment
+TXN_000741,ACC_00176,2648.19,payment,2024-11-09 00:00:00,pending,Mccall-Martin,fuel
+TXN_000742,ACC_00241,25638.03,payment,2024-08-20 00:00:00,completed,Moore and Sons,restaurant
+TXN_000743,ACC_00151,48029.46,transfer,2024-06-29 00:00:00,completed,Pope PLC,entertainment
+TXN_000744,ACC_00243,13029.55,payment,2024-10-15 00:00:00,completed,"Norris, Cisneros and Mathis",groceries
+TXN_000745,ACC_00014,49518.34,transfer,2024-12-02 00:00:00,completed,"Arnold, Avila and Wilson",travel
+TXN_000746,ACC_00143,3852.34,transfer,2024-09-15 00:00:00,completed,Moon-Wilson,entertainment
+TXN_000747,ACC_00008,42894.34,credit,2024-05-20 00:00:00,completed,Mclean Group,travel
+TXN_000748,ACC_00090,22338.19,transfer,2024-12-03 00:00:00,pending,Collins-Cox,healthcare
+TXN_000749,ACC_00271,9048.65,credit,2024-09-05 00:00:00,completed,Preston-Harper,electronics
+TXN_000750,ACC_00079,29781.25,withdrawal,2024-03-15 00:00:00,pending,Jackson-Torres,restaurant
+TXN_000751,ACC_00226,11904.99,debit,2024-07-15 00:00:00,completed,"Olsen, Walker and Vincent",utilities
+TXN_000752,ACC_00060,32116.63,credit,2024-01-28 00:00:00,completed,Watts LLC,restaurant
+TXN_000753,ACC_00273,15075.34,debit,2024-08-31 00:00:00,completed,Clark Inc,restaurant
+TXN_000754,ACC_00272,13138.63,withdrawal,2024-08-30 00:00:00,completed,Vazquez-Bowers,fuel
+TXN_000755,ACC_00272,33927.89,credit,2024-07-14 00:00:00,completed,Smith Group,utilities
+TXN_000756,ACC_00140,30528.17,transfer,2024-08-09 00:00:00,completed,Williams-Rodriguez,electronics
+TXN_000757,ACC_00201,,withdrawal,2024-05-10 00:00:00,pending,"Palmer, Brown and Wilson",healthcare
+TXN_000758,ACC_00100,-29440.33,payment,2024-12-10 00:00:00,completed,Williams-Turner,travel
+TXN_000759,ACC_00005,-27385.15,credit,2024-06-09 00:00:00,completed,Webster Inc,electronics
+TXN_000760,ACC_00229,5204.33,transfer,2024-09-25 00:00:00,completed,"Harris, Santana and Lopez",entertainment
+TXN_000761,ACC_00013,9662.05,payment,2024-05-08 00:00:00,completed,Johnson-Thomas,healthcare
+TXN_000762,ACC_00062,31907.76,credit,2024-11-02 00:00:00,failed,"Mcmahon, Rush and Bailey",travel
+TXN_000763,ACC_00290,32823.17,debit,2024-07-11 00:00:00,failed,Wyatt Ltd,travel
+TXN_000764,ACC_00039,14735.49,withdrawal,2024-05-09 00:00:00,failed,"Allen, Hudson and Garcia",entertainment
+TXN_000765,ACC_00166,34614.15,transfer,2024-08-06 00:00:00,completed,"Hines, Rice and Baldwin",electronics
+TXN_000766,ACC_00196,38857.53,withdrawal,2024-05-21 00:00:00,completed,Jackson-Webster,groceries
+TXN_000767,ACC_00136,47780.73,debit,2024-05-12 00:00:00,completed,Beltran Inc,fuel
+TXN_000768,ACC_00092,-30518.99,withdrawal,2024-04-12 00:00:00,completed,Knapp Ltd,restaurant
+TXN_000769,ACC_00055,30702.17,withdrawal,2024-04-21 00:00:00,completed,Richardson-Lawrence,electronics
+TXN_000770,ACC_00293,3655.25,transfer,2024-01-18 00:00:00,pending,Nunez-Rodriguez,groceries
+TXN_000771,ACC_00001,7451.23,credit,2024-09-11 00:00:00,completed,Zavala-Coleman,entertainment
+TXN_000772,ACC_00201,35005.76,payment,2024-03-18 00:00:00,completed,"Perez, Rodriguez and Rollins",fuel
+TXN_000773,ACC_00036,21808.52,payment,2024-09-01 00:00:00,completed,Owens PLC,restaurant
+TXN_000774,ACC_00247,40900.65,credit,2024-12-18 00:00:00,completed,Simpson LLC,utilities
+TXN_000775,ACC_00206,34094.97,credit,2024-06-19 00:00:00,completed,"Roberts, Bowen and Miller",electronics
+TXN_000776,ACC_00175,26735.97,credit,2024-07-06 00:00:00,pending,Wilson-Campbell,entertainment
+TXN_000777,ACC_00284,,credit,2024-11-27 00:00:00,reversed,"Fitzgerald, Mcdaniel and Randall",healthcare
+TXN_000778,ACC_00055,34797.16,transfer,2024-06-02 00:00:00,completed,Spencer LLC,fuel
+TXN_000779,ACC_00099,7005.75,credit,2024-04-07 00:00:00,completed,Lopez-Jones,healthcare
+TXN_000780,ACC_00277,19444.49,transfer,2024-09-07 00:00:00,completed,Crosby-Richardson,fuel
+TXN_000781,ACC_00029,1861.76,transfer,2024-01-09 00:00:00,pending,Lutz Group,groceries
+TXN_000782,ACC_00268,5918.17,withdrawal,2024-07-26 00:00:00,failed,"Garcia, Kim and Barrett",travel
+TXN_000783,ACC_00037,11656.95,credit,2024-10-23 00:00:00,completed,Wilson Group,fuel
+TXN_000784,ACC_00024,962.96,debit,2024-11-30 00:00:00,completed,Neal-Madden,travel
+TXN_000785,ACC_00026,8620.73,transfer,2024-01-08 00:00:00,pending,"Schaefer, Levine and Brown",electronics
+TXN_000786,ACC_00303,30565.18,credit,2024-08-21 00:00:00,pending,Morgan PLC,electronics
+TXN_000787,ACC_00113,24862.2,credit,2024-02-28 00:00:00,pending,Martinez-Massey,restaurant
+TXN_000788,ACC_00206,40577.94,transfer,2024-06-21 00:00:00,completed,"Porter, Hubbard and Miranda",travel
+TXN_000789,ACC_00110,41822.99,credit,2024-06-13 00:00:00,completed,"Nelson, Clarke and Schneider",utilities
+TXN_000790,ACC_00073,6046.07,withdrawal,2024-02-02 00:00:00,completed,Kelly-Estrada,utilities
+TXN_000791,ACC_00125,8258.66,payment,2024-10-10 00:00:00,completed,Archer-Dixon,electronics
+TXN_000792,ACC_00081,30625.95,credit,2024-11-19 00:00:00,failed,Tate Inc,electronics
+TXN_000793,ACC_00046,371.13,payment,2024-01-04 00:00:00,failed,King Group,restaurant
+TXN_000794,ACC_00244,40372.52,debit,2024-12-21 00:00:00,completed,Fuller and Sons,entertainment
+TXN_000795,ACC_00123,22526.45,debit,2024-09-24 00:00:00,completed,Garcia Inc,groceries
+TXN_000796,ACC_00256,9008.22,payment,2024-11-01 00:00:00,reversed,Jimenez Inc,entertainment
+TXN_000797,ACC_00286,-20945.11,debit,2024-06-27 00:00:00,completed,Reyes Ltd,electronics
+TXN_000798,ACC_00277,18101.45,payment,2024-11-12 00:00:00,completed,Hernandez-Howell,healthcare
+TXN_000799,ACC_00058,2662.92,debit,2024-05-21 00:00:00,completed,Wolf Ltd,fuel
+TXN_000800,ACC_00023,8824.43,credit,2024-09-11 00:00:00,completed,"Saunders, Sparks and Harris",entertainment
+TXN_000801,ACC_00172,21739.24,payment,2024-04-17 00:00:00,pending,"Jimenez, Wagner and Daniels",fuel
+TXN_000802,ACC_00027,5230.01,payment,2024-01-23 00:00:00,completed,"Payne, Cisneros and Johnson",groceries
+TXN_000803,ACC_00037,25750.04,debit,2024-09-05 00:00:00,completed,Beard-Wilson,utilities
+TXN_000804,ACC_00167,9945.58,debit,2024-08-02 00:00:00,pending,Edwards-Bennett,utilities
+TXN_000805,ACC_00212,4912.23,debit,2024-04-26 00:00:00,completed,Johnson-Thompson,healthcare
+TXN_000806,ACC_00249,23554.8,credit,2024-02-07 00:00:00,failed,"Dalton, Turner and Mccarthy",travel
+TXN_000807,ACC_00233,,debit,2024-04-20 00:00:00,completed,Jordan-Edwards,travel
+TXN_000808,ACC_00184,35993.86,transfer,2024-08-22 00:00:00,completed,Freeman-Rodriguez,travel
+TXN_000809,ACC_00031,34613.6,transfer,2024-01-17 00:00:00,completed,"Henry, Spencer and Ryan",fuel
+TXN_000810,ACC_00176,20917.01,debit,2024-08-22 00:00:00,failed,Alvarez-Dickerson,travel
+TXN_000811,ACC_00088,-47638.48,payment,2024-11-22 00:00:00,reversed,"Brown, Baker and Garza",healthcare
+TXN_000812,ACC_00268,20590.69,withdrawal,2024-02-14 00:00:00,failed,Jensen-Gomez,healthcare
+TXN_000813,ACC_00237,23679.71,transfer,2024-10-29 00:00:00,completed,Flores-Johnson,restaurant
+TXN_000814,ACC_00223,12399.09,,2024-05-06 00:00:00,completed,Anderson LLC,travel
+TXN_000815,ACC_00214,44913.61,credit,2024-10-20 00:00:00,completed,Pacheco-Silva,fuel
+TXN_000816,ACC_00272,1690.69,withdrawal,2024-09-15 00:00:00,completed,"Peterson, Davis and Reed",electronics
+TXN_000817,ACC_00043,24769.3,payment,2024-08-19 00:00:00,pending,Jenkins-Brown,restaurant
+TXN_000818,ACC_00152,6644.27,debit,2024-04-21 00:00:00,completed,Wright Ltd,electronics
+TXN_000819,ACC_00157,23994.35,debit,2024-01-09 00:00:00,completed,Watkins-Lozano,groceries
+TXN_000820,ACC_00071,23193.39,withdrawal,2024-08-20 00:00:00,completed,Melton Inc,utilities
+TXN_000821,ACC_00001,23220.15,credit,2024-11-16 00:00:00,completed,Jackson-Ryan,utilities
+TXN_000822,ACC_00219,1645.38,transfer,2024-09-28 00:00:00,completed,Murray Group,healthcare
+TXN_000823,ACC_00172,4057.14,credit,2024-12-16 00:00:00,completed,"Robertson, Fisher and Smith",utilities
+TXN_000824,ACC_00188,5557.22,withdrawal,2024-01-27 00:00:00,completed,Chapman-Odom,utilities
+TXN_000825,ACC_00287,8771.62,credit,2024-07-06 00:00:00,completed,Hudson-Morris,healthcare
+TXN_000826,ACC_00123,49062.77,payment,2024-03-11 00:00:00,completed,Stokes Inc,fuel
+TXN_000827,ACC_00108,43557.86,debit,2024-10-24 00:00:00,completed,"Leonard, Rogers and Shaw",entertainment
+TXN_000828,ACC_00142,34014.53,credit,2024-09-14 00:00:00,completed,"Morgan, Mendez and Cox",utilities
+TXN_000829,ACC_00270,,credit,2024-08-19 00:00:00,completed,Harris-Reid,entertainment
+TXN_000830,ACC_00034,31051.35,debit,2024-08-19 00:00:00,failed,Pittman PLC,fuel
+TXN_000831,ACC_00092,4017.72,transfer,2024-02-14 00:00:00,reversed,Mitchell Inc,electronics
+TXN_000832,ACC_00058,8246.66,debit,2024-02-25 00:00:00,completed,Davies-Morales,healthcare
+TXN_000833,ACC_00012,47605.72,transfer,2024-09-23 00:00:00,completed,Weber Inc,travel
+TXN_000834,ACC_00228,17341.55,credit,2024-08-30 00:00:00,completed,"Richard, Davis and Rogers",electronics
+TXN_000835,ACC_00119,43590.97,payment,2024-01-12 00:00:00,completed,Knight PLC,restaurant
+TXN_000836,ACC_00168,17146.2,withdrawal,2024-10-23 00:00:00,completed,Simmons-Reed,fuel
+TXN_000837,ACC_00068,15211.08,transfer,2024-08-22 00:00:00,completed,Pearson LLC,entertainment
+TXN_000838,ACC_00148,24217.31,,2024-04-26 00:00:00,completed,"Brock, Reynolds and Fernandez",entertainment
+TXN_000839,ACC_00083,47811.13,payment,2024-08-21 00:00:00,completed,Perry LLC,travel
+TXN_000840,ACC_00079,34646.03,debit,2024-12-28 00:00:00,completed,"Robertson, Powers and Kelley",groceries
+TXN_000841,ACC_00226,,transfer,2024-06-11 00:00:00,completed,Burton PLC,healthcare
+TXN_000842,ACC_00163,35359.65,transfer,2024-10-14 00:00:00,completed,Ray and Sons,fuel
+TXN_000843,ACC_00274,48773.53,transfer,2024-10-03 00:00:00,completed,"Hayden, Harmon and Mcdonald",groceries
+TXN_000844,ACC_00075,46554.14,withdrawal,2024-07-26 00:00:00,failed,"Patel, Mendez and Hammond",travel
+TXN_000845,ACC_00280,48507.81,payment,2024-01-03 00:00:00,completed,Michael-Barber,entertainment
+TXN_000846,ACC_00294,44799.91,debit,2024-08-30 00:00:00,pending,Boyd LLC,fuel
+TXN_000847,ACC_00246,34460.46,credit,2024-06-22 00:00:00,completed,Hernandez-Hernandez,electronics
+TXN_000848,ACC_00113,1249.53,withdrawal,2024-06-06 00:00:00,completed,"Cannon, Richard and Jenkins",utilities
+TXN_000849,ACC_00100,30411.48,payment,2024-01-29 00:00:00,completed,Walters Group,entertainment
+TXN_000850,ACC_00276,1137.21,withdrawal,2024-04-10 00:00:00,completed,Colon-Lucas,electronics
+TXN_000851,ACC_00252,19727.24,transfer,2024-09-19 00:00:00,completed,Mcdaniel-Young,groceries
+TXN_000852,ACC_00076,18059.63,withdrawal,2024-12-07 00:00:00,completed,Wilson and Sons,utilities
+TXN_000853,ACC_00180,14239.67,transfer,2024-01-07 00:00:00,reversed,Sanchez LLC,electronics
+TXN_000854,ACC_00228,36395.39,withdrawal,2024-04-20 00:00:00,pending,Washington-Esparza,entertainment
+TXN_000855,ACC_00218,40285.58,,2024-03-24 00:00:00,completed,Lucas-Johnson,electronics
+TXN_000856,ACC_00244,10397.11,payment,2024-03-14 00:00:00,reversed,Nelson Inc,electronics
+TXN_000857,ACC_00046,37808.14,credit,2024-10-29 00:00:00,completed,Clarke-Ramirez,entertainment
+TXN_000858,ACC_00237,8752.9,payment,2024-07-31 00:00:00,pending,"Thompson, Phelps and Stuart",travel
+TXN_000859,ACC_00196,9308.46,transfer,2024-04-12 00:00:00,completed,Casey-Brown,groceries
+TXN_000860,ACC_00156,41730.91,withdrawal,2024-06-03 00:00:00,completed,Edwards LLC,fuel
+TXN_000861,ACC_00002,1351.73,debit,2024-04-24 00:00:00,completed,Lester Group,fuel
+TXN_000862,ACC_00148,-32694.11,withdrawal,2024-03-04 00:00:00,completed,Powers-Blackwell,healthcare
+TXN_000863,ACC_00142,5976.54,withdrawal,2024-01-15 00:00:00,reversed,Hahn-Ramsey,electronics
+TXN_000864,ACC_00298,37280.82,withdrawal,2024-11-02 00:00:00,completed,Young PLC,entertainment
+TXN_000865,ACC_00062,34298.78,transfer,2024-11-17 00:00:00,completed,"Mason, Martinez and Beck",groceries
+TXN_000866,ACC_00030,8150.73,debit,2024-05-12 00:00:00,completed,"Herring, Huynh and King",travel
+TXN_000867,ACC_00140,8173.81,transfer,2024-07-01 00:00:00,completed,Young Inc,utilities
+TXN_000868,ACC_00272,14499.91,credit,2024-01-25 00:00:00,completed,Murphy-Silva,travel
+TXN_000869,ACC_00086,29942.14,payment,2024-02-18 00:00:00,completed,Shaffer-Manning,utilities
+TXN_000870,ACC_00139,39995.86,transfer,2024-12-16 00:00:00,completed,Robinson-Rodriguez,utilities
+TXN_000871,ACC_00266,654.75,transfer,2024-03-14 00:00:00,completed,Booker Group,fuel
+TXN_000872,ACC_00084,17022.25,credit,2024-07-29 00:00:00,completed,King-Lawrence,healthcare
+TXN_000873,ACC_00287,39757.39,payment,2024-04-06 00:00:00,completed,Ferguson-Lyons,electronics
+TXN_000874,ACC_00040,23029.96,credit,2024-08-01 00:00:00,pending,Stewart Group,groceries
+TXN_000875,ACC_00186,17417.01,debit,2024-09-02 00:00:00,pending,Vega-Richmond,utilities
+TXN_000876,ACC_00015,35497.65,credit,2024-03-29 00:00:00,completed,Cox Ltd,travel
+TXN_000877,ACC_00065,11336.46,debit,2024-12-18 00:00:00,completed,Underwood-Smith,electronics
+TXN_000878,ACC_00058,34544.0,credit,2024-08-05 00:00:00,completed,"Johnson, Stevenson and Lindsey",fuel
+TXN_000879,ACC_00056,2135.42,credit,2024-08-08 00:00:00,pending,Vazquez Ltd,groceries
+TXN_000880,ACC_00130,5954.92,credit,2024-08-28 00:00:00,completed,King Group,groceries
+TXN_000881,ACC_00309,39120.72,debit,2024-02-19 00:00:00,completed,Fowler-Haynes,healthcare
+TXN_000882,ACC_00015,33533.33,credit,2024-04-04 00:00:00,completed,"Martinez, Camacho and Mathews",entertainment
+TXN_000883,ACC_00083,17398.35,payment,2024-10-23 00:00:00,pending,Smith-Yu,healthcare
+TXN_000884,ACC_00051,28516.07,payment,2024-09-15 00:00:00,pending,Turner-Mayer,healthcare
+TXN_000885,ACC_00088,-48213.55,payment,2024-04-08 00:00:00,completed,Evans and Sons,electronics
+TXN_000886,ACC_00244,46024.65,transfer,2024-04-19 00:00:00,completed,Welch-Suarez,travel
+TXN_000887,ACC_00055,33679.55,debit,2024-08-13 00:00:00,pending,"Sullivan, Johnson and Delacruz",restaurant
+TXN_000888,ACC_00117,10721.56,withdrawal,2024-08-05 00:00:00,completed,Ruiz-Gutierrez,utilities
+TXN_000889,ACC_00267,23300.43,debit,2024-03-04 00:00:00,completed,Love-Mcdowell,utilities
+TXN_000890,ACC_00021,14420.68,credit,2024-12-26 00:00:00,completed,Holloway Ltd,electronics
+TXN_000891,ACC_00308,14187.74,transfer,2024-07-16 00:00:00,completed,Hunter-Bell,fuel
+TXN_000892,ACC_00149,27700.26,withdrawal,2024-04-25 00:00:00,completed,"Daniel, Kelley and Murphy",electronics
+TXN_000893,ACC_00189,,debit,2024-08-31 00:00:00,completed,"Johnson, Williams and May",fuel
+TXN_000894,ACC_00225,5267.54,payment,2024-12-10 00:00:00,completed,"Ramos, Davidson and Smith",electronics
+TXN_000895,ACC_00206,7176.94,payment,2024-03-02 00:00:00,reversed,Fuller LLC,travel
+TXN_000896,ACC_00102,18191.86,,2024-02-03 00:00:00,completed,"Miller, Moore and Black",restaurant
+TXN_000897,ACC_00218,11651.15,withdrawal,2024-03-03 00:00:00,completed,"Hines, Bradford and Jennings",entertainment
+TXN_000898,ACC_00183,47161.82,withdrawal,2024-11-25 00:00:00,completed,Hayes-Russo,restaurant
+TXN_000899,ACC_00076,25575.61,withdrawal,2024-09-05 00:00:00,completed,Green Ltd,entertainment
+TXN_000900,ACC_00069,24868.72,credit,2024-09-07 00:00:00,completed,"Serrano, Marsh and Gonzalez",groceries
+TXN_000901,ACC_00014,24911.76,debit,2024-02-04 00:00:00,completed,Richardson-Long,utilities
+TXN_000902,ACC_00050,15144.6,credit,2024-03-19 00:00:00,completed,Duffy-Wilkerson,fuel
+TXN_000903,ACC_00255,-10104.57,withdrawal,2024-08-26 00:00:00,completed,Smith Inc,utilities
+TXN_000904,ACC_00017,27335.54,withdrawal,2024-10-03 00:00:00,failed,"Holland, Sims and Meadows",electronics
+TXN_000905,ACC_00193,22511.27,withdrawal,2024-07-15 00:00:00,completed,Gonzalez-Haynes,groceries
+TXN_000906,ACC_00156,27837.76,debit,2024-03-31 00:00:00,completed,Williams PLC,travel
+TXN_000907,ACC_00250,35789.0,credit,2024-06-08 00:00:00,completed,Burke-Hernandez,fuel
+TXN_000908,ACC_00277,27693.66,payment,2024-12-03 00:00:00,completed,Jackson-Bradley,travel
+TXN_000909,ACC_00135,2796.3,withdrawal,2024-09-16 00:00:00,completed,Higgins Group,restaurant
+TXN_000910,ACC_00146,33827.62,transfer,2024-11-11 00:00:00,completed,Wilcox-Snyder,groceries
+TXN_000911,ACC_00179,41848.34,payment,2024-03-06 00:00:00,completed,Reeves and Sons,utilities
+TXN_000912,ACC_00177,4876.53,transfer,2024-07-13 00:00:00,completed,Roberts-Snyder,groceries
+TXN_000913,ACC_00121,12219.0,transfer,2024-12-04 00:00:00,completed,Reynolds and Sons,electronics
+TXN_000914,ACC_00087,5732.42,credit,2024-06-05 00:00:00,completed,"Lewis, Holloway and Acosta",groceries
+TXN_000915,ACC_00217,32891.81,payment,2024-08-23 00:00:00,completed,Barnes Group,restaurant
+TXN_000916,ACC_00241,1029.91,payment,2024-05-16 00:00:00,completed,Johnson LLC,utilities
+TXN_000917,ACC_00166,28521.97,payment,2024-07-12 00:00:00,completed,Williamson and Sons,fuel
+TXN_000918,ACC_00106,34546.29,transfer,2024-02-21 00:00:00,completed,Aguilar-Holland,utilities
+TXN_000919,ACC_00187,30745.25,withdrawal,2024-03-26 00:00:00,completed,Smith and Sons,electronics
+TXN_000920,ACC_00136,10711.86,,2024-10-01 00:00:00,completed,Mccann-Sanders,restaurant
+TXN_000921,ACC_00048,31232.37,payment,2024-04-25 00:00:00,completed,Reeves Ltd,utilities
+TXN_000922,ACC_00272,3372.82,withdrawal,2024-05-19 00:00:00,completed,Fitzgerald-Scott,utilities
+TXN_000923,ACC_00155,32580.33,payment,2024-02-09 00:00:00,pending,Hawkins Inc,restaurant
+TXN_000924,ACC_00103,-27001.98,withdrawal,2024-12-05 00:00:00,completed,Galvan-Ruiz,fuel
+TXN_000925,ACC_00093,38174.48,credit,2024-12-09 00:00:00,completed,Barajas-Crosby,travel
+TXN_000926,ACC_00240,24965.19,transfer,2024-10-22 00:00:00,failed,"Mckinney, Pacheco and Smith",restaurant
+TXN_000927,ACC_00031,36333.49,payment,2024-10-16 00:00:00,completed,"Harvey, Turner and Foster",fuel
+TXN_000928,ACC_00154,12026.29,withdrawal,2024-03-16 00:00:00,completed,Anderson-Mcclain,electronics
+TXN_000929,ACC_00212,10185.87,transfer,2024-11-20 00:00:00,pending,Carpenter LLC,travel
+TXN_000930,ACC_00121,34345.88,withdrawal,2024-05-11 00:00:00,completed,Gordon LLC,travel
+TXN_000931,ACC_00159,1394.93,withdrawal,2024-04-08 00:00:00,completed,Anderson-Stewart,restaurant
+TXN_000932,ACC_00019,32349.63,debit,2024-08-04 00:00:00,completed,"Hamilton, Green and Edwards",travel
+TXN_000933,ACC_00143,12927.26,payment,2024-01-15 00:00:00,completed,Porter LLC,groceries
+TXN_000934,ACC_00029,39113.86,credit,2024-09-05 00:00:00,completed,"Ward, Jordan and Orr",entertainment
+TXN_000935,ACC_00209,45029.74,transfer,2024-02-02 00:00:00,completed,Austin-Juarez,electronics
+TXN_000936,ACC_00072,-47158.68,debit,2024-07-22 00:00:00,completed,Black-Graham,electronics
+TXN_000937,ACC_00298,33214.21,payment,2024-09-24 00:00:00,completed,Stewart Group,electronics
+TXN_000938,ACC_00161,29995.07,transfer,2024-05-01 00:00:00,pending,Peters Ltd,restaurant
+TXN_000939,ACC_00112,46775.65,debit,2024-04-30 00:00:00,completed,"Yates, Brown and Hernandez",healthcare
+TXN_000940,ACC_00131,21979.38,payment,2024-05-20 00:00:00,completed,White Group,utilities
+TXN_000941,ACC_00163,47436.06,payment,2024-12-24 00:00:00,completed,Martin-Mcdonald,healthcare
+TXN_000942,ACC_00075,43972.88,transfer,2024-05-22 00:00:00,completed,Carney Group,utilities
+TXN_000943,ACC_00311,1063.5,credit,2024-06-06 00:00:00,pending,Alexander Ltd,groceries
+TXN_000944,ACC_00123,45873.69,transfer,2024-12-19 00:00:00,completed,"Washington, Vasquez and Singleton",entertainment
+TXN_000945,ACC_00186,47924.6,credit,2024-11-23 00:00:00,completed,Martinez Inc,healthcare
+TXN_000946,ACC_00202,19429.67,transfer,2024-08-14 00:00:00,completed,Oneill and Sons,healthcare
+TXN_000947,ACC_00083,10527.22,withdrawal,2024-06-01 00:00:00,completed,Brady LLC,restaurant
+TXN_000948,ACC_00042,13709.09,withdrawal,2024-01-18 00:00:00,completed,"Macdonald, Willis and Silva",restaurant
+TXN_000949,ACC_00052,35872.13,debit,2024-06-19 00:00:00,completed,Fox PLC,electronics
+TXN_000950,ACC_00281,21049.32,transfer,2024-06-29 00:00:00,completed,Butler Inc,groceries
+TXN_000951,ACC_00095,32072.23,withdrawal,2024-01-27 00:00:00,pending,Tate Ltd,travel
+TXN_000952,ACC_00157,20039.09,transfer,2024-01-02 00:00:00,completed,Clay Inc,electronics
+TXN_000953,ACC_00067,12487.68,payment,2024-03-21 00:00:00,completed,Maldonado-Becker,utilities
+TXN_000954,ACC_00069,23923.49,transfer,2024-08-19 00:00:00,completed,Brooks-Hickman,utilities
+TXN_000955,ACC_00213,9941.2,transfer,2024-05-24 00:00:00,completed,Hood and Sons,restaurant
+TXN_000956,ACC_00012,11232.11,payment,2024-10-19 00:00:00,completed,Miller Ltd,healthcare
+TXN_000957,ACC_00102,48706.64,transfer,2024-02-15 00:00:00,completed,"Castillo, Fuller and Adams",travel
+TXN_000958,ACC_00220,20057.74,payment,2024-01-26 00:00:00,completed,"Smith, Booker and Douglas",electronics
+TXN_000959,ACC_00291,8514.44,credit,2024-07-07 00:00:00,completed,Nguyen-Dennis,restaurant
+TXN_000960,ACC_00254,41364.6,credit,2024-08-20 00:00:00,completed,"Meadows, Robles and Anderson",healthcare
+TXN_000961,ACC_00137,47303.16,transfer,2024-04-07 00:00:00,completed,Solis LLC,restaurant
+TXN_000962,ACC_00106,21571.12,payment,2024-03-07 00:00:00,completed,Yates-Manning,entertainment
+TXN_000963,ACC_00093,9476.26,withdrawal,2024-12-12 00:00:00,pending,"Crane, James and Ross",groceries
+TXN_000964,ACC_00121,48806.65,payment,2024-05-28 00:00:00,completed,Allen Group,healthcare
+TXN_000965,ACC_00235,29149.32,credit,2024-07-08 00:00:00,completed,Smith and Sons,travel
+TXN_000966,ACC_00204,48720.21,debit,2024-06-14 00:00:00,completed,Price Group,restaurant
+TXN_000967,ACC_00049,12818.72,payment,2024-11-01 00:00:00,completed,Holland-Best,utilities
+TXN_000968,ACC_00182,-23551.91,payment,2024-04-30 00:00:00,failed,Martinez Group,groceries
+TXN_000969,ACC_00196,12690.31,transfer,2024-01-03 00:00:00,reversed,Fitzgerald-Dorsey,utilities
+TXN_000970,ACC_00287,48403.21,credit,2024-03-08 00:00:00,completed,"Munoz, Howard and Davis",entertainment
+TXN_000971,ACC_00174,25192.3,withdrawal,2024-03-27 00:00:00,completed,Hunt-Burns,utilities
+TXN_000972,ACC_00073,26525.89,transfer,2024-12-29 00:00:00,completed,Alvarez-Hart,groceries
+TXN_000973,ACC_00144,24965.54,transfer,2024-03-06 00:00:00,failed,Davis-Henderson,entertainment
+TXN_000974,ACC_00136,30650.45,payment,2024-05-14 00:00:00,completed,Austin-Hamilton,travel
+TXN_000975,ACC_00252,36846.09,debit,2024-06-10 00:00:00,completed,Davis-Palmer,fuel
+TXN_000976,ACC_00028,9454.11,debit,2024-01-28 00:00:00,completed,Rhodes-Holland,fuel
+TXN_000977,ACC_00240,8186.11,withdrawal,2024-05-13 00:00:00,completed,"Moore, Simpson and Soto",fuel
+TXN_000978,ACC_00288,22081.57,withdrawal,2024-01-21 00:00:00,completed,"Miller, Mcdonald and Miller",electronics
+TXN_000979,ACC_00048,6191.48,debit,2024-03-16 00:00:00,failed,Evans-Joyce,travel
+TXN_000980,ACC_00140,37499.33,payment,2024-03-27 00:00:00,failed,"Leach, Skinner and Mills",healthcare
+TXN_000981,ACC_00003,49900.25,payment,2024-10-25 00:00:00,pending,Carroll-Arnold,travel
+TXN_000982,ACC_00127,46021.46,withdrawal,2024-08-01 00:00:00,completed,Palmer PLC,utilities
+TXN_000983,ACC_00063,14221.22,withdrawal,2024-01-14 00:00:00,completed,Gutierrez-Marshall,electronics
+TXN_000984,ACC_00042,7697.24,withdrawal,2024-06-14 00:00:00,pending,"Carroll, King and Scott",fuel
+TXN_000985,ACC_00138,31421.55,payment,2024-08-20 00:00:00,completed,Mack Inc,utilities
+TXN_000986,ACC_00232,32812.08,transfer,2024-01-23 00:00:00,failed,Yang Group,travel
+TXN_000987,ACC_00145,43165.31,transfer,2024-04-18 00:00:00,pending,Hartman Group,electronics
+TXN_000988,ACC_00196,47595.49,credit,2024-10-07 00:00:00,completed,Miller Ltd,travel
+TXN_000989,ACC_00205,48252.81,credit,2024-05-02 00:00:00,completed,Edwards-Ramsey,healthcare
+TXN_000990,ACC_00207,19431.26,transfer,2024-03-24 00:00:00,completed,"Cole, Morton and Peterson",travel
+TXN_000991,ACC_00222,14934.35,transfer,2024-03-02 00:00:00,failed,Clark Inc,travel
+TXN_000992,ACC_00189,33279.36,payment,2024-07-02 00:00:00,completed,"Hendrix, Green and Nunez",fuel
+TXN_000993,ACC_00289,23827.22,payment,2024-07-17 00:00:00,completed,Ferguson-Smith,restaurant
+TXN_000994,ACC_00223,30697.25,withdrawal,2024-07-07 00:00:00,completed,Smith Ltd,utilities
+TXN_000995,ACC_00080,33825.24,withdrawal,2024-08-25 00:00:00,completed,Stevens-Sullivan,electronics
+TXN_000996,ACC_00041,23416.28,withdrawal,2024-05-28 00:00:00,completed,"Church, Guzman and Tucker",travel
+TXN_000997,ACC_00128,45146.15,payment,2024-12-16 00:00:00,completed,"Li, Jensen and Vazquez",groceries
+TXN_000998,ACC_00024,,payment,2024-10-09 00:00:00,completed,"Leonard, Ballard and Miller",restaurant
+TXN_000999,ACC_00292,4733.27,transfer,2024-07-30 00:00:00,completed,Smith Inc,electronics
+TXN_001000,ACC_00237,823.27,debit,2024-09-14 00:00:00,pending,Horton and Sons,restaurant
+TXN_001001,ACC_00153,4173.7,transfer,2024-01-24 00:00:00,completed,Clark Ltd,fuel
+TXN_001002,ACC_00136,22502.9,transfer,2024-12-09 00:00:00,reversed,Santos Group,travel
+TXN_001003,ACC_00310,9262.52,transfer,2024-04-18 00:00:00,failed,"Garrison, Ryan and Miller",electronics
+TXN_001004,ACC_00003,-26723.46,withdrawal,2024-08-10 00:00:00,completed,Hernandez-Henderson,travel
+TXN_001005,ACC_00208,23861.22,payment,2024-12-01 00:00:00,completed,Martin and Sons,entertainment
+TXN_001006,ACC_00185,40658.49,withdrawal,2024-11-12 00:00:00,pending,"Park, Maynard and Ruiz",electronics
+TXN_001007,ACC_00098,6764.35,credit,2024-03-05 00:00:00,pending,Richards-Harris,healthcare
+TXN_001008,ACC_00075,10469.38,debit,2024-01-14 00:00:00,completed,"Gallegos, Myers and Cook",healthcare
+TXN_001009,ACC_00238,15052.88,debit,2024-02-14 00:00:00,completed,Mccoy Ltd,groceries
+TXN_001010,ACC_00079,8313.61,withdrawal,2024-02-29 00:00:00,reversed,Petty-Allison,fuel
+TXN_001011,ACC_00300,42991.22,debit,2024-01-11 00:00:00,completed,"Lane, Simon and Duarte",restaurant
+TXN_001012,ACC_00053,16699.16,withdrawal,2024-01-27 00:00:00,reversed,Freeman Group,fuel
+TXN_001013,ACC_00284,29796.02,transfer,2024-10-23 00:00:00,completed,"Garza, Carr and Gregory",restaurant
+TXN_001014,ACC_00250,25672.65,debit,2024-09-05 00:00:00,completed,Hall-Brown,groceries
+TXN_001015,ACC_00284,28824.4,credit,2024-08-04 00:00:00,completed,Henderson LLC,restaurant
+TXN_001016,ACC_00178,5855.87,withdrawal,2024-08-30 00:00:00,completed,"Brown, Orozco and Butler",groceries
+TXN_001017,ACC_00099,14407.66,withdrawal,2024-03-23 00:00:00,completed,Wilson-Dean,healthcare
+TXN_001018,ACC_00174,10992.92,payment,2024-09-16 00:00:00,failed,"Reed, Terry and Smith",fuel
+TXN_001019,ACC_00200,44159.84,,2024-03-08 00:00:00,pending,Barber-Harrison,utilities
+TXN_001020,ACC_00083,39989.76,payment,2024-08-29 00:00:00,completed,Hall-Robinson,electronics
+TXN_001021,ACC_00089,24149.66,debit,2024-12-07 00:00:00,completed,"Morgan, Guzman and Kirby",fuel
+TXN_001022,ACC_00253,39676.19,transfer,2024-02-21 00:00:00,completed,"Mcdonald, Ware and Sharp",groceries
+TXN_001023,ACC_00134,17945.75,transfer,2024-01-10 00:00:00,completed,Moyer-Whitaker,travel
+TXN_001024,ACC_00033,1608.18,transfer,2024-09-14 00:00:00,completed,"Delgado, Ward and Kennedy",healthcare
+TXN_001025,ACC_00250,28103.45,transfer,2024-03-02 00:00:00,reversed,Howell LLC,utilities
+TXN_001026,ACC_00286,38507.04,transfer,2024-01-24 00:00:00,failed,"Curry, Estrada and Anderson",electronics
+TXN_001027,ACC_00225,,withdrawal,2024-12-27 00:00:00,reversed,Moore Group,electronics
+TXN_001028,ACC_00313,39084.8,credit,2024-02-24 00:00:00,pending,Leon Group,groceries
+TXN_001029,ACC_00061,5279.5,debit,2024-09-16 00:00:00,failed,Young-Hawkins,travel
+TXN_001030,ACC_00260,35411.09,withdrawal,2024-05-29 00:00:00,completed,Howard LLC,electronics
+TXN_001031,ACC_00172,32358.18,debit,2024-03-19 00:00:00,completed,Rhodes-Thompson,healthcare
+TXN_001032,ACC_00004,48482.14,debit,2024-08-12 00:00:00,pending,"Johnson, Brown and Jordan",fuel
+TXN_001033,ACC_00088,14345.05,credit,2024-06-23 00:00:00,completed,"Perez, Hoffman and Tucker",restaurant
+TXN_001034,ACC_00126,31475.73,debit,2024-07-03 00:00:00,pending,Glover-Hammond,restaurant
+TXN_001035,ACC_00220,6908.34,withdrawal,2024-04-26 00:00:00,failed,"Adams, Hernandez and Vaughn",fuel
+TXN_001036,ACC_00186,39732.42,credit,2024-09-21 00:00:00,completed,"Munoz, Garcia and Williams",groceries
+TXN_001037,ACC_00044,47182.71,transfer,2024-09-21 00:00:00,completed,Lloyd-Estes,travel
+TXN_001038,ACC_00019,-3082.8,debit,2024-08-10 00:00:00,failed,Villegas PLC,groceries
+TXN_001039,ACC_00267,49002.55,transfer,2024-11-19 00:00:00,completed,"Casey, Meza and Colon",entertainment
+TXN_001040,ACC_00005,45462.45,transfer,2024-06-09 00:00:00,failed,Romero and Sons,travel
+TXN_001041,ACC_00106,20202.86,payment,2024-12-24 00:00:00,completed,"Wilson, Harris and Ward",fuel
+TXN_001042,ACC_00208,17269.08,debit,2024-12-23 00:00:00,failed,"Carter, Alexander and Hunter",electronics
+TXN_001043,ACC_00200,26876.3,debit,2024-01-19 00:00:00,completed,"Harrell, Moore and Cox",entertainment
+TXN_001044,ACC_00283,4650.05,transfer,2024-04-19 00:00:00,completed,Martinez and Sons,travel
+TXN_001045,ACC_00277,1404.28,payment,2024-01-12 00:00:00,completed,Montes-Hammond,entertainment
+TXN_001046,ACC_00057,49347.87,credit,2024-08-04 00:00:00,pending,Sanchez Group,entertainment
+TXN_001047,ACC_00064,25379.89,credit,2024-11-17 00:00:00,pending,Mitchell-Jackson,electronics
+TXN_001048,ACC_00003,14905.08,withdrawal,2024-08-17 00:00:00,completed,Watson-Fischer,healthcare
+TXN_001049,ACC_00274,28284.21,payment,2024-10-24 00:00:00,completed,Soto-Sanchez,entertainment
+TXN_001050,ACC_00294,33349.45,debit,2024-05-25 00:00:00,completed,"Fisher, Perez and Pham",healthcare
+TXN_001051,ACC_00299,16399.07,debit,2024-02-23 00:00:00,pending,Hardin-Villanueva,utilities
+TXN_001052,ACC_00218,4908.41,withdrawal,2024-08-20 00:00:00,completed,"Norton, Cox and Johnson",groceries
+TXN_001053,ACC_00244,-44426.58,debit,2024-08-05 00:00:00,completed,Carrillo Ltd,utilities
+TXN_001054,ACC_00302,26317.52,payment,2024-12-12 00:00:00,completed,"Acevedo, Miller and Edwards",restaurant
+TXN_001055,ACC_00217,29219.35,withdrawal,2024-05-15 00:00:00,completed,Hamilton Group,fuel
+TXN_001056,ACC_00074,41192.35,payment,2024-08-01 00:00:00,completed,Keller Ltd,fuel
+TXN_001057,ACC_00263,48401.91,payment,2024-03-07 00:00:00,completed,Orr Inc,healthcare
+TXN_001058,ACC_00081,23673.04,payment,2024-08-21 00:00:00,completed,"Whitney, Lloyd and Liu",electronics
+TXN_001059,ACC_00057,-42617.37,credit,2024-11-04 00:00:00,completed,Barnes-Blackwell,entertainment
+TXN_001060,ACC_00061,26143.65,transfer,2024-01-21 00:00:00,completed,"Spencer, Torres and Newton",utilities
+TXN_001061,ACC_00015,14706.12,debit,2024-06-04 00:00:00,completed,Smith-Ramirez,restaurant
+TXN_001062,ACC_00157,46841.66,transfer,2024-01-25 00:00:00,completed,"Bishop, Thomas and Powell",fuel
+TXN_001063,ACC_00179,6125.17,credit,2024-01-02 00:00:00,failed,"Harris, Stephens and Kramer",restaurant
+TXN_001064,ACC_00290,28657.22,withdrawal,2024-09-03 00:00:00,failed,"Ramos, Reed and Cain",restaurant
+TXN_001065,ACC_00311,41724.65,debit,2024-08-31 00:00:00,pending,"Sullivan, Gonzalez and Turner",fuel
+TXN_001066,ACC_00077,33364.37,transfer,2024-08-18 00:00:00,completed,Medina Group,restaurant
+TXN_001067,ACC_00203,11648.79,transfer,2024-07-17 00:00:00,completed,"Higgins, Hobbs and Meyer",fuel
+TXN_001068,ACC_00085,,credit,2024-05-22 00:00:00,completed,"Campbell, Davis and Arnold",entertainment
+TXN_001069,ACC_00287,32261.53,credit,2024-10-14 00:00:00,completed,"Peterson, Reid and Johnson",groceries
+TXN_001070,ACC_00244,26092.47,payment,2024-10-18 00:00:00,failed,"Vargas, Allen and Schroeder",electronics
+TXN_001071,ACC_00093,46809.73,credit,2024-12-03 00:00:00,completed,"Henderson, Wagner and Dennis",healthcare
+TXN_001072,ACC_00297,41486.23,withdrawal,2024-05-05 00:00:00,completed,Green-Romero,utilities
+TXN_001073,ACC_00252,29448.76,credit,2024-07-24 00:00:00,completed,Williams Ltd,travel
+TXN_001074,ACC_00271,1212.61,transfer,2024-07-31 00:00:00,completed,West PLC,electronics
+TXN_001075,ACC_00278,48989.51,debit,2024-02-28 00:00:00,completed,"Smith, Morgan and Young",travel
+TXN_001076,ACC_00079,,transfer,2024-05-10 00:00:00,reversed,"Zhang, Cunningham and Kline",travel
+TXN_001077,ACC_00167,30727.63,debit,2024-01-31 00:00:00,completed,"Wade, Richard and Hall",groceries
+TXN_001078,ACC_00164,19503.09,debit,2024-06-01 00:00:00,completed,Mitchell-Glover,utilities
+TXN_001079,ACC_00062,,credit,2024-05-12 00:00:00,completed,"Armstrong, Taylor and Gray",healthcare
+TXN_001080,ACC_00259,25435.98,withdrawal,2024-09-09 00:00:00,failed,"Wright, Murphy and Aguilar",entertainment
+TXN_001081,ACC_00284,15923.64,withdrawal,2024-02-01 00:00:00,completed,Gibson-Thomas,groceries
+TXN_001082,ACC_00010,31680.73,transfer,2024-07-27 00:00:00,completed,Poole-Miller,electronics
+TXN_001083,ACC_00065,38151.29,transfer,2024-05-06 00:00:00,completed,Coleman and Sons,fuel
+TXN_001084,ACC_00257,42315.43,debit,2024-02-12 00:00:00,pending,Lewis-Miller,travel
+TXN_001085,ACC_00087,27026.58,debit,2024-07-10 00:00:00,completed,"Fox, Chapman and Stone",restaurant
+TXN_001086,ACC_00001,22592.58,withdrawal,2024-10-11 00:00:00,reversed,Wiggins-Silva,entertainment
+TXN_001087,ACC_00001,48604.37,credit,2024-11-30 00:00:00,failed,"Henderson, Alexander and Galvan",fuel
+TXN_001088,ACC_00195,29897.41,transfer,2024-05-19 00:00:00,pending,Dennis-Butler,healthcare
+TXN_001089,ACC_00145,42035.8,credit,2024-10-26 00:00:00,completed,Thomas and Sons,electronics
+TXN_001090,ACC_00063,4494.86,debit,2024-06-02 00:00:00,completed,Dawson-Anderson,entertainment
+TXN_001091,ACC_00259,10550.4,transfer,2024-08-09 00:00:00,failed,"Palmer, Rice and Benson",utilities
+TXN_001092,ACC_00232,13075.41,transfer,2024-11-21 00:00:00,completed,Kennedy-Francis,utilities
+TXN_001093,ACC_00307,10539.09,transfer,2024-06-23 00:00:00,completed,"Wood, Crane and Guzman",travel
+TXN_001094,ACC_00312,46113.67,withdrawal,2024-11-26 00:00:00,completed,Rodriguez-Wood,groceries
+TXN_001095,ACC_00285,8685.07,withdrawal,2024-12-10 00:00:00,pending,Williams-Hernandez,electronics
+TXN_001096,ACC_00276,32566.81,credit,2024-11-28 00:00:00,failed,Torres-Brooks,fuel
+TXN_001097,ACC_00193,6179.55,payment,2024-12-10 00:00:00,completed,Tucker-Moody,travel
+TXN_001098,ACC_00064,49189.94,withdrawal,2024-12-22 00:00:00,completed,Bowers Group,healthcare
+TXN_001099,ACC_00011,478.07,transfer,2024-08-15 00:00:00,completed,Zuniga LLC,utilities
+TXN_001100,ACC_00156,4507.43,debit,2024-04-08 00:00:00,completed,Lewis-Fuentes,fuel
+TXN_001101,ACC_00253,1849.43,payment,2024-07-04 00:00:00,completed,Smith-Kelley,healthcare
+TXN_001102,ACC_00143,19810.35,payment,2024-11-22 00:00:00,completed,Harrell Group,travel
+TXN_001103,ACC_00290,9696.58,payment,2024-10-09 00:00:00,completed,Berry-Knight,electronics
+TXN_001104,ACC_00034,6421.04,debit,2024-10-28 00:00:00,completed,Harrington-Alvarez,healthcare
+TXN_001105,ACC_00141,36447.65,debit,2024-09-24 00:00:00,pending,"Bass, Anderson and Taylor",groceries
+TXN_001106,ACC_00130,33889.95,payment,2024-12-20 00:00:00,failed,"Murray, Cole and Cole",groceries
+TXN_001107,ACC_00027,32051.9,transfer,2024-08-06 00:00:00,completed,"Nguyen, Marsh and Beck",restaurant
+TXN_001108,ACC_00266,6094.67,withdrawal,2024-05-20 00:00:00,completed,Hughes-Mccullough,groceries
+TXN_001109,ACC_00216,2357.76,payment,2024-04-24 00:00:00,completed,Weaver-Rubio,groceries
+TXN_001110,ACC_00042,9738.46,payment,2024-07-19 00:00:00,pending,Fitzgerald-Brewer,healthcare
+TXN_001111,ACC_00039,21196.77,debit,2024-12-19 00:00:00,completed,Mann PLC,utilities
+TXN_001112,ACC_00050,3151.58,credit,2024-06-08 00:00:00,completed,"Hogan, Zimmerman and Hoffman",groceries
+TXN_001113,ACC_00172,,transfer,2024-10-30 00:00:00,completed,Schneider Inc,fuel
+TXN_001114,ACC_00028,47940.54,transfer,2024-05-02 00:00:00,completed,Friedman PLC,healthcare
+TXN_001115,ACC_00225,38789.72,credit,2024-02-07 00:00:00,completed,"Todd, Bernard and Boyd",electronics
+TXN_001116,ACC_00018,48726.53,withdrawal,2024-02-13 00:00:00,completed,Shaw-Smith,electronics
+TXN_001117,ACC_00227,3109.49,credit,2024-03-06 00:00:00,completed,"Mayer, White and Smith",restaurant
+TXN_001118,ACC_00029,5100.36,payment,2024-02-03 00:00:00,completed,Sanchez Ltd,restaurant
+TXN_001119,ACC_00211,4800.55,debit,2024-07-24 00:00:00,failed,"Wallace, Roman and Lawson",groceries
+TXN_001120,ACC_00220,19202.16,payment,2024-08-20 00:00:00,completed,Chapman-Henry,utilities
+TXN_001121,ACC_00014,46879.87,withdrawal,2024-11-29 00:00:00,completed,Morgan and Sons,healthcare
+TXN_001122,ACC_00305,5143.46,credit,2024-02-25 00:00:00,completed,Johnson-Rice,healthcare
+TXN_001123,ACC_00261,6307.82,transfer,2024-10-20 00:00:00,completed,Scott-Wilson,fuel
+TXN_001124,ACC_00125,22236.77,debit,2024-11-13 00:00:00,pending,Weaver LLC,groceries
+TXN_001125,ACC_00224,15590.23,payment,2024-03-06 00:00:00,reversed,White Inc,utilities
+TXN_001126,ACC_00278,29187.46,debit,2024-06-08 00:00:00,completed,Parker Group,entertainment
+TXN_001127,ACC_00189,17151.59,credit,2024-11-04 00:00:00,completed,"Jackson, Mendez and Nguyen",travel
+TXN_001128,ACC_00287,11876.99,credit,2024-01-30 00:00:00,completed,Reeves LLC,healthcare
+TXN_001129,ACC_00104,32031.33,credit,2024-04-12 00:00:00,completed,Garcia-Thomas,fuel
+TXN_001130,ACC_00240,34595.13,payment,2024-12-21 00:00:00,completed,Scott-David,utilities
+TXN_001131,ACC_00169,14988.58,debit,2024-11-11 00:00:00,completed,Williams and Sons,groceries
+TXN_001132,ACC_00002,10978.1,debit,2024-09-10 00:00:00,completed,"Willis, Vasquez and Goodwin",fuel
+TXN_001133,ACC_00247,10664.79,transfer,2024-11-15 00:00:00,pending,Avery-Adams,restaurant
+TXN_001134,ACC_00004,20021.63,transfer,2024-04-15 00:00:00,completed,Marshall-Russell,utilities
+TXN_001135,ACC_00073,27739.03,transfer,2024-01-16 00:00:00,completed,Johnson-Schultz,utilities
+TXN_001136,ACC_00102,48765.71,debit,2024-01-23 00:00:00,completed,Adams PLC,healthcare
+TXN_001137,ACC_00174,35944.65,payment,2024-05-14 00:00:00,completed,"Garcia, Hines and Pearson",healthcare
+TXN_001138,ACC_00135,8812.11,credit,2024-01-12 00:00:00,completed,Torres Group,travel
+TXN_001139,ACC_00057,32746.91,transfer,2024-07-13 00:00:00,failed,Miller-Fields,entertainment
+TXN_001140,ACC_00191,12015.1,debit,2024-08-21 00:00:00,failed,Patton and Sons,restaurant
+TXN_001141,ACC_00074,3278.22,debit,2024-12-30 00:00:00,pending,Fernandez-Jackson,healthcare
+TXN_001142,ACC_00192,18915.99,transfer,2024-09-29 00:00:00,completed,Medina Group,healthcare
+TXN_001143,ACC_00301,38156.49,debit,2024-01-24 00:00:00,failed,"Hayes, Smith and Marshall",entertainment
+TXN_001144,ACC_00028,16390.75,transfer,2024-03-17 00:00:00,failed,"Roberts, Stanton and Smith",fuel
+TXN_001145,ACC_00241,36367.65,payment,2024-04-17 00:00:00,completed,Nelson-King,restaurant
+TXN_001146,ACC_00192,37559.3,withdrawal,2024-11-26 00:00:00,completed,"James, Bell and Chen",travel
+TXN_001147,ACC_00270,35627.22,withdrawal,2024-06-13 00:00:00,completed,"Pittman, Campbell and Martin",fuel
+TXN_001148,ACC_00206,13424.09,payment,2024-08-30 00:00:00,completed,"Hart, Turner and Foster",healthcare
+TXN_001149,ACC_00232,44745.28,debit,2024-04-22 00:00:00,completed,Rivas Ltd,entertainment
+TXN_001150,ACC_00293,44436.56,debit,2024-08-05 00:00:00,failed,"Lutz, Johns and Clark",utilities
+TXN_001151,ACC_00069,27532.09,credit,2024-05-10 00:00:00,completed,"Bernard, Flores and Fleming",utilities
+TXN_001152,ACC_00239,29202.27,payment,2024-04-27 00:00:00,completed,Reid-Petty,restaurant
+TXN_001153,ACC_00210,23382.87,transfer,2024-08-18 00:00:00,pending,"Chavez, Sanchez and Bird",utilities
+TXN_001154,ACC_00092,19124.72,withdrawal,2024-05-19 00:00:00,completed,Clark-Haley,electronics
+TXN_001155,ACC_00151,45074.78,payment,2024-07-02 00:00:00,completed,Smith-Holt,electronics
+TXN_001156,ACC_00051,46331.03,credit,2024-05-21 00:00:00,completed,"Nielsen, Lynch and Smith",groceries
+TXN_001157,ACC_00101,10023.33,transfer,2024-10-06 00:00:00,completed,Chambers Group,entertainment
+TXN_001158,ACC_00071,35285.08,payment,2024-04-07 00:00:00,failed,"Woodard, Warner and Farmer",groceries
+TXN_001159,ACC_00178,-14099.45,withdrawal,2024-06-02 00:00:00,failed,"Miller, Mcdowell and Curtis",groceries
+TXN_001160,ACC_00077,32708.01,withdrawal,2024-08-29 00:00:00,completed,"Johnson, Collier and Powers",healthcare
+TXN_001161,ACC_00301,11693.82,payment,2024-08-30 00:00:00,pending,"Martinez, Stanton and Bennett",fuel
+TXN_001162,ACC_00161,39597.83,debit,2024-06-23 00:00:00,completed,"Howard, Thompson and Tate",restaurant
+TXN_001163,ACC_00286,21939.65,credit,2024-04-17 00:00:00,completed,"Terrell, Martinez and Wood",travel
+TXN_001164,ACC_00005,47168.27,withdrawal,2024-06-05 00:00:00,pending,Wallace and Sons,utilities
+TXN_001165,ACC_00218,11282.28,withdrawal,2024-06-22 00:00:00,pending,"Smith, Campbell and Morse",entertainment
+TXN_001166,ACC_00291,-29351.88,credit,2024-06-15 00:00:00,failed,Lee-Velasquez,travel
+TXN_001167,ACC_00309,28413.86,payment,2024-06-18 00:00:00,completed,"Turner, Robbins and Young",restaurant
+TXN_001168,ACC_00201,10218.19,credit,2024-07-14 00:00:00,completed,Coffey-Johnson,healthcare
+TXN_001169,ACC_00292,5440.83,withdrawal,2024-08-31 00:00:00,completed,Conway-Mann,entertainment
+TXN_001170,ACC_00284,8579.47,debit,2024-02-17 00:00:00,completed,Smith Ltd,fuel
+TXN_001171,ACC_00036,9342.74,withdrawal,2024-01-14 00:00:00,completed,Rodriguez-Ramirez,healthcare
+TXN_001172,ACC_00036,32981.9,withdrawal,2024-05-29 00:00:00,completed,"Snyder, Arnold and Keller",groceries
+TXN_001173,ACC_00211,16345.34,withdrawal,2024-03-28 00:00:00,completed,"Chambers, Morrison and Thompson",electronics
+TXN_001174,ACC_00245,26827.29,credit,2024-03-07 00:00:00,completed,"Anderson, Brown and Green",healthcare
+TXN_001175,ACC_00159,43523.75,withdrawal,2024-03-07 00:00:00,pending,"Foley, Ibarra and Daniel",fuel
+TXN_001176,ACC_00159,30189.44,payment,2024-03-22 00:00:00,completed,Lee-Gregory,fuel
+TXN_001177,ACC_00074,10093.12,withdrawal,2024-05-21 00:00:00,completed,"Byrd, Mendez and Becker",restaurant
+TXN_001178,ACC_00270,40380.22,transfer,2024-11-05 00:00:00,failed,Smith-Simmons,fuel
+TXN_001179,ACC_00021,23140.15,credit,2024-08-23 00:00:00,completed,"Hahn, Williams and Mcmillan",fuel
+TXN_001180,ACC_00153,35018.82,withdrawal,2024-06-26 00:00:00,completed,Richard-Russell,travel
+TXN_001181,ACC_00222,12464.25,withdrawal,2024-07-31 00:00:00,completed,Frazier Group,travel
+TXN_001182,ACC_00202,28435.08,,2024-12-23 00:00:00,completed,Ward-Blake,travel
+TXN_001183,ACC_00276,44128.97,transfer,2024-05-20 00:00:00,completed,"Walker, Ramirez and Fisher",electronics
+TXN_001184,ACC_00112,36329.62,withdrawal,2024-12-23 00:00:00,completed,Stewart-Myers,electronics
+TXN_001185,ACC_00054,3835.92,payment,2024-07-07 00:00:00,pending,Miller-Armstrong,utilities
+TXN_001186,ACC_00130,22552.29,debit,2024-07-28 00:00:00,completed,Mooney and Sons,fuel
+TXN_001187,ACC_00237,3669.04,withdrawal,2024-01-14 00:00:00,completed,"Coleman, Jones and Wright",restaurant
+TXN_001188,ACC_00006,19839.75,transfer,2024-04-09 00:00:00,completed,Murphy Inc,travel
+TXN_001189,ACC_00238,33518.08,withdrawal,2024-06-16 00:00:00,completed,"Garrett, Johnson and Reynolds",electronics
+TXN_001190,ACC_00225,32854.56,debit,2024-10-07 00:00:00,completed,Watkins Ltd,entertainment
+TXN_001191,ACC_00010,8537.75,payment,2024-03-23 00:00:00,completed,Pittman-Wright,entertainment
+TXN_001192,ACC_00201,26737.35,debit,2024-03-04 00:00:00,completed,Allen-Peterson,groceries
+TXN_001193,ACC_00226,,transfer,2024-12-12 00:00:00,completed,Underwood PLC,groceries
+TXN_001194,ACC_00227,26619.62,credit,2024-12-11 00:00:00,pending,Harding PLC,electronics
+TXN_001195,ACC_00228,34520.43,credit,2024-07-18 00:00:00,completed,"Gonzales, Davis and Griffin",groceries
+TXN_001196,ACC_00128,38358.04,transfer,2024-07-12 00:00:00,failed,Miller Inc,healthcare
+TXN_001197,ACC_00015,811.76,credit,2024-02-16 00:00:00,completed,Bennett Ltd,healthcare
+TXN_001198,ACC_00113,33450.78,credit,2024-12-14 00:00:00,pending,Patton Inc,travel
+TXN_001199,ACC_00263,2210.19,credit,2024-03-26 00:00:00,pending,Brown-Bishop,utilities
+TXN_001200,ACC_00107,31343.05,payment,2024-10-14 00:00:00,completed,Jones-Byrd,restaurant
+TXN_001201,ACC_00055,11628.08,transfer,2024-03-02 00:00:00,completed,"Williams, Horn and Morales",groceries
+TXN_001202,ACC_00007,32703.1,withdrawal,2024-07-24 00:00:00,completed,"Walton, Hall and Greene",healthcare
+TXN_001203,ACC_00143,32901.51,payment,2024-02-03 00:00:00,completed,"Hanson, Chavez and Marshall",electronics
+TXN_001204,ACC_00307,20560.73,withdrawal,2024-04-21 00:00:00,reversed,Hobbs-Harvey,electronics
+TXN_001205,ACC_00292,26813.71,debit,2024-12-30 00:00:00,completed,Curtis-Lowe,electronics
+TXN_001206,ACC_00199,16224.47,debit,2024-11-03 00:00:00,completed,Gibson LLC,utilities
+TXN_001207,ACC_00172,24111.7,credit,2024-12-07 00:00:00,completed,"Lee, Garcia and Larson",fuel
+TXN_001208,ACC_00120,25556.2,payment,2024-07-14 00:00:00,completed,Watkins and Sons,groceries
+TXN_001209,ACC_00064,1070.46,transfer,2024-04-29 00:00:00,completed,"Martinez, Hicks and Kelly",restaurant
+TXN_001210,ACC_00031,30992.11,debit,2024-05-04 00:00:00,completed,Hardy-Wallace,entertainment
+TXN_001211,ACC_00105,7592.01,credit,2024-04-13 00:00:00,completed,Taylor Inc,fuel
+TXN_001212,ACC_00163,6722.01,,2024-06-17 00:00:00,completed,Anderson PLC,restaurant
+TXN_001213,ACC_00013,40637.4,debit,2024-11-27 00:00:00,pending,Palmer-Pearson,utilities
+TXN_001214,ACC_00277,12120.03,credit,2024-06-24 00:00:00,failed,Collins-Mcclure,healthcare
+TXN_001215,ACC_00114,34816.94,payment,2024-12-17 00:00:00,failed,Hernandez LLC,utilities
+TXN_001216,ACC_00004,22123.62,credit,2024-04-03 00:00:00,failed,"Cooper, Wood and Smith",electronics
+TXN_001217,ACC_00073,2614.82,debit,2024-04-08 00:00:00,completed,"Sandoval, Thomas and Young",travel
+TXN_001218,ACC_00105,27446.87,debit,2024-10-30 00:00:00,completed,"Trevino, Henderson and Gonzalez",restaurant
+TXN_001219,ACC_00102,15580.03,debit,2024-08-27 00:00:00,completed,Davidson and Sons,healthcare
+TXN_001220,ACC_00230,14274.79,debit,2024-06-04 00:00:00,completed,Peterson Ltd,fuel
+TXN_001221,ACC_00185,47551.15,withdrawal,2024-02-10 00:00:00,completed,Neal-Holden,fuel
+TXN_001222,ACC_00313,21140.64,withdrawal,2024-08-13 00:00:00,pending,"Schwartz, Christian and Knight",fuel
+TXN_001223,ACC_00219,38098.85,credit,2024-01-11 00:00:00,pending,Jensen-Barnes,entertainment
+TXN_001224,ACC_00284,26864.51,debit,2024-10-31 00:00:00,completed,Garcia Inc,fuel
+TXN_001225,ACC_00193,22685.62,payment,2024-06-05 00:00:00,completed,Robinson-Smith,electronics
+TXN_001226,ACC_00241,6841.45,debit,2024-06-19 00:00:00,completed,Steele Group,healthcare
+TXN_001227,ACC_00257,651.59,transfer,2024-01-03 00:00:00,completed,"Lewis, Castillo and Tate",restaurant
+TXN_001228,ACC_00192,48524.93,withdrawal,2024-07-21 00:00:00,completed,Aguirre-Bennett,electronics
+TXN_001229,ACC_00064,44251.13,withdrawal,2024-07-28 00:00:00,failed,Lopez-Fritz,travel
+TXN_001230,ACC_00131,38149.91,transfer,2024-04-09 00:00:00,completed,Smith-Howard,fuel
+TXN_001231,ACC_00030,34427.58,withdrawal,2024-11-21 00:00:00,failed,"Wilson, Roberts and Lee",healthcare
+TXN_001232,ACC_00186,23891.5,credit,2024-05-04 00:00:00,completed,"Durham, Ward and Hester",travel
+TXN_001233,ACC_00076,30275.73,transfer,2024-05-13 00:00:00,completed,Gonzalez and Sons,travel
+TXN_001234,ACC_00048,5845.36,withdrawal,2024-01-07 00:00:00,completed,Mcclure Ltd,electronics
+TXN_001235,ACC_00217,45498.36,debit,2024-09-22 00:00:00,pending,Morgan PLC,entertainment
+TXN_001236,ACC_00273,15117.96,withdrawal,2024-12-20 00:00:00,completed,White Inc,restaurant
+TXN_001237,ACC_00294,5472.61,transfer,2024-02-15 00:00:00,pending,Cameron Inc,entertainment
+TXN_001238,ACC_00204,46501.54,transfer,2024-04-17 00:00:00,completed,Decker and Sons,travel
+TXN_001239,ACC_00036,88.91,withdrawal,2024-09-08 00:00:00,completed,Pena-Dyer,entertainment
+TXN_001240,ACC_00192,8540.01,,2024-08-08 00:00:00,completed,Boyle-Torres,healthcare
+TXN_001241,ACC_00057,9107.4,withdrawal,2024-09-06 00:00:00,completed,Wood LLC,healthcare
+TXN_001242,ACC_00094,10055.03,debit,2024-04-05 00:00:00,completed,"Jackson, Rose and Lloyd",restaurant
+TXN_001243,ACC_00056,-31345.6,debit,2024-08-13 00:00:00,completed,"Keith, Johns and Jones",electronics
+TXN_001244,ACC_00033,6242.83,transfer,2024-07-12 00:00:00,completed,Andrade and Sons,healthcare
+TXN_001245,ACC_00052,24264.87,credit,2024-09-01 00:00:00,completed,Lee Group,groceries
+TXN_001246,ACC_00022,29126.45,credit,2024-12-06 00:00:00,completed,"Brooks, Greene and Rowland",groceries
+TXN_001247,ACC_00137,30153.21,withdrawal,2024-07-11 00:00:00,completed,Mccall PLC,utilities
+TXN_001248,ACC_00190,21478.39,transfer,2024-11-05 00:00:00,reversed,"Lopez, Nichols and Clarke",healthcare
+TXN_001249,ACC_00194,33257.26,payment,2024-07-03 00:00:00,completed,Wright-Soto,utilities
+TXN_001250,ACC_00002,40315.45,withdrawal,2024-06-18 00:00:00,failed,Salas-York,restaurant
+TXN_001251,ACC_00063,1293.76,payment,2024-03-12 00:00:00,completed,"Blackwell, Clark and Miller",healthcare
+TXN_001252,ACC_00244,22601.38,payment,2024-07-07 00:00:00,completed,Gibbs-Mendez,healthcare
+TXN_001253,ACC_00165,49309.21,credit,2024-01-02 00:00:00,completed,Romero Ltd,groceries
+TXN_001254,ACC_00120,33899.69,payment,2024-06-15 00:00:00,completed,"Brooks, Stone and White",electronics
+TXN_001255,ACC_00244,21401.53,credit,2024-06-27 00:00:00,completed,"Brooks, Neal and Baldwin",entertainment
+TXN_001256,ACC_00074,9761.9,payment,2024-11-06 00:00:00,failed,Wells-Perkins,groceries
+TXN_001257,ACC_00045,24901.27,transfer,2024-03-06 00:00:00,pending,"Morse, Silva and Johnson",fuel
+TXN_001258,ACC_00060,44821.46,withdrawal,2024-03-27 00:00:00,completed,Jacobson Group,healthcare
+TXN_001259,ACC_00046,10589.92,credit,2024-05-04 00:00:00,completed,Foster LLC,groceries
+TXN_001260,ACC_00168,46450.88,withdrawal,2024-03-23 00:00:00,pending,Oneal-Duncan,healthcare
+TXN_001261,ACC_00064,33299.97,debit,2024-05-11 00:00:00,failed,Scott-Miller,fuel
+TXN_001262,ACC_00171,39779.07,debit,2024-02-16 00:00:00,failed,Phillips PLC,electronics
+TXN_001263,ACC_00196,17167.86,payment,2024-11-25 00:00:00,reversed,Hall-Williams,restaurant
+TXN_001264,ACC_00060,11185.31,transfer,2024-04-29 00:00:00,completed,"Oliver, Simmons and Mcdonald",electronics
+TXN_001265,ACC_00097,37031.66,credit,2024-06-23 00:00:00,completed,Richardson-Jimenez,travel
+TXN_001266,ACC_00296,47703.89,credit,2024-06-09 00:00:00,completed,Reyes-White,healthcare
+TXN_001267,ACC_00164,48992.68,transfer,2024-07-17 00:00:00,pending,Baker Inc,travel
+TXN_001268,ACC_00303,33190.5,debit,2024-09-23 00:00:00,completed,Valenzuela-Phillips,groceries
+TXN_001269,ACC_00162,42619.58,debit,2024-10-02 00:00:00,pending,"Hunt, Schneider and Hartman",entertainment
+TXN_001270,ACC_00234,24996.63,debit,2024-04-22 00:00:00,completed,Garcia Inc,travel
+TXN_001271,ACC_00018,42457.88,payment,2024-12-06 00:00:00,completed,Johnson-Gonzalez,electronics
+TXN_001272,ACC_00294,49842.46,withdrawal,2024-05-20 00:00:00,completed,Leonard LLC,healthcare
+TXN_001273,ACC_00193,14581.84,credit,2024-09-10 00:00:00,reversed,Mcgee-Mack,utilities
+TXN_001274,ACC_00108,41395.96,debit,2024-03-19 00:00:00,completed,Lee-Munoz,groceries
+TXN_001275,ACC_00201,42840.37,transfer,2024-04-01 00:00:00,reversed,Murillo Ltd,travel
+TXN_001276,ACC_00173,27401.67,withdrawal,2024-01-12 00:00:00,completed,"Daniels, Green and Carrillo",utilities
+TXN_001277,ACC_00271,19559.24,transfer,2024-07-19 00:00:00,completed,Short-Logan,healthcare
+TXN_001278,ACC_00202,42814.05,credit,2024-12-24 00:00:00,completed,Bautista-Underwood,groceries
+TXN_001279,ACC_00084,15210.66,payment,2024-12-29 00:00:00,completed,"Smith, Valdez and Hays",fuel
+TXN_001280,ACC_00108,44861.93,debit,2024-05-29 00:00:00,pending,Grimes and Sons,healthcare
+TXN_001281,ACC_00295,-466.53,credit,2024-11-29 00:00:00,completed,Cummings and Sons,travel
+TXN_001282,ACC_00219,47520.4,debit,2024-07-11 00:00:00,failed,Hall-Matthews,electronics
+TXN_001283,ACC_00092,48708.2,credit,2024-07-01 00:00:00,completed,"Todd, Sharp and Murray",utilities
+TXN_001284,ACC_00077,21696.73,withdrawal,2024-10-30 00:00:00,completed,Edwards and Sons,electronics
+TXN_001285,ACC_00155,19838.27,payment,2024-05-03 00:00:00,reversed,Carrillo-Wolfe,restaurant
+TXN_001286,ACC_00046,49558.29,withdrawal,2024-12-20 00:00:00,failed,Gonzales PLC,restaurant
+TXN_001287,ACC_00228,,transfer,2024-05-20 00:00:00,completed,Brooks PLC,electronics
+TXN_001288,ACC_00261,6111.36,debit,2024-02-12 00:00:00,completed,Torres Ltd,fuel
+TXN_001289,ACC_00049,34689.36,payment,2024-05-20 00:00:00,completed,Porter Ltd,fuel
+TXN_001290,ACC_00153,35139.82,payment,2024-11-26 00:00:00,completed,Morgan-Barnes,utilities
+TXN_001291,ACC_00276,35691.27,debit,2024-02-02 00:00:00,completed,"Goodwin, Farmer and Vaughn",groceries
+TXN_001292,ACC_00275,27807.45,payment,2024-07-20 00:00:00,completed,Nguyen-Johnson,electronics
+TXN_001293,ACC_00061,48284.4,debit,2024-04-16 00:00:00,failed,Weeks and Sons,travel
+TXN_001294,ACC_00161,27740.54,credit,2024-01-03 00:00:00,completed,Carroll-Lloyd,healthcare
+TXN_001295,ACC_00288,8068.9,transfer,2024-11-30 00:00:00,failed,"Berry, Myers and James",groceries
+TXN_001296,ACC_00260,48996.62,transfer,2024-02-13 00:00:00,completed,Brown-Hughes,travel
+TXN_001297,ACC_00001,48855.38,debit,2024-08-04 00:00:00,completed,Rodriguez-Hudson,entertainment
+TXN_001298,ACC_00072,26709.78,payment,2024-12-03 00:00:00,completed,Fowler-Torres,utilities
+TXN_001299,ACC_00181,45540.05,payment,2024-09-24 00:00:00,completed,Garcia PLC,healthcare
+TXN_001300,ACC_00023,4959.47,debit,2024-12-18 00:00:00,completed,Johnson Ltd,travel
+TXN_001301,ACC_00111,42805.7,,2024-06-02 00:00:00,completed,"Burns, Lopez and Jones",healthcare
+TXN_001302,ACC_00066,17959.67,payment,2024-10-29 00:00:00,completed,Campbell-Hall,entertainment
+TXN_001303,ACC_00084,19095.3,withdrawal,2024-05-13 00:00:00,completed,"Warren, Gibson and Wood",entertainment
+TXN_001304,ACC_00074,21272.91,payment,2024-12-12 00:00:00,completed,Jackson Group,entertainment
+TXN_001305,ACC_00099,34843.18,transfer,2024-11-20 00:00:00,completed,Moore-Rodriguez,travel
+TXN_001306,ACC_00162,,withdrawal,2024-08-02 00:00:00,completed,"Barnes, Paul and Price",healthcare
+TXN_001307,ACC_00273,13513.56,credit,2024-02-09 00:00:00,completed,Anderson and Sons,restaurant
+TXN_001308,ACC_00046,16474.58,transfer,2024-02-03 00:00:00,failed,Reynolds-Mckinney,entertainment
+TXN_001309,ACC_00116,43444.08,transfer,2024-03-15 00:00:00,completed,Moore-Andrews,restaurant
+TXN_001310,ACC_00054,18937.83,credit,2024-04-23 00:00:00,completed,Matthews-Shaw,entertainment
+TXN_001311,ACC_00251,41068.95,credit,2024-10-28 00:00:00,completed,"Stevens, Harris and Ritter",entertainment
+TXN_001312,ACC_00051,13559.99,credit,2024-10-09 00:00:00,completed,Brown-Ross,restaurant
+TXN_001313,ACC_00273,17265.19,payment,2024-04-02 00:00:00,completed,Fox PLC,restaurant
+TXN_001314,ACC_00133,29619.58,credit,2024-09-01 00:00:00,completed,Stevens-Johnston,travel
+TXN_001315,ACC_00194,6327.15,payment,2024-12-02 00:00:00,completed,"Davis, Lucas and Ellison",groceries
+TXN_001316,ACC_00128,48725.25,payment,2024-11-23 00:00:00,completed,Graves-Dawson,fuel
+TXN_001317,ACC_00182,21953.61,withdrawal,2024-04-03 00:00:00,completed,Myers-Colon,entertainment
+TXN_001318,ACC_00118,26034.53,transfer,2024-08-07 00:00:00,completed,Perry and Sons,electronics
+TXN_001319,ACC_00161,20331.67,credit,2024-06-05 00:00:00,completed,"Quinn, Ellis and Bartlett",electronics
+TXN_001320,ACC_00085,47243.9,payment,2024-05-02 00:00:00,completed,Hale Inc,entertainment
+TXN_001321,ACC_00006,46480.15,withdrawal,2024-10-10 00:00:00,completed,Hale-Williams,travel
+TXN_001322,ACC_00273,24895.28,credit,2024-09-02 00:00:00,completed,Hill Ltd,healthcare
+TXN_001323,ACC_00274,-35710.86,transfer,2024-01-04 00:00:00,completed,"Carter, Hendricks and Wolfe",groceries
+TXN_001324,ACC_00087,-22438.12,payment,2024-11-06 00:00:00,failed,"Barrera, Kerr and Jenkins",travel
+TXN_001325,ACC_00069,18358.88,payment,2024-02-08 00:00:00,completed,"Martinez, Wood and Campos",groceries
+TXN_001326,ACC_00088,24780.44,transfer,2024-08-04 00:00:00,reversed,"Miranda, Nguyen and Hayes",utilities
+TXN_001327,ACC_00277,12495.76,credit,2024-12-13 00:00:00,completed,Clark-Williams,fuel
+TXN_001328,ACC_00002,13244.89,payment,2024-05-30 00:00:00,completed,Jones Ltd,entertainment
+TXN_001329,ACC_00019,25781.3,withdrawal,2024-11-25 00:00:00,failed,"Brady, James and Reese",fuel
+TXN_001330,ACC_00236,17793.65,transfer,2024-01-30 00:00:00,completed,Sanders Inc,electronics
+TXN_001331,ACC_00096,17492.59,withdrawal,2024-01-03 00:00:00,completed,Wilson-Stark,electronics
+TXN_001332,ACC_00044,24607.39,payment,2024-08-08 00:00:00,completed,Santiago-Marshall,travel
+TXN_001333,ACC_00250,6200.89,credit,2024-07-29 00:00:00,completed,Jones-Kelley,entertainment
+TXN_001334,ACC_00192,23540.23,transfer,2024-04-25 00:00:00,completed,Reeves Group,travel
+TXN_001335,ACC_00056,40579.08,withdrawal,2024-10-01 00:00:00,completed,Ruiz LLC,fuel
+TXN_001336,ACC_00223,7002.32,credit,2024-03-23 00:00:00,completed,Jackson Inc,healthcare
+TXN_001337,ACC_00021,9486.46,debit,2024-02-26 00:00:00,completed,"Garcia, Phillips and Nichols",utilities
+TXN_001338,ACC_00102,8024.02,withdrawal,2024-01-17 00:00:00,reversed,Jackson-Powers,entertainment
+TXN_001339,ACC_00282,21060.56,withdrawal,2024-03-01 00:00:00,pending,Byrd and Sons,travel
+TXN_001340,ACC_00205,37556.98,payment,2024-06-15 00:00:00,completed,Howard-Robinson,restaurant
+TXN_001341,ACC_00056,5495.54,credit,2024-03-08 00:00:00,completed,Stafford PLC,utilities
+TXN_001342,ACC_00122,692.31,credit,2024-09-13 00:00:00,completed,Ramos Inc,utilities
+TXN_001343,ACC_00005,48822.16,,2024-08-07 00:00:00,completed,"Cain, Davidson and Moran",entertainment
+TXN_001344,ACC_00220,-4139.92,debit,2024-09-05 00:00:00,completed,Myers LLC,travel
+TXN_001345,ACC_00059,14064.13,transfer,2024-05-07 00:00:00,reversed,Williams-Smith,healthcare
+TXN_001346,ACC_00102,41032.26,withdrawal,2024-12-07 00:00:00,completed,Wang-Mcfarland,electronics
+TXN_001347,ACC_00313,36525.53,debit,2024-12-24 00:00:00,completed,Kerr-Gonzalez,travel
+TXN_001348,ACC_00206,6031.85,credit,2024-04-27 00:00:00,completed,Fisher Inc,healthcare
+TXN_001349,ACC_00103,21320.89,credit,2024-03-15 00:00:00,failed,Hoover-Frazier,restaurant
+TXN_001350,ACC_00119,26253.31,debit,2024-07-27 00:00:00,completed,Walker Inc,fuel
+TXN_001351,ACC_00027,25498.09,transfer,2024-02-01 00:00:00,completed,"Jackson, Jackson and Perry",utilities
+TXN_001352,ACC_00215,47150.51,debit,2024-05-23 00:00:00,completed,Ochoa LLC,groceries
+TXN_001353,ACC_00027,2054.05,transfer,2024-04-03 00:00:00,completed,"Sims, Weber and Villa",fuel
+TXN_001354,ACC_00052,45425.01,withdrawal,2024-05-23 00:00:00,completed,Mcmillan-Martinez,fuel
+TXN_001355,ACC_00058,16720.76,credit,2024-07-05 00:00:00,completed,Rodriguez LLC,travel
+TXN_001356,ACC_00186,,payment,2024-06-18 00:00:00,completed,Smith Ltd,utilities
+TXN_001357,ACC_00108,32515.91,payment,2024-05-01 00:00:00,completed,Smith-Lewis,electronics
+TXN_001358,ACC_00309,31481.64,credit,2024-03-07 00:00:00,completed,Jones LLC,healthcare
+TXN_001359,ACC_00051,35235.96,credit,2024-04-08 00:00:00,failed,"Hanson, Williams and Mcclure",utilities
+TXN_001360,ACC_00104,36270.28,payment,2024-06-03 00:00:00,completed,Turner-George,groceries
+TXN_001361,ACC_00282,9593.42,transfer,2024-03-06 00:00:00,failed,Marquez PLC,utilities
+TXN_001362,ACC_00061,22429.63,withdrawal,2024-07-06 00:00:00,completed,King Inc,restaurant
+TXN_001363,ACC_00258,46567.3,credit,2024-09-25 00:00:00,completed,"Nguyen, Mccoy and Price",entertainment
+TXN_001364,ACC_00149,48374.67,credit,2024-12-22 00:00:00,reversed,"Anderson, Thompson and Gill",groceries
+TXN_001365,ACC_00204,9517.64,,2024-12-21 00:00:00,completed,"Stewart, York and Olson",electronics
+TXN_001366,ACC_00261,21892.87,withdrawal,2024-03-25 00:00:00,completed,Smith-Barr,restaurant
+TXN_001367,ACC_00106,30364.85,debit,2024-07-24 00:00:00,completed,Reyes-Davidson,healthcare
+TXN_001368,ACC_00263,34839.12,withdrawal,2024-10-30 00:00:00,completed,Gordon Ltd,entertainment
+TXN_001369,ACC_00152,42625.23,transfer,2024-06-04 00:00:00,completed,Hall PLC,travel
+TXN_001370,ACC_00122,2290.17,transfer,2024-04-24 00:00:00,completed,Parker Ltd,travel
+TXN_001371,ACC_00139,46363.13,credit,2024-05-22 00:00:00,completed,Todd-Harvey,healthcare
+TXN_001372,ACC_00001,26734.4,transfer,2024-04-17 00:00:00,completed,Taylor Group,utilities
+TXN_001373,ACC_00282,4171.48,transfer,2024-06-15 00:00:00,completed,Harris-Bennett,restaurant
+TXN_001374,ACC_00030,14751.82,credit,2024-11-09 00:00:00,pending,"Johnson, Mclean and George",healthcare
+TXN_001375,ACC_00009,8844.99,,2024-05-23 00:00:00,completed,Stevenson-Murphy,electronics
+TXN_001376,ACC_00132,19105.23,payment,2024-12-18 00:00:00,completed,Stewart-Buchanan,fuel
+TXN_001377,ACC_00105,16219.91,payment,2024-04-22 00:00:00,completed,Meyer Group,restaurant
+TXN_001378,ACC_00223,22308.33,transfer,2024-03-20 00:00:00,completed,"Hess, Christensen and Perez",fuel
+TXN_001379,ACC_00236,24803.1,debit,2024-02-17 00:00:00,pending,"Rivera, Allen and Ryan",travel
+TXN_001380,ACC_00093,28487.2,transfer,2024-04-06 00:00:00,completed,"Mcneil, Solis and Horton",travel
+TXN_001381,ACC_00312,40876.79,debit,2024-03-31 00:00:00,completed,Franklin Group,electronics
+TXN_001382,ACC_00207,12270.24,credit,2024-08-06 00:00:00,completed,"Morris, Ramos and Smith",travel
+TXN_001383,ACC_00194,30168.64,withdrawal,2024-01-07 00:00:00,completed,Jones-Lee,groceries
+TXN_001384,ACC_00068,46734.54,debit,2024-11-25 00:00:00,pending,"Braun, Mays and Martinez",entertainment
+TXN_001385,ACC_00308,46930.53,credit,2024-03-14 00:00:00,pending,Watkins and Sons,groceries
+TXN_001386,ACC_00174,27123.08,credit,2024-02-24 00:00:00,completed,Romero Group,fuel
+TXN_001387,ACC_00084,44620.59,,2024-10-15 00:00:00,completed,"Mcdonald, Martin and Gonzalez",travel
+TXN_001388,ACC_00137,-2803.22,payment,2024-05-04 00:00:00,completed,Thompson-Wright,groceries
+TXN_001389,ACC_00053,27236.66,payment,2024-02-22 00:00:00,failed,Ray-Faulkner,restaurant
+TXN_001390,ACC_00115,70.51,credit,2024-03-13 00:00:00,completed,Nelson Group,restaurant
+TXN_001391,ACC_00147,17671.96,debit,2024-03-16 00:00:00,failed,Tapia LLC,restaurant
+TXN_001392,ACC_00058,44212.35,withdrawal,2024-12-17 00:00:00,completed,Gray-Ruiz,electronics
+TXN_001393,ACC_00145,5095.8,transfer,2024-04-24 00:00:00,completed,Wagner-Moss,utilities
+TXN_001394,ACC_00044,18031.07,credit,2024-03-01 00:00:00,completed,Weiss Group,travel
+TXN_001395,ACC_00308,26528.73,debit,2024-08-07 00:00:00,completed,Gill Group,travel
+TXN_001396,ACC_00147,34361.16,transfer,2024-12-07 00:00:00,failed,Blake LLC,entertainment
+TXN_001397,ACC_00136,33089.97,credit,2024-09-12 00:00:00,pending,"Medina, Tran and Thompson",travel
+TXN_001398,ACC_00076,7337.99,withdrawal,2024-12-01 00:00:00,completed,Ford-Chavez,fuel
+TXN_001399,ACC_00219,5667.07,transfer,2024-02-04 00:00:00,completed,Hart-Castillo,utilities
+TXN_001400,ACC_00198,9101.8,transfer,2024-03-06 00:00:00,completed,Taylor-Harrison,restaurant
+TXN_001401,ACC_00212,34674.11,payment,2024-09-03 00:00:00,pending,Hendricks Inc,utilities
+TXN_001402,ACC_00126,40109.03,withdrawal,2024-03-11 00:00:00,completed,Hensley Ltd,fuel
+TXN_001403,ACC_00273,26693.19,payment,2024-10-02 00:00:00,pending,"Brooks, Sullivan and Perry",restaurant
+TXN_001404,ACC_00216,29052.39,payment,2024-02-12 00:00:00,completed,Waller-Brooks,healthcare
+TXN_001405,ACC_00186,4371.64,credit,2024-12-25 00:00:00,completed,Parker-Archer,groceries
+TXN_001406,ACC_00069,27923.14,credit,2024-07-04 00:00:00,completed,Ortiz Inc,utilities
+TXN_001407,ACC_00072,42439.09,transfer,2024-07-03 00:00:00,completed,Cruz PLC,restaurant
+TXN_001408,ACC_00115,10544.76,credit,2024-05-04 00:00:00,completed,Lee Group,electronics
+TXN_001409,ACC_00194,35201.1,credit,2024-12-22 00:00:00,completed,Wise-Walton,restaurant
+TXN_001410,ACC_00055,2713.63,payment,2024-07-09 00:00:00,completed,Hicks-Burns,travel
+TXN_001411,ACC_00073,7352.86,credit,2024-01-16 00:00:00,completed,"Richardson, Brown and Cruz",groceries
+TXN_001412,ACC_00214,41555.09,debit,2024-10-18 00:00:00,pending,Fitzgerald-Allen,fuel
+TXN_001413,ACC_00154,37407.88,withdrawal,2024-03-12 00:00:00,completed,Dorsey LLC,utilities
+TXN_001414,ACC_00007,39072.03,transfer,2024-08-15 00:00:00,completed,"Mann, Johnson and Wade",groceries
+TXN_001415,ACC_00089,1615.63,payment,2024-11-24 00:00:00,completed,Green Group,restaurant
+TXN_001416,ACC_00233,33998.38,payment,2024-08-04 00:00:00,completed,"Hernandez, Wright and Lane",entertainment
+TXN_001417,ACC_00117,25098.6,withdrawal,2024-10-19 00:00:00,failed,"Skinner, Smith and Wise",entertainment
+TXN_001418,ACC_00065,26079.84,debit,2024-02-17 00:00:00,completed,"Dawson, Cruz and Mccarthy",groceries
+TXN_001419,ACC_00287,19620.63,payment,2024-04-22 00:00:00,pending,Stone and Sons,fuel
+TXN_001420,ACC_00208,15666.35,withdrawal,2024-09-01 00:00:00,completed,Martin-Simmons,utilities
+TXN_001421,ACC_00139,21216.85,credit,2024-11-27 00:00:00,completed,"Turner, Ponce and Barrett",utilities
+TXN_001422,ACC_00172,38942.08,credit,2024-11-04 00:00:00,completed,Willis-Gross,travel
+TXN_001423,ACC_00109,5332.16,payment,2024-10-04 00:00:00,completed,"Booth, Rodriguez and Armstrong",entertainment
+TXN_001424,ACC_00017,-27589.05,debit,2024-04-06 00:00:00,completed,Olsen-Adams,groceries
+TXN_001425,ACC_00248,49324.83,credit,2024-10-15 00:00:00,completed,Conrad Group,electronics
+TXN_001426,ACC_00183,-433.85,transfer,2024-06-07 00:00:00,reversed,"Parker, Benitez and Velasquez",healthcare
+TXN_001427,ACC_00183,37594.6,debit,2024-06-10 00:00:00,completed,Davis Ltd,electronics
+TXN_001428,ACC_00258,20370.26,credit,2024-06-18 00:00:00,completed,Warren-Pena,travel
+TXN_001429,ACC_00196,29362.9,withdrawal,2024-01-13 00:00:00,completed,"Jordan, Thompson and Lopez",groceries
+TXN_001430,ACC_00238,8069.54,credit,2024-05-28 00:00:00,failed,Gonzalez and Sons,electronics
+TXN_001431,ACC_00073,44221.26,debit,2024-04-28 00:00:00,reversed,"Fry, Hayes and Olsen",utilities
+TXN_001432,ACC_00174,39269.74,transfer,2024-08-17 00:00:00,completed,Harris Ltd,restaurant
+TXN_001433,ACC_00199,44535.09,debit,2024-01-21 00:00:00,completed,Lamb and Sons,electronics
+TXN_001434,ACC_00255,28349.37,credit,2024-03-19 00:00:00,pending,Bird-Savage,travel
+TXN_001435,ACC_00045,27361.33,withdrawal,2024-06-07 00:00:00,completed,Sims-Weber,utilities
+TXN_001436,ACC_00083,46703.46,credit,2024-03-27 00:00:00,completed,"Martin, Carter and Gray",utilities
+TXN_001437,ACC_00092,4470.57,withdrawal,2024-06-29 00:00:00,completed,Brown-Johnson,fuel
+TXN_001438,ACC_00227,38159.69,debit,2024-05-11 00:00:00,failed,Woods Ltd,fuel
+TXN_001439,ACC_00147,18179.97,withdrawal,2024-01-21 00:00:00,completed,Smith LLC,travel
+TXN_001440,ACC_00161,18342.95,transfer,2024-08-13 00:00:00,completed,Ortega Inc,restaurant
+TXN_001441,ACC_00022,22510.11,payment,2024-09-16 00:00:00,reversed,Clark Inc,groceries
+TXN_001442,ACC_00288,34990.27,credit,2024-05-05 00:00:00,completed,Morrison-Hatfield,electronics
+TXN_001443,ACC_00292,18797.33,withdrawal,2024-05-28 00:00:00,failed,Frederick-Kennedy,healthcare
+TXN_001444,ACC_00048,43709.2,transfer,2024-07-17 00:00:00,completed,Munoz-Rogers,fuel
+TXN_001445,ACC_00056,4300.27,withdrawal,2024-02-25 00:00:00,pending,"Wu, Key and Montoya",healthcare
+TXN_001446,ACC_00163,16442.74,transfer,2024-07-24 00:00:00,reversed,Ortega-Gray,fuel
+TXN_001447,ACC_00244,35117.52,credit,2024-04-18 00:00:00,completed,Hester LLC,groceries
+TXN_001448,ACC_00241,7795.5,debit,2024-10-06 00:00:00,completed,Smith Ltd,utilities
+TXN_001449,ACC_00308,1575.85,withdrawal,2024-10-17 00:00:00,completed,Hardy-Barron,utilities
+TXN_001450,ACC_00110,48928.26,credit,2024-08-08 00:00:00,completed,Johnson Inc,groceries
+TXN_001451,ACC_00130,21151.79,debit,2024-12-16 00:00:00,completed,"Ramirez, Lyons and Briggs",electronics
+TXN_001452,ACC_00153,20259.37,withdrawal,2024-05-20 00:00:00,failed,Hayes-Parks,healthcare
+TXN_001453,ACC_00095,44654.74,credit,2024-12-08 00:00:00,completed,Robertson-Keller,restaurant
+TXN_001454,ACC_00153,48168.65,debit,2024-06-24 00:00:00,completed,Andersen LLC,restaurant
+TXN_001455,ACC_00083,23780.22,withdrawal,2024-09-03 00:00:00,completed,Schultz Inc,restaurant
+TXN_001456,ACC_00306,28049.81,debit,2024-01-06 00:00:00,completed,"Nguyen, Wallace and Lawson",travel
+TXN_001457,ACC_00163,33206.51,credit,2024-06-14 00:00:00,completed,Stevenson-Bauer,fuel
+TXN_001458,ACC_00163,24977.29,credit,2024-03-16 00:00:00,pending,Patterson-Huynh,restaurant
+TXN_001459,ACC_00002,26039.38,withdrawal,2024-05-14 00:00:00,failed,Hatfield-Vincent,travel
+TXN_001460,ACC_00297,22471.94,credit,2024-11-20 00:00:00,completed,Navarro LLC,healthcare
+TXN_001461,ACC_00086,34825.34,,2024-08-03 00:00:00,completed,"Lee, Thomas and Meyer",utilities
+TXN_001462,ACC_00296,47619.32,credit,2024-04-17 00:00:00,completed,"Glover, Moran and Johnson",utilities
+TXN_001463,ACC_00158,15104.2,payment,2024-01-09 00:00:00,pending,Robles-Turner,electronics
+TXN_001464,ACC_00234,24961.54,withdrawal,2024-12-24 00:00:00,completed,"Davies, Archer and Owens",utilities
+TXN_001465,ACC_00172,21298.2,credit,2024-10-04 00:00:00,failed,Friedman-Olson,fuel
+TXN_001466,ACC_00284,18662.34,payment,2024-08-07 00:00:00,completed,"Allen, Lewis and Mullins",restaurant
+TXN_001467,ACC_00224,-14258.55,transfer,2024-07-14 00:00:00,completed,"Graves, Garcia and Holder",electronics
+TXN_001468,ACC_00054,40298.93,credit,2024-02-14 00:00:00,completed,Martin LLC,restaurant
+TXN_001469,ACC_00279,24825.28,credit,2024-02-23 00:00:00,completed,Miranda-Robinson,groceries
+TXN_001470,ACC_00216,14502.32,debit,2024-12-07 00:00:00,completed,Wade-Lynn,fuel
+TXN_001471,ACC_00101,19060.18,withdrawal,2024-10-09 00:00:00,reversed,"Martinez, Taylor and Nichols",utilities
+TXN_001472,ACC_00203,20652.61,credit,2024-08-25 00:00:00,failed,"Vasquez, Pope and Cook",healthcare
+TXN_001473,ACC_00136,14187.39,transfer,2024-09-16 00:00:00,pending,Huynh PLC,restaurant
+TXN_001474,ACC_00213,12085.31,credit,2024-12-10 00:00:00,completed,Schneider Group,travel
+TXN_001475,ACC_00266,42040.07,payment,2024-07-10 00:00:00,completed,"Paul, Hardy and Valdez",travel
+TXN_001476,ACC_00124,49641.53,payment,2024-10-19 00:00:00,reversed,"Burch, Kim and Hall",healthcare
+TXN_001477,ACC_00027,32225.27,payment,2024-11-11 00:00:00,completed,Wilson-Miller,restaurant
+TXN_001478,ACC_00163,20161.92,payment,2024-03-29 00:00:00,completed,Peterson PLC,healthcare
+TXN_001479,ACC_00065,35504.14,payment,2024-02-20 00:00:00,completed,Garner Inc,restaurant
+TXN_001480,ACC_00284,45834.1,debit,2024-11-17 00:00:00,failed,"Richardson, Castaneda and Finley",healthcare
+TXN_001481,ACC_00224,4672.34,credit,2024-02-17 00:00:00,completed,"Mclaughlin, Collins and Lawrence",travel
+TXN_001482,ACC_00279,30908.8,credit,2024-01-15 00:00:00,completed,Boone Group,groceries
+TXN_001483,ACC_00184,49170.88,debit,2024-03-07 00:00:00,completed,Wise-Salinas,healthcare
+TXN_001484,ACC_00126,9699.51,withdrawal,2024-06-01 00:00:00,pending,Meyer PLC,groceries
+TXN_001485,ACC_00074,4157.34,credit,2024-05-20 00:00:00,completed,"Walker, Foster and Medina",electronics
+TXN_001486,ACC_00306,22961.79,credit,2024-02-26 00:00:00,completed,Stewart-Cabrera,entertainment
+TXN_001487,ACC_00048,44731.29,credit,2024-05-14 00:00:00,completed,Hood-Porter,utilities
+TXN_001488,ACC_00252,19546.1,credit,2024-04-16 00:00:00,completed,Hernandez-Campbell,fuel
+TXN_001489,ACC_00215,3824.87,withdrawal,2024-11-16 00:00:00,failed,"Ortega, Solis and Warner",fuel
+TXN_001490,ACC_00006,8998.52,debit,2024-03-23 00:00:00,completed,"Flores, Shaw and Barker",groceries
+TXN_001491,ACC_00178,48796.03,withdrawal,2024-03-01 00:00:00,reversed,Shea-Mccarthy,groceries
+TXN_001492,ACC_00131,26092.21,credit,2024-03-22 00:00:00,completed,Welch-Lewis,groceries
+TXN_001493,ACC_00263,1161.68,debit,2024-10-01 00:00:00,completed,Padilla-Bennett,utilities
+TXN_001494,ACC_00016,44929.63,transfer,2024-02-28 00:00:00,completed,Hernandez-Moran,electronics
+TXN_001495,ACC_00138,46993.01,transfer,2024-12-20 00:00:00,completed,"Michael, Walker and Fitzgerald",electronics
+TXN_001496,ACC_00151,35407.1,withdrawal,2024-06-27 00:00:00,completed,Gates Ltd,fuel
+TXN_001497,ACC_00205,25637.7,debit,2024-08-11 00:00:00,completed,Evans-Briggs,healthcare
+TXN_001498,ACC_00144,42303.33,withdrawal,2024-12-17 00:00:00,completed,Ritter PLC,entertainment
+TXN_001499,ACC_00250,39707.04,withdrawal,2024-03-25 00:00:00,failed,Rogers-Gregory,restaurant
+TXN_001500,ACC_00164,37356.49,payment,2024-11-01 00:00:00,completed,Todd-Myers,restaurant
+TXN_001501,ACC_00181,9994.04,transfer,2024-08-07 00:00:00,failed,"Acosta, Campbell and Leblanc",electronics
+TXN_001502,ACC_00018,,,2024-08-18 00:00:00,completed,"Chase, Long and Anderson",restaurant
+TXN_001503,ACC_00272,30198.07,transfer,2024-05-30 00:00:00,completed,"Glenn, Brown and Michael",electronics
+TXN_001504,ACC_00220,40453.93,debit,2024-04-02 00:00:00,completed,Ellis-Martin,electronics
+TXN_001505,ACC_00191,32851.16,debit,2024-04-20 00:00:00,pending,Ramos Group,electronics
+TXN_001506,ACC_00006,15936.27,transfer,2024-01-05 00:00:00,completed,Merritt-Clark,utilities
+TXN_001507,ACC_00198,28086.41,transfer,2024-04-29 00:00:00,completed,"Gonzalez, Curtis and Cox",healthcare
+TXN_001508,ACC_00312,28052.33,credit,2024-02-22 00:00:00,completed,"Garcia, Floyd and Garrison",restaurant
+TXN_001509,ACC_00163,37812.5,transfer,2024-12-15 00:00:00,completed,Clements-Simmons,groceries
+TXN_001510,ACC_00141,24937.56,withdrawal,2024-09-09 00:00:00,completed,Howe Inc,fuel
+TXN_001511,ACC_00303,30075.52,withdrawal,2024-03-28 00:00:00,completed,Mccann-White,groceries
+TXN_001512,ACC_00295,901.64,credit,2024-05-25 00:00:00,failed,Wilson PLC,entertainment
+TXN_001513,ACC_00207,42083.73,credit,2024-03-08 00:00:00,failed,"Morgan, Hamilton and Hernandez",groceries
+TXN_001514,ACC_00036,32242.34,withdrawal,2024-06-21 00:00:00,completed,"Powell, Johnson and Allen",restaurant
+TXN_001515,ACC_00178,13740.93,withdrawal,2024-06-03 00:00:00,completed,Turner-Carlson,utilities
+TXN_001516,ACC_00202,30619.91,transfer,2024-09-09 00:00:00,completed,Delgado Group,fuel
+TXN_001517,ACC_00063,42435.13,transfer,2024-09-09 00:00:00,failed,"Esparza, Lambert and Davis",electronics
+TXN_001518,ACC_00006,11208.48,debit,2024-01-15 00:00:00,completed,Hancock-Santos,utilities
+TXN_001519,ACC_00116,36215.43,debit,2024-12-18 00:00:00,completed,Chen-Wallace,utilities
+TXN_001520,ACC_00027,49478.36,transfer,2024-10-02 00:00:00,failed,Wilson Inc,groceries
+TXN_001521,ACC_00156,2409.69,credit,2024-02-26 00:00:00,completed,Burns Ltd,restaurant
+TXN_001522,ACC_00071,34936.25,payment,2024-05-18 00:00:00,completed,"Walker, Matthews and Archer",travel
+TXN_001523,ACC_00300,43096.13,withdrawal,2024-06-12 00:00:00,completed,Hill-Mcgee,electronics
+TXN_001524,ACC_00296,26384.17,withdrawal,2024-09-24 00:00:00,completed,"White, Washington and Newman",entertainment
+TXN_001525,ACC_00248,38634.47,debit,2024-06-13 00:00:00,completed,Evans-Martinez,entertainment
+TXN_001526,ACC_00286,4148.89,debit,2024-12-30 00:00:00,completed,Brown-Stout,healthcare
+TXN_001527,ACC_00254,3910.06,credit,2024-12-21 00:00:00,completed,"Lopez, Hess and Smith",healthcare
+TXN_001528,ACC_00097,40927.39,withdrawal,2024-08-27 00:00:00,completed,"Roth, Logan and Moreno",healthcare
+TXN_001529,ACC_00264,38082.51,transfer,2024-10-29 00:00:00,pending,Stone PLC,entertainment
+TXN_001530,ACC_00079,22706.56,payment,2024-12-28 00:00:00,completed,"Reeves, Tyler and Martinez",travel
+TXN_001531,ACC_00198,45835.7,withdrawal,2024-04-22 00:00:00,failed,Sheppard Inc,healthcare
+TXN_001532,ACC_00143,9405.79,withdrawal,2024-07-23 00:00:00,completed,Atkins Ltd,entertainment
+TXN_001533,ACC_00076,32422.66,withdrawal,2024-10-22 00:00:00,failed,Smith Group,electronics
+TXN_001534,ACC_00236,839.23,debit,2024-05-03 00:00:00,completed,Martinez-Anderson,fuel
+TXN_001535,ACC_00181,26548.96,transfer,2024-12-04 00:00:00,completed,Delgado Inc,electronics
+TXN_001536,ACC_00078,21579.37,withdrawal,2024-06-30 00:00:00,completed,"Scott, Mullins and Miller",utilities
+TXN_001537,ACC_00190,22072.62,credit,2024-01-28 00:00:00,completed,Hunter LLC,restaurant
+TXN_001538,ACC_00097,9704.64,withdrawal,2024-08-04 00:00:00,completed,"Jackson, Rowland and Barrett",entertainment
+TXN_001539,ACC_00266,30376.33,withdrawal,2024-09-28 00:00:00,completed,Turner PLC,groceries
+TXN_001540,ACC_00057,12454.72,debit,2024-11-26 00:00:00,completed,Hopkins-Wallace,groceries
+TXN_001541,ACC_00034,13316.25,payment,2024-10-21 00:00:00,completed,"Henry, Edwards and Bartlett",healthcare
+TXN_001542,ACC_00208,34978.62,withdrawal,2024-11-13 00:00:00,completed,Obrien-Dixon,healthcare
+TXN_001543,ACC_00106,13420.66,debit,2024-12-20 00:00:00,pending,"Garcia, Weiss and Young",utilities
+TXN_001544,ACC_00306,14406.75,transfer,2024-11-22 00:00:00,completed,Thomas and Sons,electronics
+TXN_001545,ACC_00245,25166.98,transfer,2024-04-04 00:00:00,failed,Guzman and Sons,healthcare
+TXN_001546,ACC_00036,15762.47,debit,2024-03-28 00:00:00,completed,"Howard, Anderson and Dean",fuel
+TXN_001547,ACC_00243,48112.53,withdrawal,2024-03-13 00:00:00,completed,Pierce LLC,travel
+TXN_001548,ACC_00088,44064.06,credit,2024-05-15 00:00:00,completed,Santos-Martin,fuel
+TXN_001549,ACC_00127,60.31,withdrawal,2024-10-25 00:00:00,completed,Miller-King,groceries
+TXN_001550,ACC_00149,34005.51,debit,2024-10-17 00:00:00,completed,Bentley-Thomas,travel
+TXN_001551,ACC_00052,38765.08,transfer,2024-03-16 00:00:00,pending,Jones Ltd,utilities
+TXN_001552,ACC_00180,24538.19,payment,2024-08-19 00:00:00,completed,Cowan-Terry,fuel
+TXN_001553,ACC_00007,18220.82,transfer,2024-05-09 00:00:00,completed,Klein PLC,utilities
+TXN_001554,ACC_00306,38728.57,withdrawal,2024-09-22 00:00:00,completed,"Holland, Dixon and Martin",groceries
+TXN_001555,ACC_00113,48932.09,,2024-03-16 00:00:00,completed,Stewart Group,groceries
+TXN_001556,ACC_00221,28883.43,transfer,2024-05-05 00:00:00,completed,Johnson-Munoz,electronics
+TXN_001557,ACC_00194,,credit,2024-04-09 00:00:00,reversed,Nelson PLC,fuel
+TXN_001558,ACC_00179,8755.86,transfer,2024-09-26 00:00:00,completed,Sutton Group,restaurant
+TXN_001559,ACC_00022,15473.07,payment,2024-05-21 00:00:00,completed,Murphy Inc,utilities
+TXN_001560,ACC_00233,6156.83,payment,2024-11-09 00:00:00,reversed,Blankenship-Strickland,utilities
+TXN_001561,ACC_00005,5518.43,withdrawal,2024-05-27 00:00:00,failed,Melton and Sons,travel
+TXN_001562,ACC_00268,34049.34,transfer,2024-08-26 00:00:00,completed,Smith-Bennett,travel
+TXN_001563,ACC_00034,24346.37,transfer,2024-06-04 00:00:00,completed,Gray Inc,groceries
+TXN_001564,ACC_00304,14158.03,credit,2024-04-21 00:00:00,completed,Thompson Ltd,entertainment
+TXN_001565,ACC_00001,21521.84,credit,2024-01-03 00:00:00,completed,Chapman-Roman,utilities
+TXN_001566,ACC_00258,39265.31,payment,2024-05-25 00:00:00,completed,Rice Ltd,electronics
+TXN_001567,ACC_00101,13540.74,withdrawal,2024-12-31 00:00:00,completed,"Grimes, Arnold and Lawson",electronics
+TXN_001568,ACC_00243,10950.7,transfer,2024-05-28 00:00:00,completed,Jackson Group,restaurant
+TXN_001569,ACC_00051,19961.69,transfer,2024-08-04 00:00:00,failed,Reed Ltd,entertainment
+TXN_001570,ACC_00166,28199.74,payment,2024-03-29 00:00:00,completed,"Faulkner, Schmidt and Wheeler",healthcare
+TXN_001571,ACC_00284,6793.18,debit,2024-05-08 00:00:00,completed,Woods-Anderson,electronics
+TXN_001572,ACC_00237,28337.59,payment,2024-06-01 00:00:00,completed,Parks Ltd,restaurant
+TXN_001573,ACC_00227,6939.11,transfer,2024-02-19 00:00:00,completed,Sandoval and Sons,utilities
+TXN_001574,ACC_00239,17716.15,withdrawal,2024-08-27 00:00:00,reversed,Bradley-Adams,fuel
+TXN_001575,ACC_00014,45628.79,withdrawal,2024-01-15 00:00:00,completed,"Fowler, Wood and Waters",travel
+TXN_001576,ACC_00125,45343.37,payment,2024-11-10 00:00:00,completed,"Franklin, Mann and White",travel
+TXN_001577,ACC_00290,27168.04,transfer,2024-11-13 00:00:00,completed,Lindsey-Shaw,restaurant
+TXN_001578,ACC_00004,20153.08,withdrawal,2024-03-05 00:00:00,pending,Cisneros-Meyer,fuel
+TXN_001579,ACC_00139,4242.11,credit,2024-01-28 00:00:00,completed,"Keith, Cervantes and Torres",electronics
+TXN_001580,ACC_00170,28276.52,credit,2024-05-28 00:00:00,completed,Meza Group,groceries
+TXN_001581,ACC_00074,-10261.17,payment,2024-12-25 00:00:00,completed,Bruce-Walters,fuel
+TXN_001582,ACC_00080,11184.94,transfer,2024-03-10 00:00:00,completed,Blair Inc,groceries
+TXN_001583,ACC_00103,31186.96,credit,2024-09-05 00:00:00,completed,Johnston Inc,travel
+TXN_001584,ACC_00267,43996.15,credit,2024-11-05 00:00:00,completed,"Mitchell, Noble and Stokes",electronics
+TXN_001585,ACC_00259,1242.57,withdrawal,2024-08-30 00:00:00,completed,Hayden Group,electronics
+TXN_001586,ACC_00095,20233.82,debit,2024-06-02 00:00:00,pending,"Romero, Cross and Castillo",entertainment
+TXN_001587,ACC_00064,34069.21,withdrawal,2024-11-09 00:00:00,completed,"Jennings, Rhodes and Patel",groceries
+TXN_001588,ACC_00124,7092.89,debit,2024-04-04 00:00:00,completed,Sullivan PLC,healthcare
+TXN_001589,ACC_00149,24028.52,credit,2024-08-31 00:00:00,reversed,Bartlett Ltd,fuel
+TXN_001590,ACC_00201,33388.31,withdrawal,2024-07-07 00:00:00,completed,Klein Ltd,electronics
+TXN_001591,ACC_00218,-20850.65,debit,2024-08-25 00:00:00,completed,"Brady, Sanchez and Stevenson",fuel
+TXN_001592,ACC_00006,28214.81,payment,2024-03-02 00:00:00,completed,"Sutton, Williams and West",fuel
+TXN_001593,ACC_00182,45406.34,debit,2024-01-22 00:00:00,completed,Craig PLC,fuel
+TXN_001594,ACC_00082,465.91,transfer,2024-05-21 00:00:00,completed,Thompson LLC,healthcare
+TXN_001595,ACC_00269,45128.5,withdrawal,2024-06-27 00:00:00,completed,Palmer Inc,travel
+TXN_001596,ACC_00289,7578.62,transfer,2024-12-01 00:00:00,completed,Simpson-Jackson,travel
+TXN_001597,ACC_00156,-39250.2,withdrawal,2024-05-22 00:00:00,completed,Morgan Ltd,fuel
+TXN_001598,ACC_00311,48128.12,debit,2024-07-11 00:00:00,completed,Decker Inc,entertainment
+TXN_001599,ACC_00302,34891.46,payment,2024-03-07 00:00:00,completed,Evans-Carter,restaurant
+TXN_001600,ACC_00082,2256.01,debit,2024-02-04 00:00:00,completed,Smith Ltd,electronics
+TXN_001601,ACC_00244,-46712.35,transfer,2024-09-12 00:00:00,pending,"Long, Leblanc and Hickman",healthcare
+TXN_001602,ACC_00090,44990.72,withdrawal,2024-02-23 00:00:00,pending,"Robertson, Barry and Walls",restaurant
+TXN_001603,ACC_00129,3105.71,credit,2024-02-02 00:00:00,completed,"Charles, Brown and Smith",electronics
+TXN_001604,ACC_00311,38169.96,credit,2024-08-14 00:00:00,failed,Murphy-Gomez,utilities
+TXN_001605,ACC_00194,34939.3,debit,2024-02-25 00:00:00,reversed,Bailey Ltd,healthcare
+TXN_001606,ACC_00225,12632.22,transfer,2024-04-10 00:00:00,completed,Morales Inc,travel
+TXN_001607,ACC_00099,40693.75,credit,2024-08-10 00:00:00,completed,Jordan and Sons,electronics
+TXN_001608,ACC_00072,1671.63,credit,2024-04-14 00:00:00,completed,Rice and Sons,restaurant
+TXN_001609,ACC_00037,27333.58,transfer,2024-10-17 00:00:00,completed,Martinez-Freeman,fuel
+TXN_001610,ACC_00293,41621.82,withdrawal,2024-04-07 00:00:00,completed,Hammond LLC,utilities
+TXN_001611,ACC_00071,44988.79,credit,2024-11-12 00:00:00,completed,Ruiz LLC,restaurant
+TXN_001612,ACC_00066,28461.93,payment,2024-02-06 00:00:00,completed,Diaz-Mcclain,electronics
+TXN_001613,ACC_00308,11536.37,payment,2024-09-12 00:00:00,completed,"Cain, Rodriguez and Gonzales",healthcare
+TXN_001614,ACC_00129,46114.44,withdrawal,2024-05-28 00:00:00,completed,Martin-Gomez,electronics
+TXN_001615,ACC_00039,48406.06,payment,2024-03-21 00:00:00,completed,Smith-Stephenson,entertainment
+TXN_001616,ACC_00280,30936.06,credit,2024-07-23 00:00:00,completed,"Gonzalez, Lopez and Williams",entertainment
+TXN_001617,ACC_00174,1508.6,withdrawal,2024-11-30 00:00:00,completed,Fisher-Rivera,utilities
+TXN_001618,ACC_00281,6973.04,transfer,2024-01-31 00:00:00,failed,Martin and Sons,groceries
+TXN_001619,ACC_00289,24682.82,payment,2024-04-30 00:00:00,completed,Moyer-Bird,groceries
+TXN_001620,ACC_00214,49052.99,payment,2024-06-26 00:00:00,completed,Fisher PLC,electronics
+TXN_001621,ACC_00067,23943.79,transfer,2024-10-09 00:00:00,completed,Marsh-Klein,electronics
+TXN_001622,ACC_00116,24834.87,transfer,2024-01-19 00:00:00,completed,Potter-Deleon,entertainment
+TXN_001623,ACC_00029,1081.95,credit,2024-04-26 00:00:00,pending,Shaw-Mclean,healthcare
+TXN_001624,ACC_00195,30410.86,credit,2024-09-30 00:00:00,completed,Anderson-Rosario,groceries
+TXN_001625,ACC_00065,38286.42,withdrawal,2024-07-17 00:00:00,completed,Martinez LLC,travel
+TXN_001626,ACC_00189,21903.26,transfer,2024-02-29 00:00:00,completed,"Smith, Cohen and Williams",restaurant
+TXN_001627,ACC_00048,11916.13,payment,2024-01-30 00:00:00,completed,Jordan-Harper,restaurant
+TXN_001628,ACC_00008,28406.75,debit,2024-10-01 00:00:00,pending,Hamilton LLC,electronics
+TXN_001629,ACC_00093,6344.53,transfer,2024-01-30 00:00:00,completed,Tucker-Hodges,utilities
+TXN_001630,ACC_00126,32763.9,transfer,2024-11-04 00:00:00,completed,Williamson Ltd,restaurant
+TXN_001631,ACC_00040,32882.57,credit,2024-09-02 00:00:00,completed,"Lopez, Campbell and Wilson",healthcare
+TXN_001632,ACC_00183,35265.71,debit,2024-09-10 00:00:00,completed,Gamble-Wright,entertainment
+TXN_001633,ACC_00150,39012.62,debit,2024-07-06 00:00:00,completed,Gonzalez-Mccarthy,entertainment
+TXN_001634,ACC_00258,34891.61,credit,2024-06-12 00:00:00,completed,Haynes PLC,restaurant
+TXN_001635,ACC_00249,47528.67,transfer,2024-12-27 00:00:00,completed,"White, Riddle and Garza",travel
+TXN_001636,ACC_00284,11534.49,debit,2024-09-23 00:00:00,completed,"Hernandez, Martinez and Morales",travel
+TXN_001637,ACC_00226,48895.71,withdrawal,2024-01-19 00:00:00,reversed,Mooney-Hickman,groceries
+TXN_001638,ACC_00139,41817.9,transfer,2024-09-12 00:00:00,completed,Smith-Gonzalez,entertainment
+TXN_001639,ACC_00313,2995.4,withdrawal,2024-02-13 00:00:00,completed,James PLC,restaurant
+TXN_001640,ACC_00115,22206.55,debit,2024-07-15 00:00:00,completed,Graves-Baird,restaurant
+TXN_001641,ACC_00157,2622.46,credit,2024-09-29 00:00:00,completed,Rogers Group,utilities
+TXN_001642,ACC_00173,45503.6,transfer,2024-01-14 00:00:00,pending,Hicks Ltd,healthcare
+TXN_001643,ACC_00223,17053.81,withdrawal,2024-01-15 00:00:00,pending,Torres LLC,groceries
+TXN_001644,ACC_00148,27669.18,payment,2024-02-25 00:00:00,completed,Ramirez-Bell,entertainment
+TXN_001645,ACC_00240,48015.65,debit,2024-03-24 00:00:00,completed,Wright-Jacobson,groceries
+TXN_001646,ACC_00141,39981.45,credit,2024-05-23 00:00:00,reversed,Williams Inc,entertainment
+TXN_001647,ACC_00020,28558.42,payment,2024-06-21 00:00:00,completed,"Garner, Lewis and Kennedy",entertainment
+TXN_001648,ACC_00312,12533.16,credit,2024-12-03 00:00:00,completed,"Garcia, Lopez and Vaughan",utilities
+TXN_001649,ACC_00228,42381.16,withdrawal,2024-05-15 00:00:00,completed,Cook-Rodriguez,groceries
+TXN_001650,ACC_00184,1859.82,withdrawal,2024-08-26 00:00:00,completed,"Smith, Arnold and Atkins",healthcare
+TXN_001651,ACC_00041,2938.66,transfer,2024-07-28 00:00:00,failed,Ward-Patrick,utilities
+TXN_001652,ACC_00133,22027.57,transfer,2024-02-02 00:00:00,completed,"Maxwell, Rice and Watson",fuel
+TXN_001653,ACC_00090,11378.67,debit,2024-03-06 00:00:00,failed,"Hill, Silva and Miller",groceries
+TXN_001654,ACC_00020,5731.18,debit,2024-04-29 00:00:00,completed,Anderson Ltd,fuel
+TXN_001655,ACC_00284,15873.55,debit,2024-10-23 00:00:00,completed,"Martinez, Willis and Barr",entertainment
+TXN_001656,ACC_00181,815.75,payment,2024-05-11 00:00:00,completed,"Roth, Lee and Griffin",healthcare
+TXN_001657,ACC_00260,,withdrawal,2024-06-28 00:00:00,completed,Jones PLC,electronics
+TXN_001658,ACC_00293,10210.06,transfer,2024-05-01 00:00:00,pending,"Cooper, Swanson and Mayo",restaurant
+TXN_001659,ACC_00145,32097.93,debit,2024-02-06 00:00:00,completed,Ferguson and Sons,utilities
+TXN_001660,ACC_00192,,withdrawal,2024-06-20 00:00:00,failed,Anderson Group,entertainment
+TXN_001661,ACC_00189,1567.56,credit,2024-11-14 00:00:00,completed,"Dawson, Snow and Malone",travel
+TXN_001662,ACC_00312,1286.51,debit,2024-10-29 00:00:00,pending,"Hester, Jacobson and West",utilities
+TXN_001663,ACC_00299,18948.2,credit,2024-04-20 00:00:00,completed,"Wilson, Graham and Webb",travel
+TXN_001664,ACC_00041,38132.97,credit,2024-07-14 00:00:00,reversed,"Velazquez, Gordon and Johnson",healthcare
+TXN_001665,ACC_00295,25179.76,payment,2024-10-16 00:00:00,completed,"Hill, Ponce and Roberts",electronics
+TXN_001666,ACC_00311,39912.3,withdrawal,2024-09-27 00:00:00,completed,"Brown, Compton and Lee",fuel
+TXN_001667,ACC_00295,13466.44,transfer,2024-06-11 00:00:00,failed,Simpson-Patel,utilities
+TXN_001668,ACC_00186,39952.31,debit,2024-05-04 00:00:00,completed,"Mata, Martin and Christensen",electronics
+TXN_001669,ACC_00210,12059.91,transfer,2024-12-20 00:00:00,completed,Hart-Myers,electronics
+TXN_001670,ACC_00310,32669.96,debit,2024-07-04 00:00:00,completed,"Nelson, White and Moore",restaurant
+TXN_001671,ACC_00065,-28471.42,payment,2024-04-27 00:00:00,completed,Vargas Inc,restaurant
+TXN_001672,ACC_00071,29241.92,payment,2024-12-11 00:00:00,completed,"Gibson, Zimmerman and Warren",entertainment
+TXN_001673,ACC_00042,15699.08,withdrawal,2024-06-23 00:00:00,completed,Phelps-Phillips,travel
+TXN_001674,ACC_00102,24715.07,debit,2024-10-21 00:00:00,failed,Arnold-Jackson,groceries
+TXN_001675,ACC_00135,6048.23,payment,2024-03-26 00:00:00,completed,Ferguson LLC,fuel
+TXN_001676,ACC_00018,6328.63,withdrawal,2024-02-21 00:00:00,completed,Bowman LLC,travel
+TXN_001677,ACC_00272,6627.56,withdrawal,2024-02-07 00:00:00,failed,Nelson Inc,utilities
+TXN_001678,ACC_00286,20121.85,debit,2024-03-06 00:00:00,completed,"Whitney, Mayo and Clark",electronics
+TXN_001679,ACC_00173,44872.34,payment,2024-06-21 00:00:00,completed,Smith LLC,electronics
+TXN_001680,ACC_00182,3696.89,withdrawal,2024-01-24 00:00:00,failed,"Jacobs, Wood and Miller",fuel
+TXN_001681,ACC_00245,14471.66,debit,2024-08-11 00:00:00,completed,"Henson, Baker and Anderson",electronics
+TXN_001682,ACC_00304,44781.0,payment,2024-03-18 00:00:00,completed,"Phillips, Galloway and Garrett",fuel
+TXN_001683,ACC_00091,,payment,2024-07-13 00:00:00,completed,Holloway and Sons,entertainment
+TXN_001684,ACC_00253,11620.85,transfer,2024-02-19 00:00:00,completed,"Sanford, Thompson and Bonilla",restaurant
+TXN_001685,ACC_00164,16146.78,debit,2024-05-26 00:00:00,reversed,"Sandoval, Parrish and Crosby",groceries
+TXN_001686,ACC_00143,21532.58,payment,2024-04-17 00:00:00,failed,"Rodriguez, Reese and Reyes",utilities
+TXN_001687,ACC_00085,17373.81,credit,2024-02-20 00:00:00,completed,"Scott, Sims and Munoz",fuel
+TXN_001688,ACC_00087,11189.43,transfer,2024-08-12 00:00:00,failed,Montoya and Sons,entertainment
+TXN_001689,ACC_00119,37675.91,transfer,2024-11-06 00:00:00,completed,Adams-Perkins,healthcare
+TXN_001690,ACC_00087,-41941.11,credit,2024-10-09 00:00:00,completed,Moore-Hall,groceries
+TXN_001691,ACC_00100,26900.42,credit,2024-10-03 00:00:00,completed,"Hamilton, Hernandez and Mendoza",groceries
+TXN_001692,ACC_00293,10165.02,withdrawal,2024-07-08 00:00:00,completed,White-Lopez,travel
+TXN_001693,ACC_00057,14754.13,credit,2024-08-20 00:00:00,completed,Lopez Group,restaurant
+TXN_001694,ACC_00071,13160.2,transfer,2024-09-09 00:00:00,completed,"White, Campbell and Collins",electronics
+TXN_001695,ACC_00114,40184.02,credit,2024-06-30 00:00:00,completed,Roth Ltd,utilities
+TXN_001696,ACC_00263,22678.67,credit,2024-05-21 00:00:00,completed,"Lopez, Thomas and Simmons",utilities
+TXN_001697,ACC_00267,21674.55,transfer,2024-01-20 00:00:00,completed,Stout-Waller,groceries
+TXN_001698,ACC_00126,31367.98,debit,2024-11-20 00:00:00,completed,Ramsey and Sons,healthcare
+TXN_001699,ACC_00241,9791.96,debit,2024-12-10 00:00:00,completed,"Christensen, Smith and Garcia",travel
+TXN_001700,ACC_00102,14137.16,credit,2024-09-11 00:00:00,reversed,Smith-Serrano,healthcare
+TXN_001701,ACC_00252,21721.6,payment,2024-01-02 00:00:00,completed,"Michael, Anderson and Carrillo",travel
+TXN_001702,ACC_00135,20913.79,payment,2024-01-20 00:00:00,completed,Thomas-Burton,healthcare
+TXN_001703,ACC_00272,17441.7,debit,2024-11-22 00:00:00,failed,Sparks Inc,healthcare
+TXN_001704,ACC_00251,33402.11,withdrawal,2024-05-29 00:00:00,completed,Daniels LLC,fuel
+TXN_001705,ACC_00058,4835.7,transfer,2024-05-31 00:00:00,completed,"Miller, Taylor and Malone",fuel
+TXN_001706,ACC_00218,12377.34,credit,2024-06-15 00:00:00,completed,Ochoa-Parker,utilities
+TXN_001707,ACC_00204,5685.68,debit,2024-12-04 00:00:00,pending,Moore-Brown,fuel
+TXN_001708,ACC_00121,30056.93,credit,2024-09-07 00:00:00,completed,"Adams, Stephens and Smith",healthcare
+TXN_001709,ACC_00166,3049.56,transfer,2024-07-28 00:00:00,completed,Garcia LLC,restaurant
+TXN_001710,ACC_00218,40453.44,withdrawal,2024-07-19 00:00:00,completed,Hunt Group,groceries
+TXN_001711,ACC_00113,24280.41,transfer,2024-05-17 00:00:00,completed,Smith and Sons,groceries
+TXN_001712,ACC_00114,22387.34,payment,2024-06-06 00:00:00,failed,Perez Group,healthcare
+TXN_001713,ACC_00313,5524.68,transfer,2024-11-16 00:00:00,completed,Gomez LLC,groceries
+TXN_001714,ACC_00047,40122.62,transfer,2024-01-11 00:00:00,failed,Dorsey Ltd,electronics
+TXN_001715,ACC_00108,2470.27,transfer,2024-12-01 00:00:00,completed,Mcdaniel-Espinoza,travel
+TXN_001716,ACC_00118,19782.36,transfer,2024-10-01 00:00:00,pending,Vasquez Inc,utilities
+TXN_001717,ACC_00284,20675.63,debit,2024-06-18 00:00:00,failed,Garcia LLC,groceries
+TXN_001718,ACC_00270,37758.54,credit,2024-01-11 00:00:00,completed,Jones-Cook,fuel
+TXN_001719,ACC_00155,7855.71,credit,2024-01-22 00:00:00,completed,Mclean-Gillespie,healthcare
+TXN_001720,ACC_00064,13630.19,withdrawal,2024-01-18 00:00:00,completed,Munoz and Sons,travel
+TXN_001721,ACC_00040,43100.56,credit,2024-05-18 00:00:00,completed,Moreno-Greene,restaurant
+TXN_001722,ACC_00278,746.94,payment,2024-01-11 00:00:00,failed,"Coleman, Barry and Mcdaniel",electronics
+TXN_001723,ACC_00100,39633.07,payment,2024-10-28 00:00:00,failed,"Roth, Bailey and Garcia",utilities
+TXN_001724,ACC_00012,25622.66,transfer,2024-08-05 00:00:00,completed,Stanley-Cantu,healthcare
+TXN_001725,ACC_00296,13220.86,withdrawal,2024-02-21 00:00:00,completed,"Lindsey, Mccormick and Hensley",restaurant
+TXN_001726,ACC_00209,11120.43,payment,2024-02-17 00:00:00,completed,Strickland and Sons,entertainment
+TXN_001727,ACC_00126,26664.86,withdrawal,2024-12-25 00:00:00,completed,Hernandez-Griffin,fuel
+TXN_001728,ACC_00280,47573.35,credit,2024-07-20 00:00:00,completed,Briggs-Wilson,groceries
+TXN_001729,ACC_00229,38562.58,transfer,2024-07-22 00:00:00,completed,Moyer-Ramirez,electronics
+TXN_001730,ACC_00074,15537.38,credit,2024-11-25 00:00:00,completed,Morris and Sons,travel
+TXN_001731,ACC_00251,43242.74,payment,2024-04-16 00:00:00,completed,Saunders LLC,travel
+TXN_001732,ACC_00243,30828.26,payment,2024-07-25 00:00:00,completed,Snyder-Olson,healthcare
+TXN_001733,ACC_00130,38372.75,withdrawal,2024-01-31 00:00:00,completed,Guzman-Fields,utilities
+TXN_001734,ACC_00290,1835.12,payment,2024-03-18 00:00:00,completed,Pham Ltd,groceries
+TXN_001735,ACC_00288,34522.96,withdrawal,2024-05-17 00:00:00,completed,Reyes PLC,utilities
+TXN_001736,ACC_00237,11794.61,withdrawal,2024-11-29 00:00:00,completed,Ryan-Vasquez,electronics
+TXN_001737,ACC_00040,21290.84,withdrawal,2024-02-23 00:00:00,completed,"Underwood, Cruz and Carpenter",groceries
+TXN_001738,ACC_00063,26001.75,debit,2024-03-23 00:00:00,completed,Rose-Frank,electronics
+TXN_001739,ACC_00254,44276.29,debit,2024-01-20 00:00:00,completed,"Robinson, Miller and Ward",fuel
+TXN_001740,ACC_00281,37452.18,withdrawal,2024-03-12 00:00:00,completed,Mcknight Inc,entertainment
+TXN_001741,ACC_00151,21779.62,transfer,2024-03-01 00:00:00,completed,Grant-Rosario,utilities
+TXN_001742,ACC_00073,32514.53,transfer,2024-10-15 00:00:00,completed,Brown LLC,healthcare
+TXN_001743,ACC_00191,47600.25,payment,2024-11-10 00:00:00,completed,Allison-Delacruz,fuel
+TXN_001744,ACC_00170,10538.75,debit,2024-08-24 00:00:00,completed,Phillips and Sons,fuel
+TXN_001745,ACC_00092,15891.22,debit,2024-01-06 00:00:00,completed,"Bonilla, Durham and Sanchez",groceries
+TXN_001746,ACC_00103,35076.22,,2024-06-08 00:00:00,completed,Brown and Sons,utilities
+TXN_001747,ACC_00240,3064.78,payment,2024-02-18 00:00:00,completed,Hayden Ltd,utilities
+TXN_001748,ACC_00116,27962.21,transfer,2024-11-21 00:00:00,completed,Bennett Inc,healthcare
+TXN_001749,ACC_00219,14216.54,payment,2024-05-20 00:00:00,completed,"Hanna, Watson and Miles",utilities
+TXN_001750,ACC_00131,38351.77,payment,2024-11-15 00:00:00,completed,"Perkins, Woods and Wheeler",healthcare
+TXN_001751,ACC_00053,29636.03,debit,2024-02-09 00:00:00,completed,Johnson LLC,entertainment
+TXN_001752,ACC_00268,5125.08,payment,2024-10-15 00:00:00,completed,Miller Inc,restaurant
+TXN_001753,ACC_00304,28787.03,payment,2024-06-18 00:00:00,completed,Carroll Group,fuel
+TXN_001754,ACC_00119,8413.29,debit,2024-04-17 00:00:00,completed,Cannon Group,travel
+TXN_001755,ACC_00001,8249.27,transfer,2024-03-14 00:00:00,completed,"Taylor, Rose and Rush",groceries
+TXN_001756,ACC_00226,-25590.15,withdrawal,2024-03-11 00:00:00,completed,Jenkins-Rogers,utilities
+TXN_001757,ACC_00061,25023.75,debit,2024-06-03 00:00:00,completed,"Dominguez, Mitchell and Moore",restaurant
+TXN_001758,ACC_00182,35315.17,transfer,2024-07-16 00:00:00,pending,"Johnson, Potter and Gordon",utilities
+TXN_001759,ACC_00310,3919.2,debit,2024-09-28 00:00:00,reversed,Sanders Group,entertainment
+TXN_001760,ACC_00224,7152.77,payment,2024-12-30 00:00:00,completed,"Vaughan, Gibson and Dawson",entertainment
+TXN_001761,ACC_00223,6020.79,transfer,2024-12-16 00:00:00,completed,Ellison-Shaw,utilities
+TXN_001762,ACC_00178,38539.53,withdrawal,2024-08-26 00:00:00,completed,"Perez, Huynh and Nelson",healthcare
+TXN_001763,ACC_00006,18716.55,debit,2024-07-14 00:00:00,completed,Boyd and Sons,healthcare
+TXN_001764,ACC_00169,29313.56,credit,2024-01-03 00:00:00,failed,"Lewis, Montgomery and Robinson",entertainment
+TXN_001765,ACC_00311,46078.98,transfer,2024-09-14 00:00:00,completed,Carson PLC,entertainment
+TXN_001766,ACC_00023,23941.96,transfer,2024-11-24 00:00:00,completed,"Skinner, Velasquez and Mcdonald",groceries
+TXN_001767,ACC_00242,41168.05,payment,2024-10-19 00:00:00,completed,Delgado-Sullivan,fuel
+TXN_001768,ACC_00280,23677.69,credit,2024-03-29 00:00:00,completed,Martin-Pratt,groceries
+TXN_001769,ACC_00079,44714.31,debit,2024-11-09 00:00:00,failed,"Coleman, Nelson and Garcia",travel
+TXN_001770,ACC_00062,20984.43,credit,2024-02-12 00:00:00,completed,Morrison-Bradford,groceries
+TXN_001771,ACC_00279,4882.8,transfer,2024-06-09 00:00:00,reversed,Allen and Sons,healthcare
+TXN_001772,ACC_00009,-30704.05,transfer,2024-12-01 00:00:00,pending,"Rodriguez, Lewis and Smith",utilities
+TXN_001773,ACC_00301,8468.99,transfer,2024-12-29 00:00:00,completed,Lopez-Harris,restaurant
+TXN_001774,ACC_00032,41887.46,credit,2024-08-01 00:00:00,completed,Allen Inc,travel
+TXN_001775,ACC_00228,4207.6,credit,2024-05-16 00:00:00,completed,"Cunningham, Elliott and Tyler",healthcare
+TXN_001776,ACC_00089,25278.24,credit,2024-12-18 00:00:00,completed,Williams Inc,utilities
+TXN_001777,ACC_00291,17079.21,credit,2024-03-01 00:00:00,completed,Smith-Kelly,fuel
+TXN_001778,ACC_00047,5821.92,debit,2024-02-15 00:00:00,completed,Benjamin-Porter,travel
+TXN_001779,ACC_00011,29561.52,debit,2024-06-11 00:00:00,pending,Walton-Swanson,healthcare
+TXN_001780,ACC_00042,-18732.73,debit,2024-11-22 00:00:00,completed,Park Inc,healthcare
+TXN_001781,ACC_00195,15531.25,transfer,2024-03-08 00:00:00,completed,Russell-Figueroa,travel
+TXN_001782,ACC_00116,15783.89,debit,2024-10-16 00:00:00,completed,Shaw and Sons,healthcare
+TXN_001783,ACC_00133,48964.12,withdrawal,2024-03-31 00:00:00,completed,Matthews Group,fuel
+TXN_001784,ACC_00179,28939.02,payment,2024-06-30 00:00:00,completed,Willis-Christian,travel
+TXN_001785,ACC_00300,47483.76,withdrawal,2024-01-19 00:00:00,completed,Martin-Fleming,healthcare
+TXN_001786,ACC_00148,21698.33,debit,2024-12-25 00:00:00,completed,Mcclure Inc,entertainment
+TXN_001787,ACC_00108,25668.49,transfer,2024-02-16 00:00:00,completed,"Hall, Lewis and Maldonado",entertainment
+TXN_001788,ACC_00265,46096.75,debit,2024-01-17 00:00:00,completed,Mack and Sons,fuel
+TXN_001789,ACC_00289,-16156.32,,2024-10-27 00:00:00,completed,"Black, Chandler and Curtis",groceries
+TXN_001790,ACC_00184,35067.4,credit,2024-06-14 00:00:00,completed,West-Anderson,fuel
+TXN_001791,ACC_00052,,debit,2024-06-20 00:00:00,failed,Ward-Chase,entertainment
+TXN_001792,ACC_00096,23347.39,,2024-03-24 00:00:00,completed,Williams-Marquez,fuel
+TXN_001793,ACC_00223,28802.5,withdrawal,2024-10-30 00:00:00,completed,"Hughes, Clark and Bishop",healthcare
+TXN_001794,ACC_00308,36171.39,transfer,2024-05-09 00:00:00,completed,Rubio PLC,restaurant
+TXN_001795,ACC_00120,2016.05,payment,2024-06-02 00:00:00,completed,"Gamble, Davis and Smith",restaurant
+TXN_001796,ACC_00206,47699.56,payment,2024-05-17 00:00:00,completed,Payne-Novak,travel
+TXN_001797,ACC_00269,44330.9,debit,2024-06-02 00:00:00,reversed,Porter Group,travel
+TXN_001798,ACC_00028,33173.69,credit,2024-03-07 00:00:00,completed,Jackson-Phillips,travel
+TXN_001799,ACC_00085,22941.09,withdrawal,2024-06-26 00:00:00,completed,Ramirez LLC,travel
+TXN_001800,ACC_00155,,transfer,2024-04-12 00:00:00,completed,Davis-White,healthcare
+TXN_001801,ACC_00126,21833.08,debit,2024-04-14 00:00:00,completed,Scott-Kennedy,utilities
+TXN_001802,ACC_00177,23872.43,credit,2024-01-03 00:00:00,completed,Hines-Ramos,restaurant
+TXN_001803,ACC_00242,10632.47,withdrawal,2024-12-23 00:00:00,pending,Case PLC,healthcare
+TXN_001804,ACC_00163,19384.82,debit,2024-02-19 00:00:00,completed,Williams-Trevino,utilities
+TXN_001805,ACC_00218,40991.36,payment,2024-05-24 00:00:00,completed,Ortiz-Harvey,electronics
+TXN_001806,ACC_00301,24420.58,credit,2024-06-26 00:00:00,completed,"Anderson, Richardson and Kirk",travel
+TXN_001807,ACC_00175,18462.94,payment,2024-04-30 00:00:00,pending,Brooks-Fleming,restaurant
+TXN_001808,ACC_00071,32282.41,withdrawal,2024-02-09 00:00:00,completed,"Cole, Rich and Esparza",healthcare
+TXN_001809,ACC_00174,21775.68,withdrawal,2024-06-03 00:00:00,completed,Oliver Ltd,restaurant
+TXN_001810,ACC_00199,14255.36,withdrawal,2024-03-18 00:00:00,completed,Figueroa and Sons,restaurant
+TXN_001811,ACC_00265,8185.51,credit,2024-04-01 00:00:00,completed,"Nicholson, Smith and Farrell",electronics
+TXN_001812,ACC_00052,34306.42,withdrawal,2024-06-26 00:00:00,pending,Bennett-Hudson,groceries
+TXN_001813,ACC_00295,15958.1,payment,2024-03-23 00:00:00,completed,Walker Group,fuel
+TXN_001814,ACC_00206,24312.11,withdrawal,2024-01-06 00:00:00,pending,"Davis, Owens and Day",entertainment
+TXN_001815,ACC_00060,12939.87,payment,2024-08-05 00:00:00,pending,Rodriguez-White,fuel
+TXN_001816,ACC_00243,18647.54,transfer,2024-09-14 00:00:00,pending,Lowery Group,utilities
+TXN_001817,ACC_00218,39276.88,payment,2024-02-27 00:00:00,pending,Gonzalez-Murphy,electronics
+TXN_001818,ACC_00303,357.77,transfer,2024-03-17 00:00:00,completed,Peterson-Munoz,fuel
+TXN_001819,ACC_00145,2436.69,credit,2024-08-10 00:00:00,completed,Park Group,fuel
+TXN_001820,ACC_00307,18361.54,transfer,2024-08-23 00:00:00,completed,Ramirez Inc,utilities
+TXN_001821,ACC_00013,14814.26,payment,2024-12-11 00:00:00,completed,"Moore, Harrison and Bowman",entertainment
+TXN_001822,ACC_00229,,transfer,2024-07-01 00:00:00,completed,Carroll-Huerta,groceries
+TXN_001823,ACC_00019,5593.05,payment,2024-11-01 00:00:00,completed,Brown-Stokes,healthcare
+TXN_001824,ACC_00049,4211.5,debit,2024-03-30 00:00:00,completed,Irwin-Lewis,fuel
+TXN_001825,ACC_00177,44636.91,withdrawal,2024-08-08 00:00:00,completed,Parrish Ltd,healthcare
+TXN_001826,ACC_00021,28457.72,credit,2024-09-25 00:00:00,completed,Nelson-Reid,groceries
+TXN_001827,ACC_00052,30471.58,withdrawal,2024-03-16 00:00:00,completed,Thomas LLC,electronics
+TXN_001828,ACC_00155,46372.75,withdrawal,2024-06-21 00:00:00,completed,Miller-Russo,travel
+TXN_001829,ACC_00041,36082.48,withdrawal,2024-05-11 00:00:00,reversed,Savage-Warren,healthcare
+TXN_001830,ACC_00156,13056.18,payment,2024-10-19 00:00:00,completed,"Orozco, White and Brown",healthcare
+TXN_001831,ACC_00192,39949.72,payment,2024-12-21 00:00:00,completed,Peterson-Mullins,restaurant
+TXN_001832,ACC_00096,37346.02,transfer,2024-05-20 00:00:00,completed,Gonzalez Group,groceries
+TXN_001833,ACC_00093,,transfer,2024-11-05 00:00:00,completed,Alvarez-Barker,restaurant
+TXN_001834,ACC_00213,-945.76,debit,2024-04-16 00:00:00,completed,Sheppard Group,fuel
+TXN_001835,ACC_00163,-39515.01,credit,2024-11-02 00:00:00,completed,Gaines-Hudson,groceries
+TXN_001836,ACC_00033,16237.2,payment,2024-12-29 00:00:00,completed,Hoffman PLC,fuel
+TXN_001837,ACC_00305,21044.03,transfer,2024-10-28 00:00:00,completed,Miller Ltd,fuel
+TXN_001838,ACC_00175,638.24,transfer,2024-10-12 00:00:00,completed,"Jensen, Morris and Downs",fuel
+TXN_001839,ACC_00256,23102.76,debit,2024-03-18 00:00:00,completed,"Newton, Doyle and Stewart",travel
+TXN_001840,ACC_00207,19509.16,credit,2024-12-10 00:00:00,completed,Mosley and Sons,electronics
+TXN_001841,ACC_00177,24332.06,credit,2024-11-19 00:00:00,completed,Lin-Wilson,utilities
+TXN_001842,ACC_00162,14598.23,withdrawal,2024-06-04 00:00:00,completed,"Russell, Meyer and Smith",groceries
+TXN_001843,ACC_00086,31246.89,payment,2024-03-20 00:00:00,completed,Harding-Mathews,restaurant
+TXN_001844,ACC_00012,49791.33,transfer,2024-07-31 00:00:00,completed,"Cole, Montes and Davis",fuel
+TXN_001845,ACC_00276,18770.46,debit,2024-04-30 00:00:00,completed,Reese and Sons,electronics
+TXN_001846,ACC_00109,19793.53,credit,2024-02-19 00:00:00,completed,Horton-Schroeder,travel
+TXN_001847,ACC_00206,38346.06,payment,2024-03-22 00:00:00,completed,"Gray, Bailey and Farley",healthcare
+TXN_001848,ACC_00143,45023.94,transfer,2024-08-02 00:00:00,pending,"Ray, Smith and Cervantes",electronics
+TXN_001849,ACC_00163,44239.05,payment,2024-12-06 00:00:00,completed,Turner LLC,restaurant
+TXN_001850,ACC_00254,42954.24,withdrawal,2024-04-25 00:00:00,completed,"Fuentes, Martinez and Porter",fuel
+TXN_001851,ACC_00091,46196.29,withdrawal,2024-03-21 00:00:00,completed,Gutierrez-Bell,utilities
+TXN_001852,ACC_00051,32812.97,withdrawal,2024-08-25 00:00:00,completed,"Simmons, Dickson and Rogers",restaurant
+TXN_001853,ACC_00015,20520.59,payment,2024-08-02 00:00:00,completed,Ellis LLC,electronics
+TXN_001854,ACC_00210,28533.53,credit,2024-11-02 00:00:00,completed,Tran and Sons,healthcare
+TXN_001855,ACC_00242,28469.61,,2024-03-26 00:00:00,reversed,"Graham, Mitchell and Keller",groceries
+TXN_001856,ACC_00200,44176.79,payment,2024-11-03 00:00:00,completed,"Kim, Campbell and Oliver",healthcare
+TXN_001857,ACC_00123,22893.87,debit,2024-03-23 00:00:00,completed,Cowan Inc,healthcare
+TXN_001858,ACC_00034,6641.18,credit,2024-06-14 00:00:00,completed,Banks PLC,fuel
+TXN_001859,ACC_00309,12259.9,withdrawal,2024-08-23 00:00:00,reversed,Garcia-Brady,travel
+TXN_001860,ACC_00057,-25015.74,payment,2024-08-24 00:00:00,pending,"Ho, Garcia and Wallace",travel
+TXN_001861,ACC_00036,-23115.99,credit,2024-05-05 00:00:00,completed,"Shaffer, Contreras and Christian",restaurant
+TXN_001862,ACC_00198,49776.77,credit,2024-09-23 00:00:00,pending,Walker Group,entertainment
+TXN_001863,ACC_00311,6057.89,payment,2024-10-02 00:00:00,completed,"James, Gonzalez and Harrison",fuel
+TXN_001864,ACC_00031,41389.41,transfer,2024-09-03 00:00:00,pending,Bell Group,groceries
+TXN_001865,ACC_00262,19977.48,withdrawal,2024-07-05 00:00:00,completed,Odonnell-Newman,electronics
+TXN_001866,ACC_00135,7307.73,payment,2024-02-23 00:00:00,pending,"Foster, Ayers and Casey",electronics
+TXN_001867,ACC_00174,18329.56,debit,2024-03-27 00:00:00,failed,"Campbell, Hobbs and Baker",fuel
+TXN_001868,ACC_00169,13232.74,credit,2024-04-17 00:00:00,completed,Nunez-Smith,fuel
+TXN_001869,ACC_00176,37851.46,transfer,2024-05-05 00:00:00,completed,Johnson-Johnson,utilities
+TXN_001870,ACC_00291,34981.09,transfer,2024-08-18 00:00:00,completed,Randall-Stone,travel
+TXN_001871,ACC_00014,26093.75,debit,2024-03-16 00:00:00,failed,"Greene, Rogers and Haley",utilities
+TXN_001872,ACC_00082,14568.0,payment,2024-12-31 00:00:00,completed,Allen-Beltran,fuel
+TXN_001873,ACC_00151,21998.72,debit,2024-12-31 00:00:00,completed,Jensen Group,travel
+TXN_001874,ACC_00197,30376.4,transfer,2024-03-16 00:00:00,completed,Solis PLC,groceries
+TXN_001875,ACC_00076,29165.69,payment,2024-04-18 00:00:00,completed,Anderson-Fields,utilities
+TXN_001876,ACC_00265,37275.41,withdrawal,2024-09-17 00:00:00,completed,"Thompson, Strong and Holmes",travel
+TXN_001877,ACC_00301,32196.14,payment,2024-06-25 00:00:00,completed,Hall-Mckinney,utilities
+TXN_001878,ACC_00249,43271.78,debit,2024-07-12 00:00:00,failed,Gordon Ltd,fuel
+TXN_001879,ACC_00195,24205.08,credit,2024-03-30 00:00:00,completed,"Mueller, Cameron and Burton",electronics
+TXN_001880,ACC_00106,11249.01,debit,2024-06-24 00:00:00,completed,Hood-Moore,electronics
+TXN_001881,ACC_00256,9855.14,withdrawal,2024-11-28 00:00:00,completed,Harris-Davis,groceries
+TXN_001882,ACC_00104,44907.75,transfer,2024-09-25 00:00:00,completed,Smith-Carrillo,restaurant
+TXN_001883,ACC_00169,4951.01,payment,2024-11-16 00:00:00,completed,Johnson Ltd,electronics
+TXN_001884,ACC_00268,22337.18,debit,2024-01-29 00:00:00,completed,"Knapp, Miller and Reyes",travel
+TXN_001885,ACC_00126,46817.31,debit,2024-12-19 00:00:00,completed,"Gross, Lucero and Walters",fuel
+TXN_001886,ACC_00312,2021.24,transfer,2024-03-31 00:00:00,completed,Lopez-Delgado,electronics
+TXN_001887,ACC_00033,36669.53,debit,2024-04-07 00:00:00,completed,Phillips PLC,groceries
+TXN_001888,ACC_00300,11387.04,payment,2024-04-16 00:00:00,completed,Barber Group,electronics
+TXN_001889,ACC_00027,44083.22,transfer,2024-10-01 00:00:00,pending,Hopkins-Hill,electronics
+TXN_001890,ACC_00227,23920.17,credit,2024-04-10 00:00:00,completed,Burton Ltd,electronics
+TXN_001891,ACC_00307,29472.9,withdrawal,2024-10-04 00:00:00,completed,"Camacho, Rodriguez and Ho",groceries
+TXN_001892,ACC_00058,21493.48,withdrawal,2024-10-24 00:00:00,pending,Rodriguez LLC,healthcare
+TXN_001893,ACC_00234,40290.24,credit,2024-10-28 00:00:00,completed,Kline-Davis,restaurant
+TXN_001894,ACC_00091,13544.45,transfer,2024-11-03 00:00:00,completed,Kirk-Durham,entertainment
+TXN_001895,ACC_00273,14988.87,debit,2024-11-26 00:00:00,completed,Myers Group,entertainment
+TXN_001896,ACC_00094,22007.79,withdrawal,2024-11-16 00:00:00,completed,Gutierrez Group,fuel
+TXN_001897,ACC_00034,8164.91,withdrawal,2024-09-10 00:00:00,completed,"Jones, Mcdaniel and Brooks",electronics
+TXN_001898,ACC_00276,17128.16,debit,2024-08-14 00:00:00,completed,Schultz-Hayes,electronics
+TXN_001899,ACC_00257,10668.69,transfer,2024-04-28 00:00:00,completed,White Inc,fuel
+TXN_001900,ACC_00313,34240.47,debit,2024-02-22 00:00:00,completed,Keller Ltd,travel
+TXN_001901,ACC_00203,7827.82,debit,2024-06-14 00:00:00,failed,"Bond, Wilson and Cooper",travel
+TXN_001902,ACC_00243,47835.78,payment,2024-06-15 00:00:00,pending,Webb-Mendez,entertainment
+TXN_001903,ACC_00242,46642.85,transfer,2024-04-27 00:00:00,completed,"Smith, Boyd and Scott",entertainment
+TXN_001904,ACC_00162,36338.21,withdrawal,2024-06-19 00:00:00,completed,Lee Inc,restaurant
+TXN_001905,ACC_00207,293.57,credit,2024-08-01 00:00:00,reversed,"Johnson, Hunt and Hernandez",utilities
+TXN_001906,ACC_00234,40270.48,transfer,2024-11-26 00:00:00,completed,Wilson-Robinson,healthcare
+TXN_001907,ACC_00132,33106.11,transfer,2024-04-16 00:00:00,pending,Taylor-Miller,groceries
+TXN_001908,ACC_00196,21380.64,transfer,2024-06-13 00:00:00,completed,"Case, Adams and Olson",healthcare
+TXN_001909,ACC_00226,30881.62,transfer,2024-04-20 00:00:00,completed,Bailey PLC,healthcare
+TXN_001910,ACC_00246,16280.9,payment,2024-03-23 00:00:00,completed,"Phillips, Mcgee and Simpson",groceries
+TXN_001911,ACC_00250,19509.25,debit,2024-12-03 00:00:00,completed,"Potts, Nielsen and Wright",restaurant
+TXN_001912,ACC_00176,5080.98,transfer,2024-01-31 00:00:00,completed,Mcdaniel Ltd,fuel
+TXN_001913,ACC_00069,5560.43,credit,2024-05-25 00:00:00,completed,Hayden-Garcia,restaurant
+TXN_001914,ACC_00302,43698.79,transfer,2024-03-18 00:00:00,completed,"Collins, Bauer and Mckay",electronics
+TXN_001915,ACC_00294,12268.88,payment,2024-08-12 00:00:00,pending,Hamilton-Griffin,entertainment
+TXN_001916,ACC_00150,26556.06,credit,2024-10-12 00:00:00,completed,"Burgess, Cabrera and Dean",electronics
+TXN_001917,ACC_00161,,transfer,2024-12-24 00:00:00,failed,"Reyes, Gonzalez and Gomez",fuel
+TXN_001918,ACC_00240,9215.16,debit,2024-04-19 00:00:00,completed,"Weiss, Cole and Preston",utilities
+TXN_001919,ACC_00133,33886.66,transfer,2024-04-11 00:00:00,completed,"King, Ortiz and Munoz",groceries
+TXN_001920,ACC_00211,5968.33,withdrawal,2024-03-12 00:00:00,completed,"Clements, Moreno and Sanders",fuel
+TXN_001921,ACC_00031,41585.41,payment,2024-01-25 00:00:00,completed,White LLC,restaurant
+TXN_001922,ACC_00168,47989.82,payment,2024-01-17 00:00:00,completed,Gibbs-Howard,utilities
+TXN_001923,ACC_00039,3364.8,payment,2024-11-20 00:00:00,completed,Lewis LLC,electronics
+TXN_001924,ACC_00263,7919.61,credit,2024-09-29 00:00:00,completed,Thomas-Edwards,fuel
+TXN_001925,ACC_00098,32512.2,credit,2024-11-08 00:00:00,pending,Flores Inc,restaurant
+TXN_001926,ACC_00078,23291.1,transfer,2024-05-21 00:00:00,completed,"Murphy, Marshall and Pope",utilities
+TXN_001927,ACC_00222,26390.42,credit,2024-08-20 00:00:00,completed,Hoffman Group,entertainment
+TXN_001928,ACC_00200,31188.25,credit,2024-01-04 00:00:00,completed,Guzman-Rose,utilities
+TXN_001929,ACC_00115,7533.24,payment,2024-08-06 00:00:00,completed,Hoffman Ltd,utilities
+TXN_001930,ACC_00103,22893.09,payment,2024-09-29 00:00:00,failed,"Shah, Aguirre and Powers",travel
+TXN_001931,ACC_00106,38651.87,transfer,2024-04-06 00:00:00,completed,"Stafford, Fisher and Avila",groceries
+TXN_001932,ACC_00021,30100.05,debit,2024-09-30 00:00:00,completed,Li-Gonzalez,electronics
+TXN_001933,ACC_00118,43529.1,debit,2024-06-16 00:00:00,completed,Lang Group,travel
+TXN_001934,ACC_00120,-49550.27,debit,2024-08-05 00:00:00,pending,Mooney Group,groceries
+TXN_001935,ACC_00226,43883.1,credit,2024-03-11 00:00:00,pending,Martinez and Sons,restaurant
+TXN_001936,ACC_00107,22203.18,withdrawal,2024-01-14 00:00:00,completed,"Murphy, Reyes and Ray",fuel
+TXN_001937,ACC_00195,9939.9,payment,2024-07-23 00:00:00,pending,Smith-Logan,electronics
+TXN_001938,ACC_00297,25340.1,payment,2024-03-30 00:00:00,completed,"Travis, Buck and Mitchell",healthcare
+TXN_001939,ACC_00310,47035.38,transfer,2024-03-02 00:00:00,completed,Johnson-Ferguson,utilities
+TXN_001940,ACC_00047,9557.15,payment,2024-07-31 00:00:00,completed,"Williams, Newman and Jones",entertainment
+TXN_001941,ACC_00234,-5608.5,credit,2024-09-17 00:00:00,completed,Gallegos Group,restaurant
+TXN_001942,ACC_00052,48078.82,transfer,2024-07-23 00:00:00,completed,"Turner, Stewart and Reed",entertainment
+TXN_001943,ACC_00154,21713.1,debit,2024-02-03 00:00:00,reversed,Hawkins LLC,electronics
+TXN_001944,ACC_00200,32182.66,withdrawal,2024-11-29 00:00:00,completed,Salazar-Long,entertainment
+TXN_001945,ACC_00024,44867.59,debit,2024-11-27 00:00:00,pending,"Riggs, Snyder and Davidson",travel
+TXN_001946,ACC_00266,473.6,debit,2024-10-16 00:00:00,completed,Cameron PLC,fuel
+TXN_001947,ACC_00108,3068.46,transfer,2024-01-20 00:00:00,completed,Johnson Inc,restaurant
+TXN_001948,ACC_00090,20967.77,payment,2024-03-21 00:00:00,reversed,Taylor LLC,travel
+TXN_001949,ACC_00057,,debit,2024-07-05 00:00:00,completed,"Ramsey, Perez and Miller",healthcare
+TXN_001950,ACC_00192,20188.68,transfer,2024-06-05 00:00:00,completed,"Barrera, Wood and Leach",groceries
+TXN_001951,ACC_00241,16585.79,credit,2024-01-14 00:00:00,completed,Villa Inc,travel
+TXN_001952,ACC_00194,2334.51,payment,2024-07-27 00:00:00,completed,Ware-Williams,travel
+TXN_001953,ACC_00179,5014.76,debit,2024-03-21 00:00:00,completed,Valentine Inc,electronics
+TXN_001954,ACC_00238,48436.83,withdrawal,2024-02-27 00:00:00,failed,Murphy-Salazar,fuel
+TXN_001955,ACC_00001,42847.21,transfer,2024-03-09 00:00:00,completed,Nelson-Jackson,entertainment
+TXN_001956,ACC_00277,16150.59,transfer,2024-03-06 00:00:00,reversed,Silva Inc,electronics
+TXN_001957,ACC_00293,-24645.16,debit,2024-09-01 00:00:00,completed,Flores and Sons,travel
+TXN_001958,ACC_00043,11285.34,credit,2024-03-14 00:00:00,completed,"Barron, Church and Gutierrez",entertainment
+TXN_001959,ACC_00116,5270.36,transfer,2024-11-10 00:00:00,completed,Barnett-Boyd,entertainment
+TXN_001960,ACC_00237,35525.92,payment,2024-06-17 00:00:00,completed,Lane Ltd,entertainment
+TXN_001961,ACC_00192,16403.92,debit,2024-03-08 00:00:00,completed,Bray-Morris,groceries
+TXN_001962,ACC_00102,31597.69,debit,2024-07-16 00:00:00,completed,"Webb, Davis and Miranda",groceries
+TXN_001963,ACC_00166,8102.64,credit,2024-05-01 00:00:00,completed,"Miller, Hansen and Salas",fuel
+TXN_001964,ACC_00296,9395.54,withdrawal,2024-06-25 00:00:00,completed,"Holland, Foley and Neal",healthcare
+TXN_001965,ACC_00280,31069.41,withdrawal,2024-08-20 00:00:00,completed,Bonilla Inc,entertainment
+TXN_001966,ACC_00173,38427.87,transfer,2024-12-01 00:00:00,reversed,Smith and Sons,travel
+TXN_001967,ACC_00250,-17055.74,payment,2024-05-10 00:00:00,completed,Cardenas-Lopez,electronics
+TXN_001968,ACC_00266,42812.16,transfer,2024-12-08 00:00:00,completed,Peterson PLC,utilities
+TXN_001969,ACC_00279,32118.21,debit,2024-08-06 00:00:00,completed,"Palmer, Edwards and Blackburn",fuel
+TXN_001970,ACC_00152,6022.68,debit,2024-02-26 00:00:00,failed,"Gibson, Moore and Wagner",entertainment
+TXN_001971,ACC_00043,21813.84,payment,2024-08-19 00:00:00,completed,Robinson LLC,healthcare
+TXN_001972,ACC_00114,42002.24,credit,2024-03-13 00:00:00,completed,Hester-Parrish,utilities
+TXN_001973,ACC_00078,30050.81,payment,2024-09-26 00:00:00,failed,"Harris, Ross and Jones",groceries
+TXN_001974,ACC_00118,18139.18,payment,2024-09-29 00:00:00,completed,Martin-Parker,travel
+TXN_001975,ACC_00116,34023.04,debit,2024-02-21 00:00:00,completed,"Wong, Thomas and Walter",restaurant
+TXN_001976,ACC_00206,13928.28,transfer,2024-04-13 00:00:00,completed,"Rodriguez, Smith and Murray",restaurant
+TXN_001977,ACC_00070,23405.53,transfer,2024-08-31 00:00:00,completed,Johnson-Stanley,entertainment
+TXN_001978,ACC_00160,27792.31,debit,2024-12-28 00:00:00,failed,Bell-Wilson,electronics
+TXN_001979,ACC_00072,37760.93,debit,2024-01-31 00:00:00,completed,"Miller, Reynolds and Hernandez",travel
+TXN_001980,ACC_00082,19568.0,withdrawal,2024-05-04 00:00:00,completed,"Jordan, Cook and Alexander",healthcare
+TXN_001981,ACC_00037,41718.11,debit,2024-05-07 00:00:00,reversed,Davis-Wong,entertainment
+TXN_001982,ACC_00064,44633.0,payment,2024-03-12 00:00:00,failed,"Reilly, Lee and Lopez",travel
+TXN_001983,ACC_00142,22174.63,transfer,2024-04-15 00:00:00,completed,Wheeler PLC,electronics
+TXN_001984,ACC_00053,15564.92,payment,2024-09-23 00:00:00,completed,"Snyder, Hamilton and Maldonado",fuel
+TXN_001985,ACC_00278,41113.8,payment,2024-06-01 00:00:00,completed,"Wright, Rodriguez and Wilson",electronics
+TXN_001986,ACC_00021,43763.02,withdrawal,2024-06-23 00:00:00,pending,Johnston and Sons,entertainment
+TXN_001987,ACC_00219,,payment,2024-02-27 00:00:00,completed,Patel LLC,fuel
+TXN_001988,ACC_00053,11239.42,credit,2024-05-29 00:00:00,reversed,Andrade Ltd,utilities
+TXN_001989,ACC_00254,43469.37,withdrawal,2024-05-03 00:00:00,completed,"Sullivan, Long and Robinson",electronics
+TXN_001990,ACC_00142,42117.83,transfer,2024-05-23 00:00:00,completed,"Adams, Harris and Floyd",utilities
+TXN_001991,ACC_00129,33352.25,transfer,2024-08-02 00:00:00,completed,Walsh-Mccarthy,electronics
+TXN_001992,ACC_00125,40301.51,,2024-12-31 00:00:00,completed,Gross-Davis,restaurant
+TXN_001993,ACC_00250,13295.05,payment,2024-12-06 00:00:00,completed,"Velez, Howell and Stevenson",restaurant
+TXN_001994,ACC_00196,-25953.15,credit,2024-11-06 00:00:00,completed,"Allen, Edwards and Jones",electronics
+TXN_001995,ACC_00123,,transfer,2024-10-21 00:00:00,completed,Cook Group,restaurant
+TXN_001996,ACC_00021,35917.27,transfer,2024-07-20 00:00:00,completed,Rivers Ltd,fuel
+TXN_001997,ACC_00268,28671.51,credit,2024-08-23 00:00:00,failed,Patterson-Smith,restaurant
+TXN_001998,ACC_00111,45404.98,payment,2024-12-08 00:00:00,completed,Ibarra-Jackson,utilities
+TXN_001999,ACC_00212,14620.92,credit,2024-02-20 00:00:00,completed,Wheeler Group,entertainment
+TXN_002000,ACC_00177,40920.24,transfer,2024-07-02 00:00:00,reversed,"Smith, Marks and Kennedy",healthcare
+TXN_001238,ACC_00204,46501.54,transfer,2024-04-17 00:00:00,completed,Decker and Sons,travel
+TXN_001231,ACC_00030,34427.58,withdrawal,2024-11-21 00:00:00,failed,"Wilson, Roberts and Lee",healthcare
+TXN_001550,ACC_00149,34005.51,debit,2024-10-17 00:00:00,completed,Bentley-Thomas,travel
+TXN_000250,ACC_00160,43302.95,transfer,2024-08-26 00:00:00,completed,"Nguyen, Olson and Freeman",fuel
+TXN_001694,ACC_00071,13160.2,transfer,2024-09-09 00:00:00,completed,"White, Campbell and Collins",electronics
+TXN_001658,ACC_00293,10210.06,transfer,2024-05-01 00:00:00,pending,"Cooper, Swanson and Mayo",restaurant
+TXN_001515,ACC_00178,13740.93,withdrawal,2024-06-03 00:00:00,completed,Turner-Carlson,utilities
+TXN_000304,ACC_00284,20469.9,payment,2024-04-07 00:00:00,completed,Berry Group,entertainment
+TXN_000661,ACC_00233,1255.36,payment,2024-08-18 00:00:00,failed,Chavez-Mason,healthcare
+TXN_000216,ACC_00129,32732.85,credit,2024-02-17 00:00:00,completed,Williams and Sons,travel
+TXN_001974,ACC_00118,18139.18,payment,2024-09-29 00:00:00,completed,Martin-Parker,travel
+TXN_001251,ACC_00063,1293.76,payment,2024-03-12 00:00:00,completed,"Blackwell, Clark and Miller",healthcare
+TXN_001718,ACC_00270,37758.54,credit,2024-01-11 00:00:00,completed,Jones-Cook,fuel
+TXN_001790,ACC_00184,35067.4,credit,2024-06-14 00:00:00,completed,West-Anderson,fuel
+TXN_000419,ACC_00152,34532.84,debit,2024-02-01 00:00:00,pending,Lambert-Nelson,groceries
+TXN_000739,ACC_00268,25852.31,payment,2024-08-26 00:00:00,completed,Smith PLC,fuel
+TXN_000199,ACC_00218,27322.2,credit,2024-08-13 00:00:00,completed,"Brown, Kelly and Moore",healthcare
+TXN_001865,ACC_00262,19977.48,withdrawal,2024-07-05 00:00:00,completed,Odonnell-Newman,electronics
+TXN_000114,ACC_00285,33940.72,,2024-11-16 00:00:00,completed,Olsen Ltd,utilities
+TXN_000153,ACC_00152,38610.65,debit,2024-02-13 00:00:00,completed,"Ryan, Garza and Bryant",electronics
